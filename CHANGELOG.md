@@ -13,6 +13,13 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html), read for a person
 
 ## [Unreleased]
 
+### Changed
+- **`audit/` renamed to `fidelity-ledger/`.** Aligns this repo with the naming used across the
+  other perspective skills (a top-level, human-facing folder holding `provenance.md`, sibling to
+  `references/`, never loaded by the host agent). This repo already kept the provenance ledger
+  outside `references/`, so only the folder name changed — pure rename, no content changes.
+  `README.md` and `.github/workflows/validate-skill.yml` updated to reference the new path.
+
 ### Fixed
 - Repository layout now matches the one documented in `README.md` and already referenced by
   `SKILL.md`. The reference files, the provenance ledger, and the CI workflow sat loose at the

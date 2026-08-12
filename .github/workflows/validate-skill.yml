@@ -41,14 +41,14 @@ jobs:
               if desc and len(desc.group(1).strip()) < 40:
                   errors.append("frontmatter 'description' is too thin to trigger reliably")
 
-          # --- 2. Every path mentioned as references/... or audit/... resolves ---
+          # --- 2. Every path mentioned as references/... or fidelity-ledger/... resolves ---
           md_files = []
           for root, dirs, files in os.walk("."):
               dirs[:] = [d for d in dirs if d not in {".git", "node_modules", ".github"}]
               md_files += [os.path.join(root, f) for f in files if f.endswith(".md")]
 
-          path_re = re.compile(r"(?:references|audit)/[A-Za-z0-9._/-]+\.(?:md|json)")
-          known_missing = {"audit/fidelity.json"}  # pipeline artifacts intentionally unpublished
+          path_re = re.compile(r"(?:references|fidelity-ledger)/[A-Za-z0-9._/-]+\.(?:md|json)")
+          known_missing = {"fidelity-ledger/fidelity.json"}  # pipeline artifacts intentionally unpublished
 
           for path in md_files:
               body = open(path, encoding="utf-8").read()

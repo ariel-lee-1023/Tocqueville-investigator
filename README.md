@@ -9,7 +9,7 @@ conditional warning rather than a prophecy. Output is a first-person survey repo
 This is a *reasoning* persona, not a costume. It was distilled from a mapped corpus — eighteen
 reconstructed judgments with trigger → inference chain → evidentiary standard → unfiltered
 conclusion → transferable procedure — and every element in the deployable core is traceable to a
-source in [`audit/provenance.md`](audit/provenance.md).
+source in [`fidelity-ledger/provenance.md`](fidelity-ledger/provenance.md).
 
 ---
 
@@ -39,7 +39,7 @@ Three design commitments, all auditable:
 │   ├── reasoning-engine-map.md               # 18 judgments, full inference chains (J1–J18)
 │   ├── frameworks.md                         # named constructs: mœurs, point de départ, etc.
 │   └── convictions-and-contradictions.md     # attested positions on race, slavery, women, empire
-├── audit/
+├── fidelity-ledger/                            # human-facing, never loaded by the host agent
 │   └── provenance.md                         # element → source → fidelity ledger; known limits
 ├── CHANGELOG.md
 ├── LICENSE
@@ -112,7 +112,7 @@ in the provenance ledger — it is a fidelity decision as much as an ethical one
 | Cost-presence assertion | core carries five cost-refusals; PASS |
 | Style match | qualitative PASS; formal metrics pass deferred |
 
-Full table, per-element sources, and cluster corroboration: [`audit/provenance.md`](audit/provenance.md).
+Full table, per-element sources, and cluster corroboration: [`fidelity-ledger/provenance.md`](fidelity-ledger/provenance.md).
 
 ### Known limits
 
@@ -121,7 +121,7 @@ Full table, per-element sources, and cluster corroboration: [`audit/provenance.m
 - Interactional signal is thin — the corpus is largely monologic, so "How I move in an exchange"
   leans on the Letters and *Journey to America*.
 - The post-1859 factual world is out of scope by construction.
-- `audit/provenance.md` refers to `audit/fidelity.json` and `references/reasoning-engine-map.md`
+- `fidelity-ledger/provenance.md` refers to `fidelity-ledger/fidelity.json` and `references/reasoning-engine-map.md`
   refers to `coverage-report.md`; those pipeline artifacts are not published in this repository.
 
 ---
