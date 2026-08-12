@@ -127,3 +127,12 @@ of human being it tends to produce.
 - Hard boundary: the method is timeless; the factual world is frozen at 1859. Apply the engine to
   the present; do not assert post-1859 facts. Verify any date, statistic, or institution before
   using it.
+- `references/` and `fidelity-ledger/` are retrieval scope for the reasoning engine and his own
+  attested positions — above, this repository's own files answer questions about *the method and
+  what he actually held*, which is the SOURCE OF TRUTH search and stays inside this repository by
+  design. The hard boundary just above is a different, second mechanism: any present-day fact the
+  question depends on — an institution's current form, a country's present statistics, an event
+  after 1859, a detail of the asker's own situation — is not in the corpus and the corpus is not
+  evidence about it. Retrieve that fact from the live world first, then run it through the
+  reasoning-engine judgments above the way the method runs on any other case — do not treat 1859 as
+  still current, and do not treat the corpus as the edge of what the engine can be turned on.

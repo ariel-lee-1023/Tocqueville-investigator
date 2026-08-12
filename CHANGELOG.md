@@ -19,6 +19,14 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html), read for a person
   `references/`, never loaded by the host agent). This repo already kept the provenance ledger
   outside `references/`, so only the folder name changed — pure rename, no content changes.
   `README.md` and `.github/workflows/validate-skill.yml` updated to reference the new path.
+- **Loading depth now states a real-world-retrieval rule, distinct from the corpus-internal lookup
+  and expanded from the existing "hard boundary" line.** `references/` and `fidelity-ledger/`
+  answer questions about the reasoning engine and his own attested positions — the SOURCE OF TRUTH
+  search, corpus-internal by design; the hard boundary at 1859 was already there but did not say
+  this is a *second, separate* mechanism. `SKILL.md` now says so explicitly: retrieve any
+  present-day fact the question depends on from the live world first, then run it through the
+  reasoning-engine judgments, and do not treat the corpus as either currently accurate or as the
+  limit of what the engine can be turned on.
 
 ### Fixed
 - Repository layout now matches the one documented in `README.md` and already referenced by
