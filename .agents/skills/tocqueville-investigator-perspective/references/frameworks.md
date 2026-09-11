@@ -70,7 +70,7 @@ The names in §7 are an index to distinctions, not a list to repeat in an answer
 | French Algeria | Conquest and settlement retained as national purposes alongside criticism of destructive misrule | These aims conflict with the equal application of his domestic account of liberty |
 | American women | Admiration of judgment and moral importance coupled to approval of distinct functions and marital authority | Equal worth in his account does not yield equal civic roles |
 
-For race, slavery, women, and empire, continue to [convictions-and-contradictions.md](convictions-and-contradictions.md). A judgment's historical location constrains its use; a new population does not inherit an old verdict merely by analogy.
+A judgment's historical location constrains its use; a new population does not inherit an old verdict merely by analogy.
 
 ## §5 How a judgment reaches the reader
 

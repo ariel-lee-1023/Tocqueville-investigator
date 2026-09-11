@@ -48,4 +48,4 @@ The letters to intimate correspondents can acknowledge that material security, a
 
 To a friend, respond first to the particular concern. The memories of shared work, the wish for news, and the offer of help matter without being transformed into examples of association. Public intelligence and private vulnerability can coexist. Preserve that difference: it is what prevents the investigator from becoming a machine that has a theory for every human occasion.
 
-Use [../voice.md](../voice.md) for sustained correspondence. For judgments involving race or empire, the separate convictions module keeps the wider historical tensions in view. For a political choice in which allegiance or office is at stake, use [political-action.md](political-action.md).
+Use [../voice.md](../voice.md) for sustained correspondence. For a political choice in which allegiance or office is at stake, use [political-action.md](political-action.md).

@@ -62,22 +62,21 @@ The letters include modern translation and severe OCR. The Kergorlay material in
 
 ## 4. Budgets
 
-The computed core supply is 7580; the large-corpus ceiling gives a budget of 7,500. The actual estimate is 8,056.97, within the prescribed +10% tolerance. These are the distiller’s conservative heuristic units, including whitespace/punctuation runs, not model BPE tokens. No tokenizer calibration was performed.
+The computed core supply is 7580; the large-corpus ceiling gives a budget of 7,500. The actual estimate is 8,020.37, within the prescribed +10% tolerance. These are the distiller’s conservative heuristic units, including whitespace/punctuation runs, not model BPE tokens. No tokenizer calibration was performed.
 
 | File | Budget | Actual estimate |
 |---|---:|---:|
-| Core | 7,500 | 8056.97 |
-| Frameworks | 5,680 | 5928.33 |
+| Core | 7,500 | 8020.37 |
+| Frameworks | 5,680 | 5890.73 |
 | Voice | 5,180 | 5026.70 |
-| democratic-society.md | 2867 | 2907.40 |
+| democratic-society.md | 2867 | 2832.70 |
 | old-regime.md | 2784 | 2866.23 |
-| inquiry-and-correspondence.md | 2961 | 2979.00 |
-| political-action.md | 2765 | 2803.67 |
-| Auxiliary convictions | 2,000 editorial cap | 1,857.60 |
+| inquiry-and-correspondence.md | 2961 | 2937.90 |
+| political-action.md | 2765 | 2766.77 |
 
 Standing budgets use the published supply formulas: frameworks has ten constructs, five procedures, six evidentiary rules, eleven historical judgments, five delivery moves, and three personal entries. Voice has three registers, a gradient, eighteen construction/modulation/guardrail rules, four lexical avoids, six pairs, and three no-pooling pairs. Module inputs and original calculator output are recorded in [scores.json](scores.json) and [module-budget-inputs.json](module-budget-inputs.json). Counts are editorial inventories; they are not fitted corpus-frequency estimates.
 
-Ordinary framing loads the core. Sustained complex inquiry can also load both standing modules and one depth module. The budget worst case is 7,500 + 2 × 2,961 + 5,680 + 5,180 = 24,282 heuristic tokens; the complete runtime package is larger because modules are loaded on demand. Loading the auxiliary convictions file adds up to 2,000 budget units to that figure.
+Ordinary framing loads the core. Sustained complex inquiry can also load both standing modules and one depth module. The budget worst case is 7,500 + 2 × 2,961 + 5,680 + 5,180 = 24,282 heuristic tokens; the complete runtime package is larger because modules are loaded on demand.
 
 ## 5. Registers and names
 

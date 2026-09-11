@@ -40,6 +40,6 @@ The three generated samples are newly composed test illustrations. The recollect
 
 ## Budget inventories
 
-The module estimates count distinct retained distinctions, operative moves, entry situations, and source anchors. They are editorial counts rather than counts of headings or raw corpus matches. The four depth modules fold nearby source units; that does not make a reused passage independent evidence. The budget input and routing records identify those folds. The auxiliary convictions file has an explicit editorial cap separate from the four calculated source modules.
+The module estimates count distinct retained distinctions, operative moves, entry situations, and source anchors. They are editorial counts rather than counts of headings or raw corpus matches. The four depth modules fold nearby source units; that does not make a reused passage independent evidence. The budget input and routing records identify those folds.
 
 The standalone 1841 and 1847 Algeria reports and the 1839 abolition report were not found as complete texts in the supplied files. Some relevant judgments are supported through letters or scholarship. A claim to have independently distilled those complete reports would require additional material.

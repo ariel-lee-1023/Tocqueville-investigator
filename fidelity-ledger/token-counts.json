@@ -7,36 +7,25 @@
   "files": [
     {
       "file": "SKILL.md",
-      "chars": 21149,
+      "chars": 21037,
       "chars_han": 0,
       "chars_kana": 0,
-      "words_latin": 3215,
+      "words_latin": 3203,
       "digit_runs": 14,
-      "punctuation_runs": 557,
-      "whitespace_runs": 3285,
-      "tokens_est": 8056.97
-    },
-    {
-      "file": "references/convictions-and-contradictions.md",
-      "chars": 5372,
-      "chars_han": 0,
-      "chars_kana": 0,
-      "words_latin": 760,
-      "digit_runs": 3,
-      "punctuation_runs": 99,
-      "whitespace_runs": 763,
-      "tokens_est": 1857.6
+      "punctuation_runs": 546,
+      "whitespace_runs": 3275,
+      "tokens_est": 8020.37
     },
     {
       "file": "references/frameworks.md",
-      "chars": 16539,
+      "chars": 16417,
       "chars_han": 0,
       "chars_kana": 0,
-      "words_latin": 2294,
+      "words_latin": 2282,
       "digit_runs": 34,
-      "punctuation_runs": 471,
-      "whitespace_runs": 2419,
-      "tokens_est": 5928.33
+      "punctuation_runs": 458,
+      "whitespace_runs": 2410,
+      "tokens_est": 5890.73
     },
     {
       "file": "references/voice.md",
@@ -51,25 +40,25 @@
     },
     {
       "file": "references/clusters/democratic-society.md",
-      "chars": 8129,
+      "chars": 7891,
       "chars_han": 0,
       "chars_kana": 0,
-      "words_latin": 1188,
+      "words_latin": 1159,
       "digit_runs": 0,
-      "punctuation_runs": 180,
-      "whitespace_runs": 1183,
-      "tokens_est": 2907.4
+      "punctuation_runs": 169,
+      "whitespace_runs": 1157,
+      "tokens_est": 2832.7
     },
     {
       "file": "references/clusters/inquiry-and-correspondence.md",
-      "chars": 8139,
+      "chars": 8022,
       "chars_han": 0,
       "chars_kana": 0,
-      "words_latin": 1220,
+      "words_latin": 1203,
       "digit_runs": 0,
-      "punctuation_runs": 172,
-      "whitespace_runs": 1221,
-      "tokens_est": 2979.0
+      "punctuation_runs": 170,
+      "whitespace_runs": 1204,
+      "tokens_est": 2937.9
     },
     {
       "file": "references/clusters/old-regime.md",
@@ -84,24 +73,24 @@
     },
     {
       "file": "references/clusters/political-action.md",
-      "chars": 7790,
+      "chars": 7651,
       "chars_han": 0,
       "chars_kana": 0,
-      "words_latin": 1140,
+      "words_latin": 1127,
       "digit_runs": 5,
-      "punctuation_runs": 167,
-      "whitespace_runs": 1142,
-      "tokens_est": 2803.67
+      "punctuation_runs": 157,
+      "whitespace_runs": 1132,
+      "tokens_est": 2766.77
     }
   ],
   "total": {
-    "chars": 87501,
+    "chars": 81401,
     "chars_han": 0,
     "chars_kana": 0,
-    "words_latin": 12791,
-    "digit_runs": 193,
-    "punctuation_runs": 2298,
-    "whitespace_runs": 13151,
-    "tokens_est": 32425.9
+    "words_latin": 11948,
+    "digit_runs": 190,
+    "punctuation_runs": 2152,
+    "whitespace_runs": 12316,
+    "tokens_est": 30341.4
   }
 }

@@ -46,6 +46,6 @@ The letters on Algeria and the colonial discussion show a desire for French powe
 
 This matters because a reconstructed investigator can otherwise become cleaner than the actor whose method it borrows. The account must preserve what a policy aims at, whose freedom enters its reasoning, and who is treated as an object of rule. National ambition can conflict with the broad language of liberty. Criticism of excess does not undo endorsement of domination.
 
-The proper use in a new case is to expose the competing objectives and the unequal standing assigned to affected people, while keeping Tocqueville's own historical judgments located in their period. It is not to manufacture a recommendation for conquest under his name. Continue to [../convictions-and-contradictions.md](../convictions-and-contradictions.md) for the particular boundaries of those judgments.
+The proper use in a new case is to expose the competing objectives and the unequal standing assigned to affected people, while keeping Tocqueville's own historical judgments located in their period. It is not to manufacture a recommendation for conquest under his name.
 
 For slower changes in administrative and social relations, use [old-regime.md](old-regime.md). For the capacities built through ordinary self-government, use [democratic-society.md](democratic-society.md). The crisis does not replace these levels of explanation; it reveals where they meet particular action.

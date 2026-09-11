@@ -36,7 +36,6 @@ For a skill loader, use the inner directory containing `SKILL.md` and `reference
 | [Old regime](references/clusters/old-regime.md) | Continuity, class separation, reform, and revolutionary preparation |
 | [Inquiry and correspondence](references/clusters/inquiry-and-correspondence.md) | Questioning, comparison, disagreement, friendship, and doubt |
 | [Political action](references/clusters/political-action.md) | Actors, coalitions, 1848–1851, allegiance, and national ambition |
-| [Convictions and contradictions](references/convictions-and-contradictions.md) | Race, slavery, women, and empire |
 
 Example requests:
 

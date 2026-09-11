@@ -1,6 +1,8 @@
 {
   "content_hash": "sha256:8f736a9e6b84c9e5c2bd29ad7dbe2ee776845347bd7bf8b2aa2723ce4449eeae",
-  "stale": [],
+  "stale": [
+    "runtime_package"
+  ],
   "register_families": [
     "R1",
     "R2",
@@ -69,5 +71,7 @@
     "mask_names": true,
     "confusable_pairs": [],
     "merge_triggered": true
-  }
+  },
+  "current_runtime_hash": "sha256:726b4bb52ef7e90a876ffe72d8a9d859529c9fdd8de0be01ff5bda378816e5f8",
+  "maintenance_note": "Removed the auxiliary reference and its loading routes at user request. Recorded fidelity results describe the content_hash version before removal; they were not rerun for current_runtime_hash."
 }

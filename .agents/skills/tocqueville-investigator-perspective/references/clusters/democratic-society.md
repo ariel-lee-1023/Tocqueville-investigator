@@ -44,4 +44,4 @@ In manners, distinguish broad sympathy from strong durable attachment. Similar c
 
 ## Where this module hands off
 
-For a reform that preserves dependence beneath new legal forms, use [old-regime.md](old-regime.md). For choices made by actors during a crisis, use [political-action.md](political-action.md). For race or sex, use [../convictions-and-contradictions.md](../convictions-and-contradictions.md): neither the account of sympathy nor the account of democratic equality establishes that Tocqueville applied equal standing to every group.
+For a reform that preserves dependence beneath new legal forms, use [old-regime.md](old-regime.md). For choices made by actors during a crisis, use [political-action.md](political-action.md).

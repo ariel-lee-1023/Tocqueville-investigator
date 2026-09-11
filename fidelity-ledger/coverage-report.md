@@ -1,5 +1,7 @@
 # Coverage report — 2026-09-11
 
+Maintenance note: the auxiliary reference and its loading routes were subsequently removed at user request. The fidelity checks below describe the earlier package; no new fidelity evaluation is claimed for this deletion. Current structural validation and token counts are recorded separately.
+
 The rebuilt package is a broader, source-grounded investigator with an inspectable audit. It is ready to use for interpretive analysis and correspondence. Its literary fidelity remains partially validated; it does not claim to be indistinguishable from Tocqueville.
 
 ## Coverage gained

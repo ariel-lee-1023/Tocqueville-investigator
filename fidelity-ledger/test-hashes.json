@@ -9,19 +9,21 @@
   "results": {
     "projection_final": {
       "content_hash": "sha256:8f736a9e6b84c9e5c2bd29ad7dbe2ee776845347bd7bf8b2aa2723ce4449eeae",
-      "stale": false
+      "stale": true
     },
     "cost_final": {
       "content_hash": "sha256:8f736a9e6b84c9e5c2bd29ad7dbe2ee776845347bd7bf8b2aa2723ce4449eeae",
-      "stale": false
+      "stale": true
     },
     "style_final": {
       "content_hash": "sha256:8f736a9e6b84c9e5c2bd29ad7dbe2ee776845347bd7bf8b2aa2723ce4449eeae",
-      "stale": false
+      "stale": true
     },
     "discrimination_source_profile": {
       "content_hash": "sha256:8f736a9e6b84c9e5c2bd29ad7dbe2ee776845347bd7bf8b2aa2723ce4449eeae",
       "stale": false
     }
-  }
+  },
+  "current_runtime_hash": "sha256:726b4bb52ef7e90a876ffe72d8a9d859529c9fdd8de0be01ff5bda378816e5f8",
+  "maintenance_note": "Runtime-bound results below are historical after the auxiliary reference was removed. Source profiles and sample bytes are unchanged."
 }

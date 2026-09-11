@@ -1,3 +1,7 @@
+# Remove auxiliary reference — 2026-09-11
+
+Deleted the auxiliary reference titled “Convictions that must remain together” at user request. Removed its loading routes, links, and budget entry. Refreshed runtime token counts and marked earlier fidelity results as historical.
+
 # Rebuild — 2026-09-11
 
 Re-distilled the five supplied books; added Old Regime and Recollections mechanisms, costly political choices, correspondence, and three measured translated registers. Corrected deterministic method rules and historical oversimplifications. Replaced unsupported fidelity claims with inspectable records and explicit limits. Made the inner Agent Skill the canonical package with root compatibility symlinks; added validation and source-measurement replay.
