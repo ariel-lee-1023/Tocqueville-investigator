@@ -1,0 +1,823 @@
+{
+  "passages": [
+    {
+      "id": "H001",
+      "domain": "institutions",
+      "start_line": 97,
+      "end_line": 160,
+      "heading": "Chapter I: Exterior Form Of North America"
+    },
+    {
+      "id": "H002",
+      "domain": "institutions",
+      "start_line": 161,
+      "end_line": 234,
+      "heading": "Chapter II: Origin Of The Anglo-Americans — Part I"
+    },
+    {
+      "id": "H003",
+      "domain": "institutions",
+      "start_line": 235,
+      "end_line": 326,
+      "heading": "Chapter II: Origin Of The Anglo-Americans — Part II"
+    },
+    {
+      "id": "H004",
+      "domain": "institutions",
+      "start_line": 327,
+      "end_line": 378,
+      "heading": "Chapter III: Social Conditions Of The Anglo-Americans"
+    },
+    {
+      "id": "H005",
+      "domain": "institutions",
+      "start_line": 379,
+      "end_line": 398,
+      "heading": "Chapter IV: The Principle Of The Sovereignty Of The People In America"
+    },
+    {
+      "id": "H006",
+      "domain": "institutions",
+      "start_line": 399,
+      "end_line": 496,
+      "heading": "Chapter V: Necessity Of Examining The Condition Of The States — Part I"
+    },
+    {
+      "id": "H007",
+      "domain": "institutions",
+      "start_line": 497,
+      "end_line": 594,
+      "heading": "Chapter V: Necessity Of Examining The Condition Of The States — Part II"
+    },
+    {
+      "id": "H008",
+      "domain": "institutions",
+      "start_line": 595,
+      "end_line": 684,
+      "heading": "Chapter V: Necessity Of Examining The Condition Of The States — Part III"
+    },
+    {
+      "id": "H009",
+      "domain": "institutions",
+      "start_line": 685,
+      "end_line": 726,
+      "heading": "Chapter VI: Judicial Power In The United States"
+    },
+    {
+      "id": "H010",
+      "domain": "institutions",
+      "start_line": 727,
+      "end_line": 764,
+      "heading": "Chapter VII: Political Jurisdiction In The United States"
+    },
+    {
+      "id": "H011",
+      "domain": "institutions",
+      "start_line": 765,
+      "end_line": 852,
+      "heading": "Chapter VIII: The Federal Constitution — Part I"
+    },
+    {
+      "id": "H012",
+      "domain": "institutions",
+      "start_line": 853,
+      "end_line": 928,
+      "heading": "Chapter VIII: The Federal Constitution — Part II"
+    },
+    {
+      "id": "H013",
+      "domain": "institutions",
+      "start_line": 929,
+      "end_line": 1008,
+      "heading": "Chapter VIII: The Federal Constitution — Part III Re-election Of The President"
+    },
+    {
+      "id": "H014",
+      "domain": "institutions",
+      "start_line": 1009,
+      "end_line": 1080,
+      "heading": "Chapter VIII: The Federal Constitution — Part IV Procedure Of The Federal Courts"
+    },
+    {
+      "id": "H015",
+      "domain": "institutions",
+      "start_line": 1081,
+      "end_line": 1156,
+      "heading": "Chapter VIII: The Federal Constitution — Part V"
+    },
+    {
+      "id": "H016",
+      "domain": "institutions",
+      "start_line": 1157,
+      "end_line": 1166,
+      "heading": "Chapter IX: Why The People May Strictly Be Said To Govern In The United STAT E S"
+    },
+    {
+      "id": "H017",
+      "domain": "institutions",
+      "start_line": 1167,
+      "end_line": 1214,
+      "heading": "Chapter X: Parties In The United States"
+    },
+    {
+      "id": "H018",
+      "domain": "institutions",
+      "start_line": 1215,
+      "end_line": 1264,
+      "heading": "Chapter XI: Liberty Of The Press In The United States"
+    },
+    {
+      "id": "H019",
+      "domain": "institutions",
+      "start_line": 1265,
+      "end_line": 1305,
+      "heading": "Chapter XII: Political Associations In The United States"
+    },
+    {
+      "id": "H020",
+      "domain": "institutions",
+      "start_line": 1306,
+      "end_line": 1367,
+      "heading": "Chapter XIII: Government Of The Democracy In America — Part I"
+    },
+    {
+      "id": "H021",
+      "domain": "institutions",
+      "start_line": 1368,
+      "end_line": 1483,
+      "heading": "Chapter XIII: Government Of The Democracy In America — Part II Instability Of The Administration In The United States"
+    },
+    {
+      "id": "H022",
+      "domain": "institutions",
+      "start_line": 1484,
+      "end_line": 1549,
+      "heading": "Chapter XIII: Government Of The Democracy In America — Part"
+    },
+    {
+      "id": "H023",
+      "domain": "institutions",
+      "start_line": 1550,
+      "end_line": 1603,
+      "heading": "Chapter XIV: Advantages American Society Derive From Democracy — Part I"
+    },
+    {
+      "id": "H024",
+      "domain": "institutions",
+      "start_line": 1604,
+      "end_line": 1645,
+      "heading": "Chapter XIV: Advantages American Society Derive From Democracy — Part II"
+    },
+    {
+      "id": "H025",
+      "domain": "mores-race",
+      "start_line": 1646,
+      "end_line": 1681,
+      "heading": "Chapter XV: Unlimited Power Of Majority, And Its Consequences — Part I"
+    },
+    {
+      "id": "H026",
+      "domain": "mores-race",
+      "start_line": 1682,
+      "end_line": 1751,
+      "heading": "Chapter XV: Unlimited Power Of Majority, And Its Consequences — Part II"
+    },
+    {
+      "id": "H027",
+      "domain": "mores-race",
+      "start_line": 1752,
+      "end_line": 1813,
+      "heading": "Chapter XVI: Causes Mitigating Tyranny In The United States — Part I"
+    },
+    {
+      "id": "H028",
+      "domain": "mores-race",
+      "start_line": 1814,
+      "end_line": 1875,
+      "heading": "Chapter XVI: Causes Mitigating Tyranny In The United States — Part II"
+    },
+    {
+      "id": "H029",
+      "domain": "mores-race",
+      "start_line": 1876,
+      "end_line": 1936,
+      "heading": "Chapter XVII: Principal Causes Maintaining The Democratic Republic — Part I"
+    },
+    {
+      "id": "H030",
+      "domain": "mores-race",
+      "start_line": 1937,
+      "end_line": 1982,
+      "heading": "Chapter XVII: Principal Causes Maintaining The Democratic Republic — Part II"
+    },
+    {
+      "id": "H031",
+      "domain": "mores-race",
+      "start_line": 1983,
+      "end_line": 2054,
+      "heading": "Chapter XVII: Principal Causes Maintaining The Democratic Republic — Part III"
+    },
+    {
+      "id": "H032",
+      "domain": "mores-race",
+      "start_line": 2055,
+      "end_line": 2118,
+      "heading": "Chapter XVII: Principal Causes Maintaining The Democratic Republic — Part IV"
+    },
+    {
+      "id": "H033",
+      "domain": "mores-race",
+      "start_line": 2119,
+      "end_line": 2188,
+      "heading": "Chapter XVIII: Future Condition of Three Races in the United States — Part I"
+    },
+    {
+      "id": "H034",
+      "domain": "mores-race",
+      "start_line": 2189,
+      "end_line": 2276,
+      "heading": "Chapter XVIII: Future Condition Of Three Races — Part II"
+    },
+    {
+      "id": "H035",
+      "domain": "mores-race",
+      "start_line": 2277,
+      "end_line": 2354,
+      "heading": "Chapter XVIII: Future Condition Of Three Races — Part III"
+    },
+    {
+      "id": "H036",
+      "domain": "mores-race",
+      "start_line": 2355,
+      "end_line": 2426,
+      "heading": "Chapter XVIII: Future Condition Of Three Races — Part IV"
+    },
+    {
+      "id": "H037",
+      "domain": "mores-race",
+      "start_line": 2427,
+      "end_line": 2482,
+      "heading": "Chapter XVIII: Future Condition Of Three Races — Part V"
+    },
+    {
+      "id": "H038",
+      "domain": "mores-race",
+      "start_line": 2483,
+      "end_line": 2548,
+      "heading": "Chapter XVIII: Future Condition Of Three Races — Part VI"
+    },
+    {
+      "id": "H039",
+      "domain": "mores-race",
+      "start_line": 2549,
+      "end_line": 2626,
+      "heading": "Chapter XVIII: Future Condition Of Three Races — Part VII"
+    },
+    {
+      "id": "H040",
+      "domain": "mores-race",
+      "start_line": 2627,
+      "end_line": 2708,
+      "heading": "Chapter XVIII: Future Condition Of Three Races — Part VIII"
+    },
+    {
+      "id": "H041",
+      "domain": "mores-race",
+      "start_line": 2709,
+      "end_line": 2766,
+      "heading": "Chapter XVIII: Future Condition Of Three Races — Part IX"
+    },
+    {
+      "id": "H042",
+      "domain": "mores-race",
+      "start_line": 2767,
+      "end_line": 2870,
+      "heading": "Chapter XVIII: Future Condition Of Three Races — Part X"
+    },
+    {
+      "id": "H043",
+      "domain": "intellect",
+      "start_line": 2871,
+      "end_line": 2892,
+      "heading": "Chapter I: Philosophical Method Among the Americans"
+    },
+    {
+      "id": "H044",
+      "domain": "intellect",
+      "start_line": 2893,
+      "end_line": 2912,
+      "heading": "Chapter II: Of The Principal Source Of Belief Among Democratic Nations"
+    },
+    {
+      "id": "H045",
+      "domain": "intellect",
+      "start_line": 2913,
+      "end_line": 2936,
+      "heading": "Chapter III: Why The Americans Display More Readiness And More Taste For General Ideas Than Their Forefathers, The English."
+    },
+    {
+      "id": "H046",
+      "domain": "intellect",
+      "start_line": 2937,
+      "end_line": 2948,
+      "heading": "Chapter IV: Why The Americans Have Never Been So Eager As The French For General Ideas In Political Matters"
+    },
+    {
+      "id": "H047",
+      "domain": "intellect",
+      "start_line": 2949,
+      "end_line": 2988,
+      "heading": "Chapter V: Of The Manner In Which Religion In The United States Avails Itself Of Democratic Tendencies"
+    },
+    {
+      "id": "H048",
+      "domain": "intellect",
+      "start_line": 2989,
+      "end_line": 3000,
+      "heading": "Chapter VI: Of The Progress Of Roman Catholicism In The United States"
+    },
+    {
+      "id": "H049",
+      "domain": "intellect",
+      "start_line": 3001,
+      "end_line": 3012,
+      "heading": "Chapter VII: Of The Cause Of A Leaning To Pantheism Amongst Democratic Nations"
+    },
+    {
+      "id": "H050",
+      "domain": "intellect",
+      "start_line": 3013,
+      "end_line": 3024,
+      "heading": "Chapter VIII: The Principle Of Equality Suggests To The Americans The Idea Of The Indefinite Perfectibility Of Man"
+    },
+    {
+      "id": "H051",
+      "domain": "intellect",
+      "start_line": 3025,
+      "end_line": 3050,
+      "heading": "Chapter IX: The Example Of The Americans Does Not Prove That A Democratic People Can Have No Aptitude And No Taste For Science, Literature, Or Art"
+    },
+    {
+      "id": "H052",
+      "domain": "intellect",
+      "start_line": 3051,
+      "end_line": 3082,
+      "heading": "Chapter X: Why The Americans Are More Addicted To Practical Than To Theoretical Science"
+    },
+    {
+      "id": "H053",
+      "domain": "intellect",
+      "start_line": 3083,
+      "end_line": 3106,
+      "heading": "Chapter XI: Of The Spirit In Which The Americans Cultivate The Arts"
+    },
+    {
+      "id": "H054",
+      "domain": "intellect",
+      "start_line": 3107,
+      "end_line": 3118,
+      "heading": "Chapter XII: Why The Americans Raise Some Monuments So Insignificant, And Others So Important"
+    },
+    {
+      "id": "H055",
+      "domain": "intellect",
+      "start_line": 3119,
+      "end_line": 3146,
+      "heading": "Chapter XIII: Literary Characteristics Of Democratic Ages"
+    },
+    {
+      "id": "H056",
+      "domain": "intellect",
+      "start_line": 3147,
+      "end_line": 3152,
+      "heading": "Chapter XIV: The Trade Of Literature"
+    },
+    {
+      "id": "H057",
+      "domain": "intellect",
+      "start_line": 3153,
+      "end_line": 3164,
+      "heading": "Chapter XV: The Study Of Greek And Latin Literature Peculiarly Useful In Democratic Communities"
+    },
+    {
+      "id": "H058",
+      "domain": "intellect",
+      "start_line": 3165,
+      "end_line": 3190,
+      "heading": "Chapter XVI: The Effect Of Democracy On Language"
+    },
+    {
+      "id": "H059",
+      "domain": "intellect",
+      "start_line": 3191,
+      "end_line": 3218,
+      "heading": "Chapter XVII: Of Some Of The Sources Of Poetry Amongst Democratic Nations"
+    },
+    {
+      "id": "H060",
+      "domain": "intellect",
+      "start_line": 3219,
+      "end_line": 3230,
+      "heading": "Chapter XVIII: Of The Inflated Style Of American Writers And Orators"
+    },
+    {
+      "id": "H061",
+      "domain": "intellect",
+      "start_line": 3231,
+      "end_line": 3254,
+      "heading": "Chapter XIX: Some Observations On The Drama Amongst Democratic Nations"
+    },
+    {
+      "id": "H062",
+      "domain": "intellect",
+      "start_line": 3255,
+      "end_line": 3275,
+      "heading": "Chapter XX: Characteristics Of Historians In Democratic Ages"
+    },
+    {
+      "id": "H063",
+      "domain": "intellect",
+      "start_line": 3276,
+      "end_line": 3301,
+      "heading": "Chapter XXI: Of Parliamentary Eloquence In The United States"
+    },
+    {
+      "id": "H064",
+      "domain": "association",
+      "start_line": 3302,
+      "end_line": 3321,
+      "heading": "Chapter I: Why Democratic Nations Show A More Ardent And Enduring Love Of Equality Than Of Liberty"
+    },
+    {
+      "id": "H065",
+      "domain": "association",
+      "start_line": 3322,
+      "end_line": 3335,
+      "heading": "Chapter II: Of Individualism In Democratic Countries"
+    },
+    {
+      "id": "H066",
+      "domain": "association",
+      "start_line": 3336,
+      "end_line": 3347,
+      "heading": "Chapter III: Individualism Stronger At The Close Of A Democratic Revolution Than At Other Periods"
+    },
+    {
+      "id": "H067",
+      "domain": "association",
+      "start_line": 3348,
+      "end_line": 3367,
+      "heading": "Chapter IV: That The Americans Combat The Effects Of Individualism By Free Institutions"
+    },
+    {
+      "id": "H068",
+      "domain": "association",
+      "start_line": 3368,
+      "end_line": 3391,
+      "heading": "Chapter V: Of The Use Which The Americans Make Of Public Associations In Civil Life"
+    },
+    {
+      "id": "H069",
+      "domain": "association",
+      "start_line": 3392,
+      "end_line": 3415,
+      "heading": "Chapter VI: Of The Relation Between Public Associations And Newspapers"
+    },
+    {
+      "id": "H070",
+      "domain": "association",
+      "start_line": 3416,
+      "end_line": 3441,
+      "heading": "Chapter VII: Connection Of Civil And Political Associations"
+    },
+    {
+      "id": "H071",
+      "domain": "association",
+      "start_line": 3442,
+      "end_line": 3461,
+      "heading": "Chapter VIII: The Americans Combat Individualism By The Principle Of Interest Rightly Understood"
+    },
+    {
+      "id": "H072",
+      "domain": "association",
+      "start_line": 3462,
+      "end_line": 3473,
+      "heading": "Chapter IX: That The Americans Apply The Principle Of Interest Rightly Understood To Religious Matters"
+    },
+    {
+      "id": "H073",
+      "domain": "association",
+      "start_line": 3474,
+      "end_line": 3483,
+      "heading": "Chapter X: Of The Taste For Physical Well-Being In America"
+    },
+    {
+      "id": "H074",
+      "domain": "association",
+      "start_line": 3484,
+      "end_line": 3495,
+      "heading": "Chapter XI: Peculiar Effects Of The Love Of Physical Gratifications In Democratic Ages"
+    },
+    {
+      "id": "H075",
+      "domain": "association",
+      "start_line": 3496,
+      "end_line": 3505,
+      "heading": "Chapter XII: Causes Of Fanatical Enthusiasm In Some Americans"
+    },
+    {
+      "id": "H076",
+      "domain": "association",
+      "start_line": 3506,
+      "end_line": 3525,
+      "heading": "Chapter XIII: Causes Of The Restless Spirit Of Americans In The Midst Of Their Prosperity"
+    },
+    {
+      "id": "H077",
+      "domain": "association",
+      "start_line": 3526,
+      "end_line": 3541,
+      "heading": "Chapter XIV: Taste For Physical Gratifications United In America To Love Of Freedom And Attention To Public Affairs"
+    },
+    {
+      "id": "H078",
+      "domain": "association",
+      "start_line": 3542,
+      "end_line": 3565,
+      "heading": "Chapter XV: That Religious Belief Sometimes Turns The Thoughts Of The Americans To Immaterial Pleasures"
+    },
+    {
+      "id": "H079",
+      "domain": "association",
+      "start_line": 3566,
+      "end_line": 3573,
+      "heading": "Chapter XVI: That Excessive Care Of Worldly Welfare May Impair That Welfare"
+    },
+    {
+      "id": "H080",
+      "domain": "association",
+      "start_line": 3574,
+      "end_line": 3591,
+      "heading": "Chapter XVII: That In Times Marked By Equality Of Conditions And Sceptical Opinions, It Is Important To Remove To A Distance The Objects Of Human Actions"
+    },
+    {
+      "id": "H081",
+      "domain": "association",
+      "start_line": 3592,
+      "end_line": 3603,
+      "heading": "Chapter XVIII: That Amongst The Americans All Honest Callings Are Honorable"
+    },
+    {
+      "id": "H082",
+      "domain": "association",
+      "start_line": 3604,
+      "end_line": 3633,
+      "heading": "Chapter XIX: That Almost All The Americans Follow Industrial Callings"
+    },
+    {
+      "id": "H083",
+      "domain": "association",
+      "start_line": 3634,
+      "end_line": 3659,
+      "heading": "Chapter XX: That Aristocracy May Be Engendered By Manufactures"
+    },
+    {
+      "id": "H084",
+      "domain": "manners",
+      "start_line": 3660,
+      "end_line": 3687,
+      "heading": "Chapter I: That Manners Are Softened As Social Conditions Become More Equal"
+    },
+    {
+      "id": "H085",
+      "domain": "manners",
+      "start_line": 3688,
+      "end_line": 3699,
+      "heading": "Chapter II: That Democracy Renders The Habitual Intercourse Of The Americans Simple And Easy"
+    },
+    {
+      "id": "H086",
+      "domain": "manners",
+      "start_line": 3700,
+      "end_line": 3719,
+      "heading": "Chapter III: Why The Americans Show So Little Sensitiveness In Their Own Country, And Are So Sensitive In Europe"
+    },
+    {
+      "id": "H087",
+      "domain": "manners",
+      "start_line": 3720,
+      "end_line": 3729,
+      "heading": "Chapter IV: Consequences Of The Three Preceding Chapters"
+    },
+    {
+      "id": "H088",
+      "domain": "manners",
+      "start_line": 3730,
+      "end_line": 3765,
+      "heading": "Chapter V: How Democracy Affects the Relation Of Masters And Servants"
+    },
+    {
+      "id": "H089",
+      "domain": "manners",
+      "start_line": 3766,
+      "end_line": 3781,
+      "heading": "Chapter VI: That Democratic Institutions And Manners Tend To Raise Rents And Shorten The Terms Of Leases"
+    },
+    {
+      "id": "H090",
+      "domain": "manners",
+      "start_line": 3782,
+      "end_line": 3795,
+      "heading": "Chapter VII: Influence Of Democracy On Wages"
+    },
+    {
+      "id": "H091",
+      "domain": "manners",
+      "start_line": 3796,
+      "end_line": 3823,
+      "heading": "Chapter VIII: Influence Of Democracy On Kindred"
+    },
+    {
+      "id": "H092",
+      "domain": "manners",
+      "start_line": 3824,
+      "end_line": 3837,
+      "heading": "Chapter IX: Education Of Young Women In The United States"
+    },
+    {
+      "id": "H093",
+      "domain": "manners",
+      "start_line": 3838,
+      "end_line": 3855,
+      "heading": "Chapter X: The Young Woman In The Character Of A Wife"
+    },
+    {
+      "id": "H094",
+      "domain": "manners",
+      "start_line": 3856,
+      "end_line": 3887,
+      "heading": "Chapter XI: That The Equality Of Conditions Contributes To The Maintenance Of Good Morals In America"
+    },
+    {
+      "id": "H095",
+      "domain": "manners",
+      "start_line": 3888,
+      "end_line": 3907,
+      "heading": "Chapter XII: How The Americans Understand The Equality Of The Sexes"
+    },
+    {
+      "id": "H096",
+      "domain": "manners",
+      "start_line": 3908,
+      "end_line": 3919,
+      "heading": "Chapter XIII: That The Principle Of Equality Naturally Divides The Americans Into A Number Of Small Private Circles"
+    },
+    {
+      "id": "H097",
+      "domain": "manners",
+      "start_line": 3920,
+      "end_line": 3937,
+      "heading": "Chapter XIV: Some Reflections On American Manners"
+    },
+    {
+      "id": "H098",
+      "domain": "manners",
+      "start_line": 3938,
+      "end_line": 3953,
+      "heading": "Chapter XV: Of The Gravity Of The Americans, And Why It Does Not Prevent Them From Often Committing Inconsiderate Actions"
+    },
+    {
+      "id": "H099",
+      "domain": "manners",
+      "start_line": 3954,
+      "end_line": 3973,
+      "heading": "Chapter XVI: Why The National Vanity Of The Americans Is More Restless And Captious Than That Of The English"
+    },
+    {
+      "id": "H100",
+      "domain": "manners",
+      "start_line": 3974,
+      "end_line": 3985,
+      "heading": "Chapter XVII: That The Aspect Of Society In The United States Is At Once Excited And Monotonous"
+    },
+    {
+      "id": "H101",
+      "domain": "manners",
+      "start_line": 3986,
+      "end_line": 4049,
+      "heading": "Chapter XVIII: Of Honor In The United States And In Democratic Communities"
+    },
+    {
+      "id": "H102",
+      "domain": "manners",
+      "start_line": 4050,
+      "end_line": 4077,
+      "heading": "Chapter XIX: Why So Many Ambitious Men And So Little Lofty Ambition Are To Be Found In The United States"
+    },
+    {
+      "id": "H103",
+      "domain": "manners",
+      "start_line": 4078,
+      "end_line": 4091,
+      "heading": "Chapter XX: The Trade Of Place-Hunting In Certain Democratic Countries"
+    },
+    {
+      "id": "H104",
+      "domain": "manners",
+      "start_line": 4092,
+      "end_line": 4145,
+      "heading": "Chapter XXI: Why Great Revolutions Will Become More Rare"
+    },
+    {
+      "id": "H105",
+      "domain": "manners",
+      "start_line": 4146,
+      "end_line": 4173,
+      "heading": "Chapter XXII: Why Democratic Nations Are Naturally Desirous Of Peace, And Democratic Armies Of War"
+    },
+    {
+      "id": "H106",
+      "domain": "manners",
+      "start_line": 4174,
+      "end_line": 4193,
+      "heading": "Chapter XXIII: Which Is The Most Warlike And Most Revolutionary Class In Democratic Armies?"
+    },
+    {
+      "id": "H107",
+      "domain": "manners",
+      "start_line": 4194,
+      "end_line": 4219,
+      "heading": "Chapter XXIV: Causes Which Render Democratic Armies Weaker Than Other Armies At The Outset Of A Campaign, And More Formidable In Protracted Warfare"
+    },
+    {
+      "id": "H108",
+      "domain": "manners",
+      "start_line": 4220,
+      "end_line": 4229,
+      "heading": "Chapter XXV: Of Discipline In Democratic Armies"
+    },
+    {
+      "id": "H109",
+      "domain": "manners",
+      "start_line": 4230,
+      "end_line": 4263,
+      "heading": "Chapter XXVI: Some Considerations On War In Democratic Communities"
+    },
+    {
+      "id": "H110",
+      "domain": "power",
+      "start_line": 4264,
+      "end_line": 4275,
+      "heading": "Chapter I: That Equality Naturally Gives Men A Taste For Free Institutions"
+    },
+    {
+      "id": "H111",
+      "domain": "power",
+      "start_line": 4276,
+      "end_line": 4293,
+      "heading": "Chapter II: That The Notions Of Democratic Nations On Government Are Naturally Favorable To The Concentration Of Power"
+    },
+    {
+      "id": "H112",
+      "domain": "power",
+      "start_line": 4294,
+      "end_line": 4323,
+      "heading": "Chapter III: That The Sentiments Of Democratic Nations Accord With Their Opinions In Leading Them To Concentrate Political Power"
+    },
+    {
+      "id": "H113",
+      "domain": "power",
+      "start_line": 4324,
+      "end_line": 4353,
+      "heading": "Chapter IV: Of Certain Peculiar And Accidental Causes Which Either Lead A People To Complete Centralization Of Government, Or Which Divert Them From It"
+    },
+    {
+      "id": "H114",
+      "domain": "power",
+      "start_line": 4354,
+      "end_line": 4415,
+      "heading": "Chapter V: That Amongst The European Nations Of Our Time The Power Of Governments Is Increasing, Although The Persons Who Govern Are Less Stable"
+    },
+    {
+      "id": "H115",
+      "domain": "power",
+      "start_line": 4416,
+      "end_line": 4447,
+      "heading": "Chapter VI: What Sort Of Despotism Democratic Nations Have To Fear"
+    },
+    {
+      "id": "H116",
+      "domain": "power",
+      "start_line": 4448,
+      "end_line": 4481,
+      "heading": "Chapter VII: Continuation Of The Preceding Chapters"
+    },
+    {
+      "id": "H117",
+      "domain": "power",
+      "start_line": 4482,
+      "end_line": 4499,
+      "heading": "Chapter VIII: General Survey Of The Subject"
+    }
+  ]
+}

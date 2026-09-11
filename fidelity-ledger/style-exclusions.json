@@ -1,0 +1,54 @@
+{
+  "c01_american_institutions.txt": {
+    "before_chars": 622599,
+    "after_chars": 564657
+  },
+  "c08_old_regime_institutions.txt": {
+    "before_chars": 320936,
+    "after_chars": 320932
+  },
+  "c02_majority_and_mores.txt": {
+    "before_chars": 192179,
+    "after_chars": 177643
+  },
+  "c11_recollections_republic.txt": {
+    "before_chars": 254494,
+    "after_chars": 254494
+  },
+  "c07_democratic_government.txt": {
+    "before_chars": 105923,
+    "after_chars": 100225
+  },
+  "c12_recollections_ministry.txt": {
+    "before_chars": 162591,
+    "after_chars": 162591
+  },
+  "c10_recollections_february.txt": {
+    "before_chars": 104955,
+    "after_chars": 104955
+  },
+  "c09_old_regime_revolution.txt": {
+    "before_chars": 152671,
+    "after_chars": 151692
+  },
+  "c04_democratic_intellect.txt": {
+    "before_chars": 199557,
+    "after_chars": 198670
+  },
+  "c13_correspondence_kergorlay.txt": {
+    "before_chars": 141916,
+    "after_chars": 137373
+  },
+  "c03_three_races.txt": {
+    "before_chars": 282448,
+    "after_chars": 231008
+  },
+  "c06_manners_and_ambition.txt": {
+    "before_chars": 270295,
+    "after_chars": 261731
+  },
+  "c05_feelings_and_association.txt": {
+    "before_chars": 141715,
+    "after_chars": 136582
+  }
+}

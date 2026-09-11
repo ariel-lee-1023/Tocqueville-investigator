@@ -1,3 +1,9 @@
+# Rebuild — 2026-09-11
+
+Re-distilled the five supplied books; added Old Regime and Recollections mechanisms, costly political choices, correspondence, and three measured translated registers. Corrected deterministic method rules and historical oversimplifications. Replaced unsupported fidelity claims with inspectable records and explicit limits. Made the inner Agent Skill the canonical package with root compatibility symlinks; added validation and source-measurement replay.
+
+Earlier entries below describe earlier versions and their then-current claims.
+
 # Changelog
 
 All notable changes to this skill are documented here.

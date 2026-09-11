@@ -1,78 +1,13 @@
 name: Validate skill
-
 on:
   push:
     branches: [main]
   pull_request:
   workflow_dispatch:
-
 jobs:
   validate:
-    name: Structure and links
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
-      - name: Validate SKILL.md frontmatter and internal references
-        shell: python
-        run: |
-          import os, re, sys
-
-          errors = []
-
-          # --- 1. SKILL.md exists and carries usable frontmatter ---
-          if not os.path.isfile("SKILL.md"):
-              print("::error::SKILL.md is missing from the repository root")
-              sys.exit(1)
-
-          text = open("SKILL.md", encoding="utf-8").read()
-          fm = re.match(r"^---\n(.*?)\n---\n", text, re.S)
-          if not fm:
-              errors.append("SKILL.md has no YAML frontmatter block")
-          else:
-              block = fm.group(1)
-              for field in ("name", "description"):
-                  if not re.search(rf"^{field}\s*:", block, re.M):
-                      errors.append(f"SKILL.md frontmatter is missing required field: {field}")
-              name = re.search(r"^name\s*:\s*(.+)$", block, re.M)
-              if name and not re.fullmatch(r"[a-z0-9]+(-[a-z0-9]+)*", name.group(1).strip()):
-                  errors.append("frontmatter 'name' should be lowercase-hyphenated")
-              desc = re.search(r"^description\s*:\s*>?-?\s*\n?(.+)", block, re.S)
-              if desc and len(desc.group(1).strip()) < 40:
-                  errors.append("frontmatter 'description' is too thin to trigger reliably")
-
-          # --- 2. Every path mentioned as references/... or fidelity-ledger/... resolves ---
-          md_files = []
-          for root, dirs, files in os.walk("."):
-              dirs[:] = [d for d in dirs if d not in {".git", "node_modules", ".github"}]
-              md_files += [os.path.join(root, f) for f in files if f.endswith(".md")]
-
-          path_re = re.compile(r"(?:references|fidelity-ledger)/[A-Za-z0-9._/-]+\.(?:md|json)")
-          known_missing = {"fidelity-ledger/fidelity.json"}  # pipeline artifacts intentionally unpublished
-
-          for path in md_files:
-              body = open(path, encoding="utf-8").read()
-              for hit in sorted(set(path_re.findall(body))):
-                  if hit in known_missing:
-                      continue
-                  if not os.path.isfile(hit):
-                      errors.append(f"{path}: referenced file does not exist -> {hit}")
-
-          # --- 3. Relative markdown links resolve ---
-          link_re = re.compile(r"\[[^\]]*\]\((?!https?:|mailto:|#)([^)]+)\)")
-          for path in md_files:
-              body = open(path, encoding="utf-8").read()
-              base = os.path.dirname(path)
-              for target in link_re.findall(body):
-                  target = target.split("#")[0].strip()
-                  if not target:
-                      continue
-                  if not os.path.exists(os.path.normpath(os.path.join(base, target))):
-                      errors.append(f"{path}: broken relative link -> {target}")
-
-          if errors:
-              for e in errors:
-                  print(f"::error::{e}")
-              sys.exit(1)
-
-          print(f"OK — SKILL.md valid; {len(md_files)} markdown files checked.")
+      - name: Validate runtime and fidelity records
+        run: python3 scripts/validate.py

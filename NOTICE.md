@@ -1,27 +1,9 @@
-# NOTICE
+# Notice
 
-## Originality
+This repository contains an original interpretive reconstruction, runtime instructions, tests, and illustrative prose. Brief source fragments appear in the human-facing audit for verification. They are quotations or OCR excerpts, not new writing by the contributor. The generated samples and anti-drift examples are newly written illustrations, not authentic Tocqueville quotations.
 
-This repository contains original text authored by the contributor.
-It reproduces no substantial portion of any copyrighted source work.
+The MIT license applies to the contributor's original work. It does not grant rights in the source books, editorial material, or translations. Tocqueville's underlying works and the particular English translations and scholarly editions can have different rights statuses; the repository does not treat all modern editions as public domain.
 
-## Nature of Reference Material
-
-Source works are named for two purposes only: attribution and verification.
-What is distilled here is **structure** — frameworks, decision rules, and
-named terminology — not expression. No prose, sentences, or expressive
-language from source works has been reproduced.
-
-Framework names and named terminology are preserved exactly as they appear
-in the originals. Paraphrasing them would break traceability to the source
-and defeat the purpose of attribution.
-
-## Rights
-
-Source works referenced in this repository remain the exclusive property
-of their respective rights holders. No license or right in those works is
-granted or implied by their citation here.
-
-## Contributor
+The full uploaded books and extracted working text are not distributed. Source filenames, checksums, and local line locators allow an owner of the supplied files to verify the reconstruction. Counts of literal names establish occurrences, not the truth or authorship of every surrounding claim.
 
 Contributed by [@ariel-lee-1023](https://github.com/ariel-lee-1023).

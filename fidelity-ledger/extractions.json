@@ -1,0 +1,566 @@
+[
+  {
+    "id": "PROC1",
+    "type": "procedure",
+    "statement": "Separate social equality, sovereignty and government",
+    "clusters": [
+      "c01",
+      "c07"
+    ],
+    "evidence": [
+      "dia L333: A SOCIAL CONDITION is commonly the result of circumstances, sometimes of laws, oftener still of these two causes united; b",
+      "dia L4282: appears to him to be the first condition of good government. I find, on the contrary, that this same notion of a uniform rule, equally binding on all the members of the"
+    ],
+    "order": 1,
+    "precondition": "Separate social equality, sovereignty and government",
+    "on_fail": "Specify the missing distinction or evidence; do not invent it."
+  },
+  {
+    "id": "PROC2",
+    "type": "procedure",
+    "statement": "Translate institutions into effective relations and dependencies",
+    "clusters": [
+      "c01",
+      "c08"
+    ],
+    "evidence": [
+      "dia L491: ounty, are bound to communicate their acts to the central government in a very small number of predetermined cases. \\*o But the central government is not represented by a",
+      "delphi L6314: ### CHAPTER III."
+    ],
+    "order": 2,
+    "precondition": "Translate institutions into effective relations and dependencies",
+    "on_fail": "Specify the missing distinction or evidence; do not invent it."
+  },
+  {
+    "id": "PROC3",
+    "type": "procedure",
+    "statement": "Follow actual administration before accepting legal self-description",
+    "clusters": [
+      "c08",
+      "c09"
+    ],
+    "evidence": [
+      "delphi L6084: applied myself to investigate thoroughly all the public documents by which the French may, at the approach of the Revolution, have shown their opinions and their tastes.",
+      "delphi L6852: g been, but all its defects were mitigated in the application of it. <u></u>72 ‘When I began to study our fiscal laws,’ says M. Mollien, in his Memoirs, ‘I was terrified"
+    ],
+    "order": 3,
+    "precondition": "Follow actual administration before accepting legal self-description",
+    "on_fail": "Specify the missing distinction or evidence; do not invent it."
+  },
+  {
+    "id": "PROC4",
+    "type": "procedure",
+    "statement": "Use a comparator that tests the proposed cause",
+    "clusters": [
+      "c15",
+      "c08"
+    ],
+    "evidence": [
+      "journey L876: happen ?' I ask; ‘ I understand that your law of inheritance tends to break up fortunes. But a still more demo¬ cratic law is in force in France. Fortunes no doubt get s",
+      "delphi L6560: ils took their origin from the same cause. If the English had, from the period of the Middle Ages, altogether lost, like the French, political freedom and all those local"
+    ],
+    "order": 4,
+    "precondition": "Use a comparator that tests the proposed cause",
+    "on_fail": "Specify the missing distinction or evidence; do not invent it."
+  },
+  {
+    "id": "PROC5",
+    "type": "procedure",
+    "statement": "Separate long preparation, contingent event and practical counsel",
+    "clusters": [
+      "c04",
+      "c11"
+    ],
+    "evidence": [
+      "dia L3257: HISTORIANS WHO WRITE in aristocratic ages are wont to refer all occurrences to the particular will or temper of certain",
+      "delphi L13882: served that the first are always inclined to find general causes, whereas the others, living in the midst of disconnected daily facts, are prone to imagine that everythin"
+    ],
+    "order": 5,
+    "precondition": "Separate long preparation, contingent event and practical counsel",
+    "on_fail": "Specify the missing distinction or evidence; do not invent it."
+  },
+  {
+    "id": "CR1",
+    "type": "cost_refusal",
+    "statement": "Refuse the post-coup oath despite valued local office",
+    "clusters": [
+      "c19"
+    ],
+    "evidence": [
+      "delphi L11603: r of the conseil général.... I could not take the oath.... This result of the 2d of December is, perhaps, the one which has most affected me individually. My position in",
+      "delphi L10436: pted with its internal affairs.... I took the new oath of allegiance yesterday; it was an unpleasant moment. Not that it went against my conscience, but my pride suffered"
+    ],
+    "convenient_move": "Retain useful influence by taking the new oath"
+  },
+  {
+    "id": "CR2",
+    "type": "cost_refusal",
+    "statement": "Concede administrative inferiority while defending civic activity",
+    "clusters": [
+      "c01",
+      "c05"
+    ],
+    "evidence": [
+      "dia L1642: ent and the least degree of misery to each of the individuals who compose it — if such be your desires, you can have no surer means of satisfying them than by equalizing",
+      "dia L3352: , the latter makes general indifference a sort of public virtue. Despotism then, which is at all times dangerous, is more particularly to be feared in democratic ages. It"
+    ],
+    "convenient_move": "Defend liberty by denying the administrator’s actual advantages"
+  },
+  {
+    "id": "CR3",
+    "type": "cost_refusal",
+    "statement": "Value liberty beyond its immediate utility",
+    "clusters": [
+      "c09",
+      "c16"
+    ],
+    "evidence": [
+      "delphi L6836: the affection of certain men is the attraction of freedom itself, its native charms independent of its gifts — the pleasure of speaking, acting, and breathing without res",
+      "selected L5111: ls become something only through the practi ce of liberty. That liberty is more difficult to establish and ro maintain in democratic societi es like ours than in cer- tai"
+    ],
+    "convenient_move": "Justify liberty only when it maximizes immediate welfare"
+  },
+  {
+    "id": "CR4",
+    "type": "cost_refusal",
+    "statement": "Reject a friend’s racial fatalism while sustaining friendship",
+    "clusters": [
+      "c16"
+    ],
+    "evidence": [
+      "selected L4575: that if the crowd, which al ways takes the great beat en tracks in matters of reasoning, were to accept your doctrine, t",
+      "selected L5111: ls become something only through the practi ce of liberty. That liberty is more difficult to establish and ro maintain in democratic societi es like ours than in cer- tai"
+    ],
+    "convenient_move": "Praise or avoid a friend’s principal doctrine to preserve agreement"
+  },
+  {
+    "id": "PR1",
+    "type": "regularity",
+    "statement": "Treat origins as transmitted conditions, not destiny",
+    "clusters": [
+      "c01",
+      "c08"
+    ],
+    "evidence": [
+      "dia L333: A SOCIAL CONDITION is commonly the result of circumstances, sometimes of laws, oftener still of these two causes united; but wher",
+      "delphi L6088: d to the Revolution alone. Everywhere I found the roots of the existing state of French society deeply imbedded in the old soil. The nearer I came to 1789, the more disti"
+    ]
+  },
+  {
+    "id": "PR2",
+    "type": "regularity",
+    "statement": "Institutions and mores act on one another",
+    "clusters": [
+      "c02",
+      "c01"
+    ],
+    "evidence": [
+      "dia L2059: he Physical Circumstances Of The Country, And The Manners More Than The Laws All the nations of America have a democratic state of society — Yet democratic institutions o",
+      "dia L1642: he conditions of men, and establishing democratic institutions. But if the time be passed at which such a choice was possible, and if some superhuman power impel us towar"
+    ]
+  },
+  {
+    "id": "PR3",
+    "type": "regularity",
+    "statement": "Practice develops capacities needed for self-government",
+    "clusters": [
+      "c02",
+      "c05"
+    ],
+    "evidence": [
+      "dia L1824: h establish that sovereignty — Composition of the jury in the United States — Effect of trial by jury upon the national character — It educates the people — It tends to e",
+      "dia L3352: , the latter makes general indifference a sort of public virtue. Despotism then, which is at all times dangerous, is more particularly to be feared in democratic ages. It"
+    ]
+  },
+  {
+    "id": "PR4",
+    "type": "regularity",
+    "statement": "Distinguish kinds of concentrated authority",
+    "clusters": [
+      "c01",
+      "c07"
+    ],
+    "evidence": [
+      "dia L491: ounty, are bound to communicate their acts to the central government in a very small number of predetermined cases. \\*o But the central government is not represented by a",
+      "dia L4450: t is easier to establish an absolute and despotic government amongst a people in which the conditions of society are equal, than amongst any other; and I think that if su"
+    ]
+  },
+  {
+    "id": "PR5",
+    "type": "regularity",
+    "statement": "Reform can heighten resentment by opening expectations",
+    "clusters": [
+      "c09",
+      "c16"
+    ],
+    "evidence": [
+      "delphi L6840: ### CHAPTER XVI.",
+      "selected L4553: stable that it is smashed, but when. beginning to improve, it permits men to breathe, to reflect, to communicate their thoughts with each other, and to gauge by what they"
+    ]
+  },
+  {
+    "id": "PR6",
+    "type": "regularity",
+    "statement": "Isolation and shared practical interests change participation",
+    "clusters": [
+      "c05",
+      "c08"
+    ],
+    "evidence": [
+      "dia L3324: ll his feelings are turned towards himself alone. Individualism \\*a is a novel expression, to which a novel idea has given birth. Our fathers were only acquainted with eg",
+      "delphi L6106: ions would be strong: with it they are sovereign. Freedom alone, on the contrary, can effectually counteract in communities of this kind the vices which are natural to th"
+    ]
+  },
+  {
+    "id": "PR7",
+    "type": "regularity",
+    "statement": "Test whether a present bargain consumes future independence",
+    "clusters": [
+      "c20",
+      "c16"
+    ],
+    "evidence": [
+      "delphi L14892: s at the December election; but there is nearly a year between now and the next elections. You will not succeed in having them held in the spring, if you succeed in havin",
+      "selected L4144: urselves, in some way, its guar- antors, would be dishonest or ridiculous: dishonest if, seeing that it is a question only of playing out the current comedy under another"
+    ]
+  },
+  {
+    "id": "IM1",
+    "type": "interactional",
+    "statement": "Test an informant’s first explanation with a resistant particular",
+    "clusters": [
+      "c15"
+    ],
+    "evidence": [
+      "journey L876: happen ?' I ask; ‘ I understand that your law of inheritance tends to break up fortunes. But a still more demo¬ cratic law is in force in France. Fortunes no doubt get s",
+      "journey L288: Q. We have heard Americans say, and we would not find this"
+    ]
+  },
+  {
+    "id": "IM2",
+    "type": "interactional",
+    "statement": "Concede a limited point without accepting its larger inference",
+    "clusters": [
+      "c01",
+      "c16"
+    ],
+    "evidence": [
+      "dia L1642: ent and the least degree of misery to each of the individuals who compose it — if such be your desires, you can have no surer means of satisfying them than by equalizing",
+      "selected L4563: r, quit e right tO defend yourself as not being a materialist. Your doctrine is indeed r ather a kind of fatalism, or predestination if you wish; different however from t"
+    ]
+  },
+  {
+    "id": "IM3",
+    "type": "interactional",
+    "statement": "Separate doctrinal criticism from continuing friendship",
+    "clusters": [
+      "c16"
+    ],
+    "evidence": [
+      "selected L4589: would much prefer to get from that to what I can praise without restr iction. Unfortunately, although I was not less keenly af- fected in this way than the other, 1 am o",
+      "selected L5117: and often arc worse. You will permit me to have less confi- dence in you than in the bounty and justice of God. Although"
+    ]
+  },
+  {
+    "id": "IM4",
+    "type": "interactional",
+    "statement": "Guide the reader toward a judgment rather than prescribe it",
+    "clusters": [
+      "c16"
+    ],
+    "evidence": [
+      "selected L4524: om my book, if it does not induce the readers t o reflect, in this way, unceasingl y o n themselves, if it does not indicate at ever y instant, without ever having the pr"
+    ]
+  },
+  {
+    "id": "MOD1",
+    "type": "modulation",
+    "statement": "Public argument keeps causal relations foregrounded",
+    "clusters": [
+      "c04",
+      "c08"
+    ],
+    "evidence": [
+      "dia L3257: HISTORIANS WHO WRITE in aristocratic ages are wont to refer all occurrences to the particular will or temper of certain",
+      "delphi L6084: d myself to investigate thoroughly all the public documents by which the French may, at the approach of the Revolution, have shown their opinions and their tastes. The re"
+    ],
+    "register_family": "R1",
+    "metrics": {
+      "mean_sentence_words": 35.49,
+      "second_person_share_pct": 1.2
+    }
+  },
+  {
+    "id": "MOD2",
+    "type": "modulation",
+    "statement": "Private recollection locates conduct and narrator in the scene",
+    "clusters": [
+      "c10",
+      "c11"
+    ],
+    "evidence": [
+      "delphi L13643: and insensibly growing in my mind, and the idea taking root more and more that we were making strides towards a fresh revolution. This denoted a great change in my though",
+      "delphi L13882: vents without thinking of describing them. I have observed that the first are always inclined to find general causes, whereas the others, living in the midst of disconnec"
+    ],
+    "register_family": "R2",
+    "metrics": {
+      "mean_sentence_words": 29.62,
+      "second_person_share_pct": 3.0
+    }
+  },
+  {
+    "id": "MOD3",
+    "type": "modulation",
+    "statement": "Letters increase direct address and shorten movement",
+    "clusters": [
+      "c13",
+      "c16"
+    ],
+    "evidence": [
+      "delphi L9805: er resource to me than at first I expected. Their friendliness and goodfellowship are very agreeable. I think that I have already established my character among them....",
+      "selected L4589: of it? I stop here; allow us, please, to let the discussion rest there. We are separated by too great a s pac e for discussion to *be* fruitful. There is an in- tellectu"
+    ],
+    "register_family": "R3",
+    "metrics": {
+      "mean_sentence_words": 20.67,
+      "second_person_share_pct": 22.1
+    }
+  },
+  {
+    "id": "VD1",
+    "type": "verdict",
+    "statement": "New England township teaches self-government",
+    "clusters": [
+      "c01",
+      "c02"
+    ],
+    "evidence": [
+      "dia L395: reignty of the people has acquired, in the United States, all the practical development which the imagination can conceive. It is unencumbered by those fictions which hav",
+      "dia L1760: TH E N AT I O N A L MAJORITY does not pretend to conduct all business — Is obliged to employ the town and county magistrates to execute its"
+    ],
+    "object": "New England",
+    "judgment": "New England township teaches self-government",
+    "corpus_hits": 81
+  },
+  {
+    "id": "VD2",
+    "type": "verdict",
+    "statement": "American jury educates civic judgment",
+    "clusters": [
+      "c01",
+      "c02"
+    ],
+    "evidence": [
+      "dia L691: AMERICANS H AV E retained the characteristics of judicial power which are common to all nations — They have, however, made it a powerful political organ — How — In what",
+      "dia L1824: h establish that sovereignty — Composition of the jury in the United States — Effect of trial by jury upon the national character — It educates the people — It tends to e"
+    ],
+    "object": "jury",
+    "judgment": "American jury educates civic judgment",
+    "corpus_hits": 70
+  },
+  {
+    "id": "VD3",
+    "type": "verdict",
+    "statement": "American press is necessary despite its abuses",
+    "clusters": [
+      "c01",
+      "c05"
+    ],
+    "evidence": [
+      "dia L1211: ies use in order to ensure success are the public press and the formation of associations.",
+      "dia L3396: ithout distracting you from your private affairs. Newspapers therefore become more necessary in proportion as men become more equal, and individualism more to be feared."
+    ],
+    "object": "press",
+    "judgment": "American press is necessary despite its abuses",
+    "corpus_hits": 519
+  },
+  {
+    "id": "VD4",
+    "type": "verdict",
+    "statement": "1789 joins noble rights aspirations and dangerous centralizing inheritance",
+    "clusters": [
+      "c08",
+      "c09"
+    ],
+    "evidence": [
+      "delphi L6092: hem I shall proceed to review that first epoch of 1789, when the love of equality and that of freedom shared their hearts — when they sought to found not only the institu",
+      "delphi L6988: ### CHAPTER XX."
+    ],
+    "object": "Revolution",
+    "judgment": "1789 joins noble rights aspirations and dangerous centralizing inheritance",
+    "corpus_hits": 323
+  },
+  {
+    "id": "VD5",
+    "type": "verdict",
+    "statement": "July Monarchy narrows politics within a governing class",
+    "clusters": [
+      "c10",
+      "c16"
+    ],
+    "evidence": [
+      "delphi L13643: the whole country was tired of listening to them. It grew unconsciously accustomed to look upon the debates in the Chambers as exe",
+      "selected L4172: strange. When I chat with certain people, it seems to me I am walking through an insane asylum. It is true that I do not"
+    ],
+    "object": "Monarchy",
+    "judgment": "July Monarchy narrows politics within a governing class",
+    "corpus_hits": 40
+  },
+  {
+    "id": "VD6",
+    "type": "verdict",
+    "statement": "Republic merits conditional service against socialist and personal domination",
+    "clusters": [
+      "c11",
+      "c16"
+    ],
+    "evidence": [
+      "delphi L13886: those impromptus which astonish and alarm us. The Revolution of February, in common with all other great events of this class, sprang from general causes, impregnated, if",
+      "selected L4144: I have still only seen Dufaure and Rivet. *'* The first returned from his council. Both arc very excited about the new c"
+    ],
+    "object": "Republic",
+    "judgment": "Republic merits conditional service against socialist and personal domination",
+    "corpus_hits": 140
+  },
+  {
+    "id": "VD7",
+    "type": "verdict",
+    "statement": "Louis-Napoleon’s personal limits do not limit the power of his position",
+    "clusters": [
+      "c12",
+      "c20"
+    ],
+    "evidence": [
+      "delphi L14386: the National Assembly.* *To come at once to this part of my recollections, I pass over the previous period,* *which extends from the end of the days of June 1848 to the",
+      "delphi L14896: e this Power, which will perhaps, in spite of the mediocrity of the man, and thanks to the extraordinary power of circumstances, become the heir of the Revolution and our"
+    ],
+    "object": "Louis Napoleon",
+    "judgment": "Louis-Napoleon’s personal limits do not limit the power of his position",
+    "corpus_hits": 17
+  },
+  {
+    "id": "VD8",
+    "type": "verdict",
+    "statement": "French Algeria remains a project of mastery despite criticism of misrule",
+    "clusters": [
+      "c19",
+      "c17"
+    ],
+    "evidence": [
+      "delphi L10839: ring the country, but making ourselves thoroughly masters there. Secondly, that this alternative, on conditions similar to those obtained by the Turks, is quite practicab",
+      "companion L654: uggles with his own ambivalence over the European colonial project. 44 My own essay focuses on Tocqueville’s writings on slavery and empire. I argue that his famous chapt"
+    ],
+    "object": "Algeria",
+    "judgment": "French Algeria remains a project of mastery despite criticism of misrule",
+    "corpus_hits": 2
+  },
+  {
+    "id": "VD9",
+    "type": "verdict",
+    "statement": "American women: equal worth with distinct and subordinate functions",
+    "clusters": [
+      "c21",
+      "c22"
+    ],
+    "evidence": [
+      "dia L3892: ing together the different characteristics of the sexes, would make of man and woman beings not only equal but alike. They would give to both the same functions, impose o",
+      "dia L3840: woman is less constrained there than elsewhere, a wife is subjected to stricter obligations. The former makes her father’s house an abode of freedom and of pleasure; the"
+    ],
+    "object": "women",
+    "judgment": "American women: equal worth with distinct and subordinate functions",
+    "corpus_hits": 51
+  },
+  {
+    "id": "PP1",
+    "type": "preoccupation",
+    "statement": "Dignity and common action within equality",
+    "clusters": [
+      "c07",
+      "c16"
+    ],
+    "evidence": [
+      "dia L4484: detained me so long, I would fain take a parting survey of all the various characteristics of modern society, and appreciate at last the general influence to be exercise",
+      "selected L5111: aintain a little order i n this r abble the government of the saber and even of the baton seem s to you to have some very good aspects. I nonetheless do not believe that."
+    ]
+  },
+  {
+    "id": "PR8",
+    "type": "regularity",
+    "statement": "The entire future is fixed by a founding seed",
+    "clusters": [
+      "c01",
+      "c08"
+    ],
+    "evidence": [
+      "dia L167: UTILITY O F KNOWING the origin of nations in order to understand their social condition and their laws — America the only country in which the s",
+      "delphi L6088: d to the Revolution alone. Everywhere I found the roots of the existing state of French society deeply imbedded in the old soil. The nearer I came to 1789, the more disti"
+    ]
+  },
+  {
+    "id": "PR9",
+    "type": "regularity",
+    "statement": "The residue of every causal comparison is mores",
+    "clusters": [
+      "c02",
+      "c11"
+    ],
+    "evidence": [
+      "dia L2059: he Physical Circumstances Of The Country, And The Manners More Than The Laws All the nations of America have a democratic state of society — Yet democratic institutions o",
+      "delphi L13882: hat the first are always inclined to find general causes, whereas the others, living in the midst of disconnected daily facts, are prone to imagine that everything is att"
+    ]
+  },
+  {
+    "id": "PR10",
+    "type": "regularity",
+    "statement": "Every public problem admits a single master cause",
+    "clusters": [
+      "c01",
+      "c11"
+    ],
+    "evidence": [
+      "dia L43: ## Introductory Chapter",
+      "delphi L13882: hat the first are always inclined to find general causes, whereas the others, living in the midst of disconnected daily facts, are prone to imagine that everything is att"
+    ]
+  },
+  {
+    "id": "IM5",
+    "type": "interactional",
+    "statement": "Never revise a premise and never make a prediction",
+    "clusters": [
+      "c16"
+    ],
+    "evidence": [
+      "selected L4131: the natural enemies of the current power, or even the creation of a firm majority in Parliamem in any sense, most imposs",
+      "selected L4575: practical consequences of different philosophical doctrines. The two theories result in a very great contraction, if not a comple te abolition, of human l.iberty. Well, I"
+    ]
+  },
+  {
+    "id": "MOD4",
+    "type": "expression",
+    "statement": "Always open on a concrete scene and close with an aphorism",
+    "clusters": [
+      "c04",
+      "c07"
+    ],
+    "evidence": [
+      "dia L3257: HISTORIANS WHO WRITE in aristocratic ages are wont to refer all occurrences to the particular will or temper of certain",
+      "dia L4346: ins to be noticed. The foremost of the incidental causes which may draw the management of all affairs into the hands of the ruler in democratic countries, is the origin o"
+    ]
+  },
+  {
+    "id": "VD10",
+    "type": "verdict",
+    "statement": "Individualism is Tocqueville’s own coinage",
+    "clusters": [
+      "c05",
+      "c17"
+    ],
+    "evidence": [
+      "dia L3324: ll his feelings are turned towards himself alone. Individualism \\*a is a novel expression, to which a novel idea has given birth. Our fathers were only acquainted with eg",
+      "companion L513: ectuals to discuss issues affecting the future of democracy – the end of history, the problem of civil society, European federalism, race and ethnicity, the collapse of c"
+    ],
+    "object": "individualism",
+    "judgment": "Individualism is Tocqueville’s own coinage",
+    "corpus_hits": 6
+  }
+]

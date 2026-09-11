@@ -1,0 +1,7 @@
+Your letter has interested me greatly, although it has not removed the objection which I made when we last spoke. You describe the people as they are, and then tell me that they can never become otherwise; it is this passage from an observation to a sentence upon their future that I cannot make with you.
+
+I do not dispute that they have been badly taught, for I have seen enough of public affairs to know what ignorance and vanity can accomplish when they obtain power. But if their upbringing explains some part of their faults, why should a different upbringing be incapable of correcting any of them? You seem to require that men should deserve liberty before they have had an opportunity to learn its use.
+
+Perhaps I expect too much from such an education, and I can admit the possibility without agreeing that the attempt should be abandoned. Your conclusion would relieve us of many disappointments, but it would also relieve us of nearly every duty toward those whose conduct disappoints us. I cannot find that a sufficient advantage.
+
+There, I have returned once more to our old disagreement. I doubt that another page would bring us nearer, and I would rather hear how your work is proceeding. You said too little of it in your last letter, and nothing of your health; do not make me guess at both. Whatever separates our opinions, you know with what affection I remain interested in everything that concerns you.

@@ -1,0 +1,582 @@
+[
+  {
+    "id": "PROC1",
+    "locations": [
+      {
+        "source": "dia",
+        "line": 333,
+        "search": "social condition"
+      },
+      {
+        "source": "dia",
+        "line": 4282,
+        "search": "government"
+      }
+    ]
+  },
+  {
+    "id": "PROC2",
+    "locations": [
+      {
+        "source": "dia",
+        "line": 491,
+        "search": "central"
+      },
+      {
+        "source": "delphi",
+        "line": 6314,
+        "search": "tutelage"
+      }
+    ]
+  },
+  {
+    "id": "PROC3",
+    "locations": [
+      {
+        "source": "delphi",
+        "line": 6084,
+        "search": "public documents"
+      },
+      {
+        "source": "delphi",
+        "line": 6852,
+        "search": "application"
+      }
+    ]
+  },
+  {
+    "id": "PROC4",
+    "locations": [
+      {
+        "source": "journey",
+        "line": 876,
+        "search": "inheritance"
+      },
+      {
+        "source": "delphi",
+        "line": 6560,
+        "search": "English"
+      }
+    ]
+  },
+  {
+    "id": "PROC5",
+    "locations": [
+      {
+        "source": "dia",
+        "line": 3257,
+        "search": "Historians"
+      },
+      {
+        "source": "delphi",
+        "line": 13882,
+        "search": "general causes"
+      }
+    ]
+  },
+  {
+    "id": "CR1",
+    "locations": [
+      {
+        "source": "delphi",
+        "line": 11603,
+        "search": "oath"
+      },
+      {
+        "source": "delphi",
+        "line": 10436,
+        "search": "oath"
+      }
+    ]
+  },
+  {
+    "id": "CR2",
+    "locations": [
+      {
+        "source": "dia",
+        "line": 1642,
+        "search": "individual"
+      },
+      {
+        "source": "dia",
+        "line": 3352,
+        "search": "public"
+      }
+    ]
+  },
+  {
+    "id": "CR3",
+    "locations": [
+      {
+        "source": "delphi",
+        "line": 6836,
+        "search": "freedom itself"
+      },
+      {
+        "source": "selected",
+        "line": 5111,
+        "search": "liberty"
+      }
+    ]
+  },
+  {
+    "id": "CR4",
+    "locations": [
+      {
+        "source": "selected",
+        "line": 4575,
+        "search": "liberty"
+      },
+      {
+        "source": "selected",
+        "line": 5111,
+        "search": "liberty"
+      }
+    ]
+  },
+  {
+    "id": "PR1",
+    "locations": [
+      {
+        "source": "dia",
+        "line": 333,
+        "search": "condition"
+      },
+      {
+        "source": "delphi",
+        "line": 6088,
+        "search": "roots"
+      }
+    ]
+  },
+  {
+    "id": "PR2",
+    "locations": [
+      {
+        "source": "dia",
+        "line": 2059,
+        "search": "manners"
+      },
+      {
+        "source": "dia",
+        "line": 1642,
+        "search": "institutions"
+      }
+    ]
+  },
+  {
+    "id": "PR3",
+    "locations": [
+      {
+        "source": "dia",
+        "line": 1824,
+        "search": "jury"
+      },
+      {
+        "source": "dia",
+        "line": 3352,
+        "search": "public"
+      }
+    ]
+  },
+  {
+    "id": "PR4",
+    "locations": [
+      {
+        "source": "dia",
+        "line": 491,
+        "search": "central"
+      },
+      {
+        "source": "dia",
+        "line": 4450,
+        "search": "government"
+      }
+    ]
+  },
+  {
+    "id": "PR5",
+    "locations": [
+      {
+        "source": "delphi",
+        "line": 6840,
+        "search": "CHAPTER"
+      },
+      {
+        "source": "selected",
+        "line": 4553,
+        "search": "improve"
+      }
+    ]
+  },
+  {
+    "id": "PR6",
+    "locations": [
+      {
+        "source": "dia",
+        "line": 3324,
+        "search": "Individualism"
+      },
+      {
+        "source": "delphi",
+        "line": 6106,
+        "search": "freedom"
+      }
+    ]
+  },
+  {
+    "id": "PR7",
+    "locations": [
+      {
+        "source": "delphi",
+        "line": 14892,
+        "search": "year"
+      },
+      {
+        "source": "selected",
+        "line": 4144,
+        "search": "dishonest"
+      }
+    ]
+  },
+  {
+    "id": "IM1",
+    "locations": [
+      {
+        "source": "journey",
+        "line": 876,
+        "search": "inheritance"
+      },
+      {
+        "source": "journey",
+        "line": 288,
+        "search": "Q."
+      }
+    ]
+  },
+  {
+    "id": "IM2",
+    "locations": [
+      {
+        "source": "dia",
+        "line": 1642,
+        "search": "individual"
+      },
+      {
+        "source": "selected",
+        "line": 4563,
+        "search": "materialist"
+      }
+    ]
+  },
+  {
+    "id": "IM3",
+    "locations": [
+      {
+        "source": "selected",
+        "line": 4589,
+        "search": "praise"
+      },
+      {
+        "source": "selected",
+        "line": 5117,
+        "search": "academic"
+      }
+    ]
+  },
+  {
+    "id": "IM4",
+    "locations": [
+      {
+        "source": "selected",
+        "line": 4524,
+        "search": "reflect"
+      }
+    ]
+  },
+  {
+    "id": "MOD1",
+    "locations": [
+      {
+        "source": "dia",
+        "line": 3257,
+        "search": "Historians"
+      },
+      {
+        "source": "delphi",
+        "line": 6084,
+        "search": "documents"
+      }
+    ]
+  },
+  {
+    "id": "MOD2",
+    "locations": [
+      {
+        "source": "delphi",
+        "line": 13643,
+        "search": "King"
+      },
+      {
+        "source": "delphi",
+        "line": 13882,
+        "search": "observed"
+      }
+    ]
+  },
+  {
+    "id": "MOD3",
+    "locations": [
+      {
+        "source": "delphi",
+        "line": 9805,
+        "search": "friend"
+      },
+      {
+        "source": "selected",
+        "line": 4589,
+        "search": "discussion"
+      }
+    ]
+  },
+  {
+    "id": "VD1",
+    "locations": [
+      {
+        "source": "dia",
+        "line": 395,
+        "search": "States"
+      },
+      {
+        "source": "dia",
+        "line": 1760,
+        "search": "majority"
+      }
+    ]
+  },
+  {
+    "id": "VD2",
+    "locations": [
+      {
+        "source": "dia",
+        "line": 691,
+        "search": "Judicial"
+      },
+      {
+        "source": "dia",
+        "line": 1824,
+        "search": "jury"
+      }
+    ]
+  },
+  {
+    "id": "VD3",
+    "locations": [
+      {
+        "source": "dia",
+        "line": 1211,
+        "search": "Press"
+      },
+      {
+        "source": "dia",
+        "line": 3396,
+        "search": "Newspapers"
+      }
+    ]
+  },
+  {
+    "id": "VD4",
+    "locations": [
+      {
+        "source": "delphi",
+        "line": 6092,
+        "search": "1789"
+      },
+      {
+        "source": "delphi",
+        "line": 6988,
+        "search": "CHAPTER"
+      }
+    ]
+  },
+  {
+    "id": "VD5",
+    "locations": [
+      {
+        "source": "delphi",
+        "line": 13643,
+        "search": "country"
+      },
+      {
+        "source": "selected",
+        "line": 4172,
+        "search": "country"
+      }
+    ]
+  },
+  {
+    "id": "VD6",
+    "locations": [
+      {
+        "source": "delphi",
+        "line": 13886,
+        "search": "Revolution"
+      },
+      {
+        "source": "selected",
+        "line": 4144,
+        "search": "republican"
+      }
+    ]
+  },
+  {
+    "id": "VD7",
+    "locations": [
+      {
+        "source": "delphi",
+        "line": 14386,
+        "search": "PART"
+      },
+      {
+        "source": "delphi",
+        "line": 14896,
+        "search": "mediocrity"
+      }
+    ]
+  },
+  {
+    "id": "VD8",
+    "locations": [
+      {
+        "source": "delphi",
+        "line": 10839,
+        "search": "masters"
+      },
+      {
+        "source": "companion",
+        "line": 654,
+        "search": "colonial"
+      }
+    ]
+  },
+  {
+    "id": "VD9",
+    "locations": [
+      {
+        "source": "dia",
+        "line": 3892,
+        "search": "Sexes"
+      },
+      {
+        "source": "dia",
+        "line": 3840,
+        "search": "Wife"
+      }
+    ]
+  },
+  {
+    "id": "PP1",
+    "locations": [
+      {
+        "source": "dia",
+        "line": 4484,
+        "search": "Survey"
+      },
+      {
+        "source": "selected",
+        "line": 5111,
+        "search": "men"
+      }
+    ]
+  },
+  {
+    "id": "PR8",
+    "locations": [
+      {
+        "source": "dia",
+        "line": 167,
+        "search": "Origin"
+      },
+      {
+        "source": "delphi",
+        "line": 6088,
+        "search": "roots"
+      }
+    ]
+  },
+  {
+    "id": "PR9",
+    "locations": [
+      {
+        "source": "dia",
+        "line": 2059,
+        "search": "manners"
+      },
+      {
+        "source": "delphi",
+        "line": 13882,
+        "search": "causes"
+      }
+    ]
+  },
+  {
+    "id": "PR10",
+    "locations": [
+      {
+        "source": "dia",
+        "line": 43,
+        "search": "Introductory"
+      },
+      {
+        "source": "delphi",
+        "line": 13882,
+        "search": "causes"
+      }
+    ]
+  },
+  {
+    "id": "IM5",
+    "locations": [
+      {
+        "source": "selected",
+        "line": 4131,
+        "search": "inevitability"
+      },
+      {
+        "source": "selected",
+        "line": 4575,
+        "search": "doctrines"
+      }
+    ]
+  },
+  {
+    "id": "MOD4",
+    "locations": [
+      {
+        "source": "dia",
+        "line": 3257,
+        "search": "Historians"
+      },
+      {
+        "source": "dia",
+        "line": 4346,
+        "search": "Causes"
+      }
+    ]
+  },
+  {
+    "id": "VD10",
+    "locations": [
+      {
+        "source": "dia",
+        "line": 3324,
+        "search": "Individualism"
+      },
+      {
+        "source": "companion",
+        "line": 513,
+        "search": "democracy"
+      }
+    ]
+  }
+]

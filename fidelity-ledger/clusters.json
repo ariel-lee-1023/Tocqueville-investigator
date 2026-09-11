@@ -1,0 +1,198 @@
+{
+  "clusters": [
+    {
+      "id": "c01",
+      "label": "American institutions",
+      "source": "clusters/c01_american_institutions.txt",
+      "kind": "monologue",
+      "tokens": 140664,
+      "attribution": "firsthand",
+      "period": "1835"
+    },
+    {
+      "id": "c02",
+      "label": "Majority and mores",
+      "source": "clusters/c02_majority_and_mores.txt",
+      "kind": "monologue",
+      "tokens": 43749,
+      "attribution": "firsthand",
+      "period": "1835"
+    },
+    {
+      "id": "c03",
+      "label": "Three races",
+      "source": "clusters/c03_three_races.txt",
+      "kind": "monologue",
+      "tokens": 64212,
+      "attribution": "firsthand",
+      "period": "1835"
+    },
+    {
+      "id": "c04",
+      "label": "Democratic intellect",
+      "source": "clusters/c04_democratic_intellect.txt",
+      "kind": "monologue",
+      "tokens": 45330,
+      "attribution": "firsthand",
+      "period": "1840"
+    },
+    {
+      "id": "c05",
+      "label": "Feelings and association",
+      "source": "clusters/c05_feelings_and_association.txt",
+      "kind": "monologue",
+      "tokens": 32281,
+      "attribution": "firsthand",
+      "period": "1840"
+    },
+    {
+      "id": "c06",
+      "label": "Manners and ambition",
+      "source": "clusters/c06_manners_and_ambition.txt",
+      "kind": "monologue",
+      "tokens": 61641,
+      "attribution": "firsthand",
+      "period": "1840"
+    },
+    {
+      "id": "c07",
+      "label": "Democratic government",
+      "source": "clusters/c07_democratic_government.txt",
+      "kind": "monologue",
+      "tokens": 23672,
+      "attribution": "firsthand",
+      "period": "1840"
+    },
+    {
+      "id": "c08",
+      "label": "Old Regime institutions",
+      "source": "clusters/c08_old_regime_institutions.txt",
+      "kind": "monologue",
+      "tokens": 72445,
+      "attribution": "firsthand",
+      "period": "1856"
+    },
+    {
+      "id": "c09",
+      "label": "Old Regime revolution",
+      "source": "clusters/c09_old_regime_revolution.txt",
+      "kind": "monologue",
+      "tokens": 34454,
+      "attribution": "firsthand",
+      "period": "1856"
+    },
+    {
+      "id": "c10",
+      "label": "Recollections February",
+      "source": "clusters/c10_recollections_february.txt",
+      "kind": "decision_record",
+      "tokens": 24620,
+      "attribution": "firsthand",
+      "period": "1850-1851"
+    },
+    {
+      "id": "c11",
+      "label": "Recollections Republic",
+      "source": "clusters/c11_recollections_republic.txt",
+      "kind": "decision_record",
+      "tokens": 59788,
+      "attribution": "firsthand",
+      "period": "1850-1851"
+    },
+    {
+      "id": "c12",
+      "label": "Recollections ministry",
+      "source": "clusters/c12_recollections_ministry.txt",
+      "kind": "decision_record",
+      "tokens": 37934,
+      "attribution": "firsthand",
+      "period": "1850-1851"
+    },
+    {
+      "id": "c13",
+      "label": "Correspondence Kergorlay",
+      "source": "clusters/c13_correspondence_kergorlay.txt",
+      "kind": "monologue",
+      "tokens": 34244,
+      "attribution": "firsthand",
+      "period": "1824-1858"
+    },
+    {
+      "id": "c14",
+      "label": "Correspondence Stoffels",
+      "source": "clusters/c14_correspondence_stoffels.txt",
+      "kind": "monologue",
+      "tokens": 18427,
+      "attribution": "mixed",
+      "period": "1830-1858"
+    },
+    {
+      "id": "c15",
+      "label": "Journey interviews",
+      "source": "clusters/c15_journey_interviews.txt",
+      "kind": "dialogue",
+      "tokens": 102967,
+      "attribution": "mixed",
+      "period": "1831-1832"
+    },
+    {
+      "id": "c16",
+      "label": "Selected correspondence",
+      "source": "clusters/c16_selected_correspondence.txt",
+      "kind": "monologue",
+      "tokens": 227862,
+      "attribution": "mixed",
+      "period": "1823-1859"
+    },
+    {
+      "id": "c17",
+      "label": "Critical scholarship",
+      "source": "clusters/c17_critical_scholarship.txt",
+      "kind": "monologue",
+      "tokens": 202398,
+      "attribution": "secondhand",
+      "period": "2006"
+    },
+    {
+      "id": "c18",
+      "label": "Penitentiary joint report",
+      "source": "clusters/c18_penitentiary_joint_report.txt",
+      "kind": "monologue",
+      "tokens": 63593,
+      "attribution": "mixed",
+      "period": "1833"
+    },
+    {
+      "id": "c19",
+      "label": "Later letters and recorded conversations",
+      "source": "local-only/c19.txt",
+      "kind": "monologue",
+      "tokens": 185153,
+      "attribution": "mixed"
+    },
+    {
+      "id": "c20",
+      "label": "Conversation with Berryer",
+      "source": "local-only/c20.txt",
+      "kind": "dialogue",
+      "tokens": 1123,
+      "attribution": "mixed"
+    },
+    {
+      "id": "c21",
+      "label": "Education and marriage",
+      "source": "local-only/c21.txt",
+      "kind": "monologue",
+      "tokens": 2592,
+      "attribution": "firsthand"
+    },
+    {
+      "id": "c22",
+      "label": "Equality of the sexes",
+      "source": "local-only/c22.txt",
+      "kind": "monologue",
+      "tokens": 2094,
+      "attribution": "firsthand"
+    }
+  ]
+}

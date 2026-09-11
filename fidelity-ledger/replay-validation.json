@@ -1,0 +1,7 @@
+{
+  "source_checksums": "matched",
+  "registers": "exact match excluding generation timestamp",
+  "style_metrics": "exact match",
+  "holdout_split": "exact match",
+  "tool": "scripts/measure_corpus.py"
+}

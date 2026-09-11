@@ -1,0 +1,39 @@
+{
+  "words_firsthand": 480432,
+  "clusters": [
+    {
+      "cluster_id": "c01",
+      "words": 283228,
+      "apparatus": 7,
+      "moves": 7,
+      "applications": 5,
+      "fragments": 5
+    },
+    {
+      "cluster_id": "c08",
+      "words": 80376,
+      "apparatus": 7,
+      "moves": 7,
+      "applications": 5,
+      "fragments": 7
+    },
+    {
+      "cluster_id": "c13",
+      "words": 24889,
+      "apparatus": 7,
+      "moves": 7,
+      "applications": 5,
+      "fragments": 8,
+      "registers": 2,
+      "shared_domain": true
+    },
+    {
+      "cluster_id": "c10",
+      "words": 91939,
+      "apparatus": 7,
+      "moves": 7,
+      "applications": 5,
+      "fragments": 6
+    }
+  ]
+}

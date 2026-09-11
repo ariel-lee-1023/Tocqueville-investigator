@@ -1,0 +1,30 @@
+{
+  "total_tokens": 1290281,
+  "n_clusters": 18,
+  "firsthand_ratio": 0.5231682090955381,
+  "domains": [
+    "democracy",
+    "administration",
+    "revolution",
+    "political conduct",
+    "religion",
+    "correspondence"
+  ],
+  "dialogue_ratio": 0.07980163749055552,
+  "decision_density": 0.09481901121793385,
+  "temporal_spread": {
+    "earliest": "1823",
+    "latest": "1859",
+    "gaps": [
+      "Not a complete chronological edition"
+    ]
+  },
+  "thin_domains": [
+    "standalone Algeria reports",
+    "abolition commission report",
+    "French-language style",
+    "live unrecorded dialogue"
+  ],
+  "n_registers": 3,
+  "notes": "Broad ingest is 18 slices, plus 2 targeted supplements. Mixed sources not used for style. Token field inherited from segment.py approximate 1.33x words; source-mass only, not package budget. Overlapping letter editions not independent corroboration."
+}

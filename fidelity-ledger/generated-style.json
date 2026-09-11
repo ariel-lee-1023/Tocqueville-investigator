@@ -1,0 +1,702 @@
+{
+  "per_file": {
+    "correspondence.md": {
+      "counts": {
+        "words": 249,
+        "sentences": 12,
+        "paragraphs": 4
+      },
+      "sentence_length": {
+        "n": 12,
+        "mean": 20.75,
+        "median": 21.0,
+        "stdev": 7.43,
+        "p10": 7,
+        "p90": 30,
+        "min": 7,
+        "max": 36
+      },
+      "paragraph_length": {
+        "n": 4,
+        "mean": 62.25,
+        "median": 62.0,
+        "stdev": 7.36,
+        "p10": 54,
+        "p90": 71,
+        "min": 54,
+        "max": 71
+      },
+      "lexical_diversity_mattr500": 0.622,
+      "hedges_per_1k": 12.05,
+      "boosters_per_1k": 4.02,
+      "hedge_booster_ratio": 3.0,
+      "punctuation_per_1k": {
+        "em_dash": 0.0,
+        "semicolon": 8.03,
+        "colon": 0.0,
+        "question": 4.02,
+        "exclamation": 0.0,
+        "parenthetical": 0.0
+      },
+      "person_reference_pct": {
+        "first": 51.2,
+        "second": 26.8,
+        "third": 22.0
+      },
+      "top_content_words": [
+        [
+          "letter",
+          2
+        ],
+        [
+          "interested",
+          2
+        ],
+        [
+          "last",
+          2
+        ],
+        [
+          "cannot",
+          2
+        ],
+        [
+          "make",
+          2
+        ],
+        [
+          "know",
+          2
+        ],
+        [
+          "upbringing",
+          2
+        ],
+        [
+          "relieve",
+          2
+        ],
+        [
+          "greatly",
+          1
+        ],
+        [
+          "although",
+          1
+        ],
+        [
+          "removed",
+          1
+        ],
+        [
+          "objection",
+          1
+        ],
+        [
+          "made",
+          1
+        ],
+        [
+          "spoke",
+          1
+        ],
+        [
+          "describe",
+          1
+        ],
+        [
+          "people",
+          1
+        ],
+        [
+          "tell",
+          1
+        ],
+        [
+          "never",
+          1
+        ],
+        [
+          "become",
+          1
+        ],
+        [
+          "otherwise",
+          1
+        ],
+        [
+          "passage",
+          1
+        ],
+        [
+          "observation",
+          1
+        ],
+        [
+          "sentence",
+          1
+        ],
+        [
+          "upon",
+          1
+        ],
+        [
+          "future",
+          1
+        ]
+      ],
+      "top_bigrams": [
+        [
+          "letter interested",
+          1
+        ],
+        [
+          "interested greatly",
+          1
+        ],
+        [
+          "greatly although",
+          1
+        ],
+        [
+          "although removed",
+          1
+        ],
+        [
+          "removed objection",
+          1
+        ],
+        [
+          "objection made",
+          1
+        ],
+        [
+          "made last",
+          1
+        ],
+        [
+          "last spoke",
+          1
+        ],
+        [
+          "spoke describe",
+          1
+        ],
+        [
+          "describe people",
+          1
+        ],
+        [
+          "people tell",
+          1
+        ],
+        [
+          "tell never",
+          1
+        ],
+        [
+          "never become",
+          1
+        ],
+        [
+          "become otherwise",
+          1
+        ],
+        [
+          "otherwise passage",
+          1
+        ]
+      ],
+      "conspicuously_absent_common_words": [
+        "time",
+        "way",
+        "world",
+        "life",
+        "thing",
+        "point",
+        "fact",
+        "problem",
+        "question",
+        "reason",
+        "idea",
+        "system",
+        "order",
+        "sense",
+        "state",
+        "good",
+        "great",
+        "important",
+        "possible",
+        "human",
+        "social",
+        "political"
+      ]
+    },
+    "public-analysis.md": {
+      "counts": {
+        "words": 509,
+        "sentences": 16,
+        "paragraphs": 5
+      },
+      "sentence_length": {
+        "n": 16,
+        "mean": 31.81,
+        "median": 31.0,
+        "stdev": 10.38,
+        "p10": 8,
+        "p90": 47,
+        "min": 8,
+        "max": 49
+      },
+      "paragraph_length": {
+        "n": 5,
+        "mean": 101.8,
+        "median": 100,
+        "stdev": 10.05,
+        "p10": 92,
+        "p90": 121,
+        "min": 92,
+        "max": 121
+      },
+      "lexical_diversity_mattr500": 0.504,
+      "hedges_per_1k": 11.79,
+      "boosters_per_1k": 7.86,
+      "hedge_booster_ratio": 1.5,
+      "punctuation_per_1k": {
+        "em_dash": 0.0,
+        "semicolon": 5.89,
+        "colon": 0.0,
+        "question": 0.0,
+        "exclamation": 0.0,
+        "parenthetical": 0.0
+      },
+      "person_reference_pct": {
+        "first": 30.0,
+        "second": 0.0,
+        "third": 70.0
+      },
+      "top_content_words": [
+        [
+          "common",
+          4
+        ],
+        [
+          "every",
+          4
+        ],
+        [
+          "administration",
+          3
+        ],
+        [
+          "business",
+          3
+        ],
+        [
+          "undertaking",
+          3
+        ],
+        [
+          "object",
+          3
+        ],
+        [
+          "becoming",
+          3
+        ],
+        [
+          "proposal",
+          2
+        ],
+        [
+          "reason",
+          2
+        ],
+        [
+          "capable",
+          2
+        ],
+        [
+          "information",
+          2
+        ],
+        [
+          "direction",
+          2
+        ],
+        [
+          "first",
+          2
+        ],
+        [
+          "learn",
+          2
+        ],
+        [
+          "counted",
+          2
+        ],
+        [
+          "powers",
+          2
+        ],
+        [
+          "suppose",
+          2
+        ],
+        [
+          "need",
+          2
+        ],
+        [
+          "expense",
+          2
+        ],
+        [
+          "village",
+          2
+        ],
+        [
+          "teach",
+          2
+        ],
+        [
+          "efforts",
+          2
+        ],
+        [
+          "answer",
+          2
+        ],
+        [
+          "inhabitants",
+          2
+        ],
+        [
+          "therefore",
+          2
+        ]
+      ],
+      "top_bigrams": [
+        [
+          "proposal promises",
+          1
+        ],
+        [
+          "promises single",
+          1
+        ],
+        [
+          "single administration",
+          1
+        ],
+        [
+          "administration perform",
+          1
+        ],
+        [
+          "perform business",
+          1
+        ],
+        [
+          "business towns",
+          1
+        ],
+        [
+          "towns greater",
+          1
+        ],
+        [
+          "greater speed",
+          1
+        ],
+        [
+          "speed consistency",
+          1
+        ],
+        [
+          "consistency see",
+          1
+        ],
+        [
+          "see reason",
+          1
+        ],
+        [
+          "reason deny",
+          1
+        ],
+        [
+          "deny advantage",
+          1
+        ],
+        [
+          "advantage merely",
+          1
+        ],
+        [
+          "merely attached",
+          1
+        ]
+      ],
+      "conspicuously_absent_common_words": [
+        "time",
+        "way",
+        "world",
+        "life",
+        "thing",
+        "part",
+        "point",
+        "fact",
+        "problem",
+        "question",
+        "idea",
+        "system",
+        "sense",
+        "state",
+        "good",
+        "great",
+        "important",
+        "different",
+        "possible",
+        "human",
+        "social",
+        "political"
+      ]
+    },
+    "recollection.md": {
+      "counts": {
+        "words": 274,
+        "sentences": 9,
+        "paragraphs": 4
+      },
+      "sentence_length": {
+        "n": 9,
+        "mean": 30.44,
+        "median": 37,
+        "stdev": 11.62,
+        "p10": 8,
+        "p90": 43,
+        "min": 8,
+        "max": 43
+      },
+      "paragraph_length": {
+        "n": 4,
+        "mean": 68.5,
+        "median": 72.5,
+        "stdev": 20.74,
+        "p10": 37,
+        "p90": 92,
+        "min": 37,
+        "max": 92
+      },
+      "lexical_diversity_mattr500": 0.551,
+      "hedges_per_1k": 18.25,
+      "boosters_per_1k": 3.65,
+      "hedge_booster_ratio": 5.0,
+      "punctuation_per_1k": {
+        "em_dash": 0.0,
+        "semicolon": 7.3,
+        "colon": 3.65,
+        "question": 3.65,
+        "exclamation": 0.0,
+        "parenthetical": 0.0
+      },
+      "person_reference_pct": {
+        "first": 20.0,
+        "second": 0.0,
+        "third": 80.0
+      },
+      "top_content_words": [
+        [
+          "upon",
+          4
+        ],
+        [
+          "chairman",
+          3
+        ],
+        [
+          "authority",
+          3
+        ],
+        [
+          "office",
+          3
+        ],
+        [
+          "begun",
+          2
+        ],
+        [
+          "council",
+          2
+        ],
+        [
+          "several",
+          2
+        ],
+        [
+          "appeared",
+          2
+        ],
+        [
+          "meeting",
+          2
+        ],
+        [
+          "less",
+          2
+        ],
+        [
+          "decision",
+          2
+        ],
+        [
+          "concerns",
+          2
+        ],
+        [
+          "taken",
+          2
+        ],
+        [
+          "asked",
+          2
+        ],
+        [
+          "much",
+          2
+        ],
+        [
+          "agreed",
+          2
+        ],
+        [
+          "assuring",
+          1
+        ],
+        [
+          "alteration",
+          1
+        ],
+        [
+          "contemplated",
+          1
+        ],
+        [
+          "repeated",
+          1
+        ],
+        [
+          "assurance",
+          1
+        ],
+        [
+          "often",
+          1
+        ],
+        [
+          "members",
+          1
+        ],
+        [
+          "regard",
+          1
+        ],
+        [
+          "principal",
+          1
+        ]
+      ],
+      "top_bigrams": [
+        [
+          "agreed upon",
+          2
+        ],
+        [
+          "chairman begun",
+          1
+        ],
+        [
+          "begun assuring",
+          1
+        ],
+        [
+          "assuring council",
+          1
+        ],
+        [
+          "council alteration",
+          1
+        ],
+        [
+          "alteration authority",
+          1
+        ],
+        [
+          "authority contemplated",
+          1
+        ],
+        [
+          "contemplated repeated",
+          1
+        ],
+        [
+          "repeated assurance",
+          1
+        ],
+        [
+          "assurance often",
+          1
+        ],
+        [
+          "often several",
+          1
+        ],
+        [
+          "several members",
+          1
+        ],
+        [
+          "members appeared",
+          1
+        ],
+        [
+          "appeared regard",
+          1
+        ],
+        [
+          "regard principal",
+          1
+        ]
+      ],
+      "conspicuously_absent_common_words": [
+        "time",
+        "way",
+        "world",
+        "life",
+        "work",
+        "thing",
+        "point",
+        "problem",
+        "question",
+        "reason",
+        "idea",
+        "system",
+        "power",
+        "order",
+        "sense",
+        "state",
+        "good",
+        "great",
+        "important",
+        "different",
+        "possible",
+        "human",
+        "social",
+        "political"
+      ]
+    }
+  }
+}

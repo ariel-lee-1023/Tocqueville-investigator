@@ -1,0 +1,73 @@
+{
+  "content_hash": "sha256:8f736a9e6b84c9e5c2bd29ad7dbe2ee776845347bd7bf8b2aa2723ce4449eeae",
+  "stale": [],
+  "register_families": [
+    "R1",
+    "R2",
+    "R3"
+  ],
+  "projection": {
+    "gate": {
+      "overall": 0.8846153846153846,
+      "passed": true,
+      "recurations": 1,
+      "note": "Pass only for the limited same-agent, heading-visible mechanism reconstruction; not independent predictive validity."
+    },
+    "final": {
+      "overall": 0.8846153846153846,
+      "hit_2": 0.7692307692307693,
+      "hit_1": 0.23076923076923078,
+      "by_domain": {
+        "institutions": 0.75,
+        "mores-race": 1,
+        "intellect": 1,
+        "association": 1,
+        "manners": 0.6666666666666666,
+        "power": 1
+      }
+    },
+    "seed": 42,
+    "n_masked": 15,
+    "stratified": true,
+    "sampling_note": "15/117 chapter units masked; 2 excluded for prior body exposure, leaving 13 scored. Headings visible; prior familiarity and model training not controlled. Six domains all from Democracy; final is consistency review, not a fresh holdout."
+  },
+  "cost": {
+    "total_divergences": 4,
+    "slated_for_core": 4,
+    "in_core_final": 4,
+    "logged_out": 0,
+    "missing_unlogged": 0,
+    "presence_assertion": "pass"
+  },
+  "style": {
+    "modulation_reproduced": false,
+    "avoid_list_violations": 0,
+    "by_family": {
+      "R1": {
+        "source_mean": 35.49,
+        "sample_mean": 31.81,
+        "relative_sentence_mean_delta": 0.10369118061425762
+      },
+      "R2": {
+        "source_mean": 29.62,
+        "sample_mean": 30.44,
+        "relative_sentence_mean_delta": 0.027683997299122222
+      },
+      "R3": {
+        "source_mean": 20.67,
+        "sample_mean": 20.75,
+        "relative_sentence_mean_delta": 0.0038703434929849194
+      }
+    },
+    "notes": "After revision, means approach translated source profiles; pronoun and punctuation modulation remains incomplete. Samples edited after measurement. No blind literary-likeness claim; source comparison not genuinely unseen originals."
+  },
+  "discrimination": {
+    "required": true,
+    "score": 1,
+    "n": 12,
+    "seed": 71,
+    "mask_names": true,
+    "confusable_pairs": [],
+    "merge_triggered": true
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "clusters/c01_american_institutions.txt": {
+    "f_rate": 2.6712437810945273,
+    "words": 105763,
+    "ligature_unambiguous": 0,
+    "ligature_per_10k": 0.0,
+    "markup_hits": 0,
+    "hyphen_splits": 18,
+    "top_suspects": {
+      "tries": 1
+    },
+    "verdict": "clean"
+  },
+  "clusters/c02_majority_and_mores.txt": {
+    "f_rate": 2.4841717063609754,
+    "words": 32894,
+    "ligature_unambiguous": 0,
+    "ligature_per_10k": 0.0,
+    "markup_hits": 0,
+    "hyphen_splits": 3,
+    "top_suspects": {},
+    "verdict": "clean"
+  },
+  "clusters/c03_three_races.txt": {
+    "f_rate": 2.5077871296971304,
+    "words": 48280,
+    "ligature_unambiguous": 0,
+    "ligature_per_10k": 0.0,
+    "markup_hits": 0,
+    "hyphen_splits": 6,
+    "top_suspects": {},
+    "verdict": "clean"
+  },
+  "clusters/c04_democratic_intellect.txt": {
+    "f_rate": 2.4182561307901906,
+    "words": 34083,
+    "ligature_unambiguous": 0,
+    "ligature_per_10k": 0.0,
+    "markup_hits": 0,
+    "hyphen_splits": 5,
+    "top_suspects": {},
+    "verdict": "clean"
+  },
+  "clusters/c05_feelings_and_association.txt": {
+    "f_rate": 2.560254105656294,
+    "words": 24272,
+    "ligature_unambiguous": 0,
+    "ligature_per_10k": 0.0,
+    "markup_hits": 0,
+    "hyphen_splits": 5,
+    "top_suspects": {},
+    "verdict": "clean"
+  },
+  "clusters/c06_manners_and_ambition.txt": {
+    "f_rate": 2.4283621715645887,
+    "words": 46347,
+    "ligature_unambiguous": 0,
+    "ligature_per_10k": 0.0,
+    "markup_hits": 0,
+    "hyphen_splits": 7,
+    "top_suspects": {
+      "ne": 3
+    },
+    "verdict": "clean"
+  },
+  "clusters/c07_democratic_government.txt": {
+    "f_rate": 2.347265011916526,
+    "words": 17799,
+    "ligature_unambiguous": 0,
+    "ligature_per_10k": 0.0,
+    "markup_hits": 0,
+    "hyphen_splits": 6,
+    "top_suspects": {},
+    "verdict": "clean"
+  },
+  "clusters/c08_old_regime_institutions.txt": {
+    "f_rate": 2.569722270539804,
+    "words": 54470,
+    "ligature_unambiguous": 0,
+    "ligature_per_10k": 0.0,
+    "markup_hits": 0,
+    "hyphen_splits": 10,
+    "top_suspects": {
+      "ne": 1,
+      "tries": 1
+    },
+    "verdict": "clean"
+  },
+  "clusters/c09_old_regime_revolution.txt": {
+    "f_rate": 2.596368011185355,
+    "words": 25906,
+    "ligature_unambiguous": 0,
+    "ligature_per_10k": 0.0,
+    "markup_hits": 0,
+    "hyphen_splits": 3,
+    "top_suspects": {},
+    "verdict": "clean"
+  },
+  "clusters/c10_recollections_february.txt": {
+    "f_rate": 2.264685067232838,
+    "words": 18512,
+    "ligature_unambiguous": 0,
+    "ligature_per_10k": 0.0,
+    "markup_hits": 0,
+    "hyphen_splits": 5,
+    "top_suspects": {},
+    "verdict": "clean"
+  },
+  "clusters/c11_recollections_republic.txt": {
+    "f_rate": 2.289546032340392,
+    "words": 44954,
+    "ligature_unambiguous": 0,
+    "ligature_per_10k": 0.0,
+    "markup_hits": 0,
+    "hyphen_splits": 13,
+    "top_suspects": {
+      "ll": 4,
+      "ne": 1
+    },
+    "verdict": "clean"
+  },
+  "clusters/c12_recollections_ministry.txt": {
+    "f_rate": 2.445031190167377,
+    "words": 28522,
+    "ligature_unambiguous": 0,
+    "ligature_per_10k": 0.0,
+    "markup_hits": 0,
+    "hyphen_splits": 8,
+    "top_suspects": {},
+    "verdict": "clean"
+  },
+  "clusters/c13_correspondence_kergorlay.txt": {
+    "f_rate": 2.305935050391937,
+    "words": 25748,
+    "ligature_unambiguous": 0,
+    "ligature_per_10k": 0.0,
+    "markup_hits": 0,
+    "hyphen_splits": 6,
+    "top_suspects": {
+      "tries": 1
+    },
+    "verdict": "clean"
+  },
+  "clusters/c14_correspondence_stoffels.txt": {
+    "f_rate": 2.5899645210339584,
+    "words": 13855,
+    "ligature_unambiguous": 0,
+    "ligature_per_10k": 0.0,
+    "markup_hits": 0,
+    "hyphen_splits": 0,
+    "top_suspects": {
+      "tries": 1
+    },
+    "verdict": "clean"
+  },
+  "clusters/c15_journey_interviews.txt": {
+    "f_rate": 2.2819895472429383,
+    "words": 77419,
+    "ligature_unambiguous": 0,
+    "ligature_per_10k": 0.0,
+    "markup_hits": 0,
+    "hyphen_splits": 20,
+    "top_suspects": {},
+    "verdict": "clean"
+  },
+  "clusters/c16_selected_correspondence.txt": {
+    "f_rate": 2.3273529948716245,
+    "words": 171325,
+    "ligature_unambiguous": 32,
+    "ligature_per_10k": 1.9,
+    "markup_hits": 0,
+    "hyphen_splits": 1458,
+    "top_suspects": {
+      "nd": 147,
+      "ll": 112,
+      "ow": 25,
+      "ne": 14,
+      "ance": 9,
+      "nal": 8,
+      "ight": 8,
+      "rm": 6,
+      "prot": 5,
+      "ame": 5,
+      "sti": 4,
+      "sta": 4
+    },
+    "verdict": "HYPHEN"
+  },
+  "clusters/c17_critical_scholarship.txt": {
+    "f_rate": 2.2746875842056875,
+    "words": 152179,
+    "ligature_unambiguous": 8,
+    "ligature_per_10k": 0.5,
+    "markup_hits": 0,
+    "hyphen_splits": 1174,
+    "top_suspects": {
+      "ne": 16,
+      "ame": 15,
+      "ance": 9,
+      "dier": 6,
+      "tries": 4,
+      "nal": 2,
+      "ll": 2,
+      "prot": 2,
+      "sta": 2
+    },
+    "verdict": "HYPHEN"
+  },
+  "clusters/c18_penitentiary_joint_report.txt": {
+    "f_rate": 2.6056504702881336,
+    "words": 47815,
+    "ligature_unambiguous": 0,
+    "ligature_per_10k": 0.0,
+    "markup_hits": 0,
+    "hyphen_splits": 5,
+    "top_suspects": {
+      "tries": 1
+    },
+    "verdict": "clean"
+  }
+}

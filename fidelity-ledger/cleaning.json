@@ -1,0 +1,87 @@
+{
+  "raw/Delphi-Collected-Works-of-Alexis-de-Tocqueville-Illustrated-Alexis-de-Tocquevill.md": {
+    "f_rate": 2.470841192442528,
+    "words": 967429,
+    "ligature_unambiguous": 0,
+    "ligature_per_10k": 0.0,
+    "markup_hits": 0,
+    "hyphen_splits": 170,
+    "top_suspects": {
+      "tries": 11,
+      "ne": 7,
+      "ll": 4
+    },
+    "verdict": "clean"
+  },
+  "raw/Democracy-in-America.md": {
+    "f_rate": 2.544357403713832,
+    "words": 334949,
+    "ligature_unambiguous": 0,
+    "ligature_per_10k": 0.0,
+    "markup_hits": 0,
+    "hyphen_splits": 54,
+    "top_suspects": {
+      "ne": 3,
+      "tries": 1
+    },
+    "verdict": "clean"
+  },
+  "raw/Journey-to-America-Tocqueville-Alexis-de-1805-1859-Mayer-etc.md": {
+    "f_rate": 2.358068683541788,
+    "words": 146332,
+    "ligature_unambiguous": 0,
+    "ligature_per_10k": 0.0,
+    "markup_hits": 0,
+    "hyphen_splits": 33,
+    "top_suspects": {
+      "ance": 4,
+      "ne": 3,
+      "nal": 1,
+      "ame": 1
+    },
+    "verdict": "clean"
+  },
+  "raw/Selected-Letters-on-Politics-and-Society-etc.md": {
+    "f_rate": 2.3239834798313552,
+    "words": 196127,
+    "ligature_unambiguous": 38,
+    "ligature_per_10k": 1.9,
+    "markup_hits": 0,
+    "hyphen_splits": 1657,
+    "top_suspects": {
+      "nd": 167,
+      "ll": 156,
+      "ow": 27,
+      "ne": 18,
+      "ance": 11,
+      "ame": 9,
+      "nal": 8,
+      "ight": 8,
+      "rm": 6,
+      "prot": 6,
+      "sti": 5,
+      "nds": 4
+    },
+    "verdict": "HYPHEN"
+  },
+  "raw/The-Cambridge-Companion-to-Tocqueville-Cheryl-B-Welch.md": {
+    "f_rate": 2.243435905640588,
+    "words": 162073,
+    "ligature_unambiguous": 9,
+    "ligature_per_10k": 0.6,
+    "markup_hits": 0,
+    "hyphen_splits": 1204,
+    "top_suspects": {
+      "ame": 28,
+      "ne": 19,
+      "ance": 9,
+      "dier": 7,
+      "tries": 4,
+      "nal": 3,
+      "ll": 2,
+      "prot": 2,
+      "sta": 2
+    },
+    "verdict": "HYPHEN"
+  }
+}

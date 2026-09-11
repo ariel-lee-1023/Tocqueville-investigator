@@ -1,0 +1,644 @@
+{
+  "per_file": {
+    "c91.txt": {
+      "counts": {
+        "words": 363604,
+        "sentences": 10245,
+        "paragraphs": 1364
+      },
+      "sentence_length": {
+        "n": 10245,
+        "mean": 35.49,
+        "median": 31,
+        "stdev": 20.94,
+        "p10": 15,
+        "p90": 60,
+        "min": 1,
+        "max": 353
+      },
+      "paragraph_length": {
+        "n": 1364,
+        "mean": 266.57,
+        "median": 331.0,
+        "stdev": 178.86,
+        "p10": 1,
+        "p90": 455,
+        "min": 1,
+        "max": 872
+      },
+      "lexical_diversity_mattr500": 0.495,
+      "hedges_per_1k": 7.05,
+      "boosters_per_1k": 3.98,
+      "hedge_booster_ratio": 1.77,
+      "punctuation_per_1k": {
+        "em_dash": 2.73,
+        "semicolon": 11.8,
+        "colon": 2.21,
+        "question": 0.57,
+        "exclamation": 0.07,
+        "parenthetical": 0.23
+      },
+      "person_reference_pct": {
+        "first": 19.5,
+        "second": 1.2,
+        "third": 79.3
+      },
+      "top_content_words": [
+        [
+          "men",
+          1060
+        ],
+        [
+          "people",
+          946
+        ],
+        [
+          "states",
+          936
+        ],
+        [
+          "one",
+          923
+        ],
+        [
+          "upon",
+          923
+        ],
+        [
+          "government",
+          877
+        ],
+        [
+          "power",
+          872
+        ],
+        [
+          "great",
+          736
+        ],
+        [
+          "time",
+          733
+        ],
+        [
+          "democratic",
+          716
+        ],
+        [
+          "state",
+          709
+        ],
+        [
+          "public",
+          641
+        ],
+        [
+          "society",
+          629
+        ],
+        [
+          "united",
+          590
+        ],
+        [
+          "man",
+          566
+        ],
+        [
+          "political",
+          561
+        ],
+        [
+          "country",
+          550
+        ],
+        [
+          "nations",
+          535
+        ],
+        [
+          "every",
+          523
+        ],
+        [
+          "laws",
+          522
+        ],
+        [
+          "less",
+          513
+        ],
+        [
+          "themselves",
+          508
+        ],
+        [
+          "new",
+          452
+        ],
+        [
+          "always",
+          447
+        ],
+        [
+          "nation",
+          442
+        ]
+      ],
+      "top_bigrams": [
+        [
+          "united states",
+          526
+        ],
+        [
+          "democratic nations",
+          121
+        ],
+        [
+          "new england",
+          78
+        ],
+        [
+          "state society",
+          77
+        ],
+        [
+          "social condition",
+          75
+        ],
+        [
+          "present day",
+          73
+        ],
+        [
+          "democratic people",
+          73
+        ],
+        [
+          "eighteenth century",
+          73
+        ],
+        [
+          "every man",
+          70
+        ],
+        [
+          "public opinion",
+          67
+        ],
+        [
+          "federal government",
+          64
+        ],
+        [
+          "amongst democratic",
+          64
+        ],
+        [
+          "human mind",
+          64
+        ],
+        [
+          "new world",
+          63
+        ],
+        [
+          "middle ages",
+          61
+        ]
+      ],
+      "conspicuously_absent_common_words": [
+        "thing",
+        "problem",
+        "sense"
+      ]
+    },
+    "c92.txt": {
+      "counts": {
+        "words": 91939,
+        "sentences": 3104,
+        "paragraphs": 311
+      },
+      "sentence_length": {
+        "n": 3104,
+        "mean": 29.62,
+        "median": 25.0,
+        "stdev": 20.64,
+        "p10": 9,
+        "p90": 55,
+        "min": 1,
+        "max": 214
+      },
+      "paragraph_length": {
+        "n": 311,
+        "mean": 295.62,
+        "median": 415,
+        "stdev": 190.84,
+        "p10": 8,
+        "p90": 477,
+        "min": 1,
+        "max": 518
+      },
+      "lexical_diversity_mattr500": 0.52,
+      "hedges_per_1k": 7.44,
+      "boosters_per_1k": 4.08,
+      "hedge_booster_ratio": 1.82,
+      "punctuation_per_1k": {
+        "em_dash": 1.2,
+        "semicolon": 9.85,
+        "colon": 3.13,
+        "question": 1.28,
+        "exclamation": 0.62,
+        "parenthetical": 0.5
+      },
+      "person_reference_pct": {
+        "first": 47.3,
+        "second": 3.0,
+        "third": 49.7
+      },
+      "top_content_words": [
+        [
+          "one",
+          425
+        ],
+        [
+          "time",
+          247
+        ],
+        [
+          "great",
+          219
+        ],
+        [
+          "upon",
+          190
+        ],
+        [
+          "assembly",
+          175
+        ],
+        [
+          "men",
+          164
+        ],
+        [
+          "even",
+          156
+        ],
+        [
+          "government",
+          153
+        ],
+        [
+          "people",
+          152
+        ],
+        [
+          "first",
+          134
+        ],
+        [
+          "always",
+          132
+        ],
+        [
+          "revolution",
+          130
+        ],
+        [
+          "day",
+          129
+        ],
+        [
+          "themselves",
+          128
+        ],
+        [
+          "himself",
+          124
+        ],
+        [
+          "little",
+          120
+        ],
+        [
+          "never",
+          119
+        ],
+        [
+          "made",
+          116
+        ],
+        [
+          "said",
+          115
+        ],
+        [
+          "two",
+          110
+        ],
+        [
+          "myself",
+          109
+        ],
+        [
+          "long",
+          108
+        ],
+        [
+          "seemed",
+          107
+        ],
+        [
+          "paris",
+          103
+        ],
+        [
+          "saw",
+          99
+        ]
+      ],
+      "top_bigrams": [
+        [
+          "national guards",
+          25
+        ],
+        [
+          "revolution february",
+          24
+        ],
+        [
+          "first time",
+          22
+        ],
+        [
+          "one another",
+          21
+        ],
+        [
+          "civil war",
+          21
+        ],
+        [
+          "national assembly",
+          21
+        ],
+        [
+          "national guard",
+          18
+        ],
+        [
+          "louis napoleon",
+          18
+        ],
+        [
+          "middle class",
+          17
+        ],
+        [
+          "called upon",
+          16
+        ],
+        [
+          "provisional government",
+          16
+        ],
+        [
+          "tel ville",
+          16
+        ],
+        [
+          "executive power",
+          16
+        ],
+        [
+          "duchesse orl",
+          15
+        ],
+        [
+          "orl ans",
+          15
+        ]
+      ],
+      "conspicuously_absent_common_words": [
+        "problem",
+        "sense",
+        "human",
+        "social"
+      ]
+    },
+    "c93.txt": {
+      "counts": {
+        "words": 24889,
+        "sentences": 1204,
+        "paragraphs": 101
+      },
+      "sentence_length": {
+        "n": 1204,
+        "mean": 20.67,
+        "median": 18.0,
+        "stdev": 14.17,
+        "p10": 6,
+        "p90": 39,
+        "min": 1,
+        "max": 116
+      },
+      "paragraph_length": {
+        "n": 101,
+        "mean": 246.43,
+        "median": 246,
+        "stdev": 169.59,
+        "p10": 2,
+        "p90": 469,
+        "min": 1,
+        "max": 495
+      },
+      "lexical_diversity_mattr500": 0.508,
+      "hedges_per_1k": 8.76,
+      "boosters_per_1k": 6.27,
+      "hedge_booster_ratio": 1.4,
+      "punctuation_per_1k": {
+        "em_dash": 2.17,
+        "semicolon": 9.28,
+        "colon": 1.45,
+        "question": 2.21,
+        "exclamation": 0.68,
+        "parenthetical": 0.16
+      },
+      "person_reference_pct": {
+        "first": 62.0,
+        "second": 22.1,
+        "third": 15.9
+      },
+      "top_content_words": [
+        [
+          "one",
+          120
+        ],
+        [
+          "much",
+          70
+        ],
+        [
+          "great",
+          70
+        ],
+        [
+          "time",
+          62
+        ],
+        [
+          "think",
+          61
+        ],
+        [
+          "see",
+          55
+        ],
+        [
+          "still",
+          53
+        ],
+        [
+          "cannot",
+          52
+        ],
+        [
+          "know",
+          49
+        ],
+        [
+          "every",
+          45
+        ],
+        [
+          "letter",
+          44
+        ],
+        [
+          "first",
+          44
+        ],
+        [
+          "long",
+          44
+        ],
+        [
+          "mind",
+          44
+        ],
+        [
+          "shall",
+          43
+        ],
+        [
+          "life",
+          41
+        ],
+        [
+          "men",
+          41
+        ],
+        [
+          "two",
+          39
+        ],
+        [
+          "now",
+          39
+        ],
+        [
+          "myself",
+          38
+        ],
+        [
+          "ideas",
+          38
+        ],
+        [
+          "never",
+          38
+        ],
+        [
+          "man",
+          37
+        ],
+        [
+          "even",
+          37
+        ],
+        [
+          "always",
+          37
+        ]
+      ],
+      "top_bigrams": [
+        [
+          "dear friend",
+          19
+        ],
+        [
+          "every day",
+          10
+        ],
+        [
+          "dear louis",
+          7
+        ],
+        [
+          "days ago",
+          7
+        ],
+        [
+          "two days",
+          6
+        ],
+        [
+          "great deal",
+          6
+        ],
+        [
+          "one cannot",
+          5
+        ],
+        [
+          "cannot help",
+          5
+        ],
+        [
+          "see clearly",
+          5
+        ],
+        [
+          "received letter",
+          5
+        ],
+        [
+          "cannot tell",
+          5
+        ],
+        [
+          "almost always",
+          5
+        ],
+        [
+          "letter dear",
+          4
+        ],
+        [
+          "many others",
+          4
+        ],
+        [
+          "last letter",
+          4
+        ]
+      ],
+      "conspicuously_absent_common_words": [
+        "problem",
+        "social"
+      ]
+    }
+  },
+  "note": "Pooled tool aggregate deliberately omitted; denominators preserved."
+}

@@ -1,0 +1,740 @@
+{
+  "tokenizer": {
+    "script": "token_count.py",
+    "tokens_per_han_char": 1.6666666666666667,
+    "tokens_per_latin_word": 1.3
+  },
+  "weights": {
+    "projectibility": 0.3,
+    "cost_refusal": 0.25,
+    "expressive_match": 0.2,
+    "interactional": 0.15,
+    "preoccupation": 0.1
+  },
+  "weight_notes": "Default weights. Scores are editor rubric judgments; no independent evaluator.",
+  "n_registers": 3,
+  "core_budget": {
+    "supply": 7580,
+    "ceiling": 7500,
+    "ceiling_rule": "Large multi-period corpus with 13 firsthand clusters and conservative firsthand ratio above 0.50",
+    "budget": 7500,
+    "floor_triggered": false,
+    "over_ceiling": true,
+    "counts": {
+      "cost_refusal": 4,
+      "projectible": 7,
+      "procedure": 5,
+      "verdict": 8,
+      "interactional": 4,
+      "variation": 3
+    },
+    "over_ceiling_resolution": "Expanded definitions and historical cases assigned to standing/depth modules; redundant voice paragraphs removed from core."
+  },
+  "decisions": [
+    {
+      "id": "PROC1",
+      "type": "procedure",
+      "scores": {
+        "projectibility": 0.85,
+        "cost_refusal": 0.6,
+        "expressive_match": 0.65,
+        "interactional": 0.5,
+        "preoccupation": 0.9
+      },
+      "composite": 0.7,
+      "decision": "core",
+      "reason": "Editor-rated diagnostic fit from cited loci; not a measured probability.",
+      "rank": 1,
+      "order": 1
+    },
+    {
+      "id": "PROC2",
+      "type": "procedure",
+      "scores": {
+        "projectibility": 0.85,
+        "cost_refusal": 0.6,
+        "expressive_match": 0.65,
+        "interactional": 0.5,
+        "preoccupation": 0.9
+      },
+      "composite": 0.7,
+      "decision": "core",
+      "reason": "Editor-rated diagnostic fit from cited loci; not a measured probability.",
+      "rank": 2,
+      "order": 2
+    },
+    {
+      "id": "PROC3",
+      "type": "procedure",
+      "scores": {
+        "projectibility": 0.85,
+        "cost_refusal": 0.6,
+        "expressive_match": 0.65,
+        "interactional": 0.5,
+        "preoccupation": 0.9
+      },
+      "composite": 0.7,
+      "decision": "core",
+      "reason": "Editor-rated diagnostic fit from cited loci; not a measured probability.",
+      "rank": 3,
+      "order": 3
+    },
+    {
+      "id": "PROC4",
+      "type": "procedure",
+      "scores": {
+        "projectibility": 0.85,
+        "cost_refusal": 0.6,
+        "expressive_match": 0.65,
+        "interactional": 0.5,
+        "preoccupation": 0.9
+      },
+      "composite": 0.7,
+      "decision": "core",
+      "reason": "Editor-rated diagnostic fit from cited loci; not a measured probability.",
+      "rank": 4,
+      "order": 4
+    },
+    {
+      "id": "PROC5",
+      "type": "procedure",
+      "scores": {
+        "projectibility": 0.85,
+        "cost_refusal": 0.6,
+        "expressive_match": 0.65,
+        "interactional": 0.5,
+        "preoccupation": 0.9
+      },
+      "composite": 0.7,
+      "decision": "core",
+      "reason": "Editor-rated diagnostic fit from cited loci; not a measured probability.",
+      "rank": 5,
+      "order": 5
+    },
+    {
+      "id": "CR1",
+      "type": "cost_refusal",
+      "scores": {
+        "projectibility": 0.8,
+        "cost_refusal": 0.95,
+        "expressive_match": 0.65,
+        "interactional": 0.85,
+        "preoccupation": 0.9
+      },
+      "composite": 0.825,
+      "decision": "core",
+      "reason": "Editor-rated diagnostic fit from cited loci; not a measured probability.",
+      "rank": 6
+    },
+    {
+      "id": "CR2",
+      "type": "cost_refusal",
+      "scores": {
+        "projectibility": 0.8,
+        "cost_refusal": 0.95,
+        "expressive_match": 0.65,
+        "interactional": 0.85,
+        "preoccupation": 0.9
+      },
+      "composite": 0.825,
+      "decision": "core",
+      "reason": "Editor-rated diagnostic fit from cited loci; not a measured probability.",
+      "rank": 7
+    },
+    {
+      "id": "CR3",
+      "type": "cost_refusal",
+      "scores": {
+        "projectibility": 0.8,
+        "cost_refusal": 0.95,
+        "expressive_match": 0.65,
+        "interactional": 0.85,
+        "preoccupation": 0.9
+      },
+      "composite": 0.825,
+      "decision": "core",
+      "reason": "Editor-rated diagnostic fit from cited loci; not a measured probability.",
+      "rank": 8
+    },
+    {
+      "id": "CR4",
+      "type": "cost_refusal",
+      "scores": {
+        "projectibility": 0.8,
+        "cost_refusal": 0.95,
+        "expressive_match": 0.65,
+        "interactional": 0.85,
+        "preoccupation": 0.9
+      },
+      "composite": 0.825,
+      "decision": "core",
+      "reason": "Editor-rated diagnostic fit from cited loci; not a measured probability.",
+      "rank": 9
+    },
+    {
+      "id": "PR1",
+      "type": "regularity",
+      "scores": {
+        "projectibility": 0.85,
+        "cost_refusal": 0.6,
+        "expressive_match": 0.65,
+        "interactional": 0.5,
+        "preoccupation": 0.9
+      },
+      "composite": 0.7,
+      "decision": "core",
+      "reason": "Editor-rated diagnostic fit from cited loci; not a measured probability.",
+      "rank": 10
+    },
+    {
+      "id": "PR2",
+      "type": "regularity",
+      "scores": {
+        "projectibility": 0.85,
+        "cost_refusal": 0.6,
+        "expressive_match": 0.65,
+        "interactional": 0.5,
+        "preoccupation": 0.9
+      },
+      "composite": 0.7,
+      "decision": "core",
+      "reason": "Editor-rated diagnostic fit from cited loci; not a measured probability.",
+      "rank": 11
+    },
+    {
+      "id": "PR3",
+      "type": "regularity",
+      "scores": {
+        "projectibility": 0.85,
+        "cost_refusal": 0.6,
+        "expressive_match": 0.65,
+        "interactional": 0.5,
+        "preoccupation": 0.9
+      },
+      "composite": 0.7,
+      "decision": "core",
+      "reason": "Editor-rated diagnostic fit from cited loci; not a measured probability.",
+      "rank": 12
+    },
+    {
+      "id": "PR4",
+      "type": "regularity",
+      "scores": {
+        "projectibility": 0.85,
+        "cost_refusal": 0.6,
+        "expressive_match": 0.65,
+        "interactional": 0.5,
+        "preoccupation": 0.9
+      },
+      "composite": 0.7,
+      "decision": "core",
+      "reason": "Editor-rated diagnostic fit from cited loci; not a measured probability.",
+      "rank": 13
+    },
+    {
+      "id": "PR5",
+      "type": "regularity",
+      "scores": {
+        "projectibility": 0.85,
+        "cost_refusal": 0.6,
+        "expressive_match": 0.65,
+        "interactional": 0.5,
+        "preoccupation": 0.9
+      },
+      "composite": 0.7,
+      "decision": "core",
+      "reason": "Editor-rated diagnostic fit from cited loci; not a measured probability.",
+      "rank": 14
+    },
+    {
+      "id": "PR6",
+      "type": "regularity",
+      "scores": {
+        "projectibility": 0.85,
+        "cost_refusal": 0.6,
+        "expressive_match": 0.65,
+        "interactional": 0.5,
+        "preoccupation": 0.9
+      },
+      "composite": 0.7,
+      "decision": "core",
+      "reason": "Editor-rated diagnostic fit from cited loci; not a measured probability.",
+      "rank": 15
+    },
+    {
+      "id": "PR7",
+      "type": "regularity",
+      "scores": {
+        "projectibility": 0.85,
+        "cost_refusal": 0.6,
+        "expressive_match": 0.65,
+        "interactional": 0.5,
+        "preoccupation": 0.9
+      },
+      "composite": 0.7,
+      "decision": "core",
+      "reason": "Editor-rated diagnostic fit from cited loci; not a measured probability.",
+      "rank": 16
+    },
+    {
+      "id": "IM1",
+      "type": "interactional",
+      "scores": {
+        "projectibility": 0.8,
+        "cost_refusal": 0.55,
+        "expressive_match": 0.65,
+        "interactional": 0.9,
+        "preoccupation": 0.8
+      },
+      "composite": 0.7225,
+      "decision": "core",
+      "reason": "Editor-rated diagnostic fit from cited loci; not a measured probability.",
+      "rank": 17
+    },
+    {
+      "id": "IM2",
+      "type": "interactional",
+      "scores": {
+        "projectibility": 0.8,
+        "cost_refusal": 0.55,
+        "expressive_match": 0.65,
+        "interactional": 0.9,
+        "preoccupation": 0.8
+      },
+      "composite": 0.7225,
+      "decision": "core",
+      "reason": "Editor-rated diagnostic fit from cited loci; not a measured probability.",
+      "rank": 18
+    },
+    {
+      "id": "IM3",
+      "type": "interactional",
+      "scores": {
+        "projectibility": 0.8,
+        "cost_refusal": 0.55,
+        "expressive_match": 0.65,
+        "interactional": 0.9,
+        "preoccupation": 0.8
+      },
+      "composite": 0.7225,
+      "decision": "core",
+      "reason": "Editor-rated diagnostic fit from cited loci; not a measured probability.",
+      "rank": 19
+    },
+    {
+      "id": "IM4",
+      "type": "interactional",
+      "scores": {
+        "projectibility": 0.8,
+        "cost_refusal": 0.55,
+        "expressive_match": 0.65,
+        "interactional": 0.9,
+        "preoccupation": 0.8
+      },
+      "composite": 0.7225,
+      "decision": "core",
+      "reason": "Editor-rated diagnostic fit from cited loci; not a measured probability.",
+      "rank": 20
+    },
+    {
+      "id": "MOD1",
+      "type": "modulation",
+      "scores": {
+        "projectibility": 0.7,
+        "cost_refusal": 0.5,
+        "expressive_match": 0.9,
+        "interactional": 0.7,
+        "preoccupation": 0.7
+      },
+      "composite": 0.69,
+      "decision": "core",
+      "reason": "Editor-rated diagnostic fit from cited loci; not a measured probability.",
+      "rank": 21
+    },
+    {
+      "id": "MOD2",
+      "type": "modulation",
+      "scores": {
+        "projectibility": 0.7,
+        "cost_refusal": 0.5,
+        "expressive_match": 0.9,
+        "interactional": 0.7,
+        "preoccupation": 0.7
+      },
+      "composite": 0.69,
+      "decision": "core",
+      "reason": "Editor-rated diagnostic fit from cited loci; not a measured probability.",
+      "rank": 22
+    },
+    {
+      "id": "MOD3",
+      "type": "modulation",
+      "scores": {
+        "projectibility": 0.7,
+        "cost_refusal": 0.5,
+        "expressive_match": 0.9,
+        "interactional": 0.7,
+        "preoccupation": 0.7
+      },
+      "composite": 0.69,
+      "decision": "core",
+      "reason": "Editor-rated diagnostic fit from cited loci; not a measured probability.",
+      "rank": 23
+    },
+    {
+      "id": "VD1",
+      "type": "verdict",
+      "scores": {
+        "projectibility": 0.85,
+        "cost_refusal": 0.6,
+        "expressive_match": 0.65,
+        "interactional": 0.5,
+        "preoccupation": 0.9
+      },
+      "composite": 0.7,
+      "decision": "core",
+      "reason": "Editor-rated diagnostic fit from cited loci; not a measured probability.",
+      "rank": 24,
+      "object": "New England",
+      "corpus_hits": 81
+    },
+    {
+      "id": "VD2",
+      "type": "verdict",
+      "scores": {
+        "projectibility": 0.85,
+        "cost_refusal": 0.6,
+        "expressive_match": 0.65,
+        "interactional": 0.5,
+        "preoccupation": 0.9
+      },
+      "composite": 0.7,
+      "decision": "core",
+      "reason": "Editor-rated diagnostic fit from cited loci; not a measured probability.",
+      "rank": 25,
+      "object": "jury",
+      "corpus_hits": 70
+    },
+    {
+      "id": "VD3",
+      "type": "verdict",
+      "scores": {
+        "projectibility": 0.85,
+        "cost_refusal": 0.6,
+        "expressive_match": 0.65,
+        "interactional": 0.5,
+        "preoccupation": 0.9
+      },
+      "composite": 0.7,
+      "decision": "core",
+      "reason": "Editor-rated diagnostic fit from cited loci; not a measured probability.",
+      "rank": 26,
+      "object": "press",
+      "corpus_hits": 519
+    },
+    {
+      "id": "VD4",
+      "type": "verdict",
+      "scores": {
+        "projectibility": 0.85,
+        "cost_refusal": 0.6,
+        "expressive_match": 0.65,
+        "interactional": 0.5,
+        "preoccupation": 0.9
+      },
+      "composite": 0.7,
+      "decision": "core",
+      "reason": "Editor-rated diagnostic fit from cited loci; not a measured probability.",
+      "rank": 27,
+      "object": "Revolution",
+      "corpus_hits": 323
+    },
+    {
+      "id": "VD5",
+      "type": "verdict",
+      "scores": {
+        "projectibility": 0.85,
+        "cost_refusal": 0.6,
+        "expressive_match": 0.65,
+        "interactional": 0.5,
+        "preoccupation": 0.9
+      },
+      "composite": 0.7,
+      "decision": "core",
+      "reason": "Editor-rated diagnostic fit from cited loci; not a measured probability.",
+      "rank": 28,
+      "object": "Monarchy",
+      "corpus_hits": 40
+    },
+    {
+      "id": "VD6",
+      "type": "verdict",
+      "scores": {
+        "projectibility": 0.85,
+        "cost_refusal": 0.6,
+        "expressive_match": 0.65,
+        "interactional": 0.5,
+        "preoccupation": 0.9
+      },
+      "composite": 0.7,
+      "decision": "core",
+      "reason": "Editor-rated diagnostic fit from cited loci; not a measured probability.",
+      "rank": 29,
+      "object": "Republic",
+      "corpus_hits": 140
+    },
+    {
+      "id": "VD7",
+      "type": "verdict",
+      "scores": {
+        "projectibility": 0.85,
+        "cost_refusal": 0.6,
+        "expressive_match": 0.65,
+        "interactional": 0.5,
+        "preoccupation": 0.9
+      },
+      "composite": 0.7,
+      "decision": "core",
+      "reason": "Editor-rated diagnostic fit from cited loci; not a measured probability.",
+      "rank": 30,
+      "object": "Louis Napoleon",
+      "corpus_hits": 17
+    },
+    {
+      "id": "VD8",
+      "type": "verdict",
+      "scores": {
+        "projectibility": 0.85,
+        "cost_refusal": 0.6,
+        "expressive_match": 0.65,
+        "interactional": 0.5,
+        "preoccupation": 0.9
+      },
+      "composite": 0.7,
+      "decision": "core",
+      "reason": "Editor-rated diagnostic fit from cited loci; not a measured probability.",
+      "rank": 31,
+      "object": "Algeria",
+      "corpus_hits": 2
+    },
+    {
+      "id": "VD9",
+      "type": "verdict",
+      "scores": {
+        "projectibility": 0.85,
+        "cost_refusal": 0.6,
+        "expressive_match": 0.65,
+        "interactional": 0.5,
+        "preoccupation": 0.9
+      },
+      "composite": 0.7,
+      "decision": "frameworks",
+      "reason": "Editor-rated diagnostic fit from cited loci; not a measured probability.",
+      "object": "women",
+      "corpus_hits": 51
+    },
+    {
+      "id": "PP1",
+      "type": "preoccupation",
+      "scores": {
+        "projectibility": 0.85,
+        "cost_refusal": 0.6,
+        "expressive_match": 0.65,
+        "interactional": 0.5,
+        "preoccupation": 0.9
+      },
+      "composite": 0.7,
+      "decision": "core",
+      "reason": "Editor-rated diagnostic fit from cited loci; not a measured probability.",
+      "rank": 32
+    },
+    {
+      "id": "PR8",
+      "type": "regularity",
+      "scores": {
+        "projectibility": 0.2,
+        "cost_refusal": 0.1,
+        "expressive_match": 0.2,
+        "interactional": 0.1,
+        "preoccupation": 0.3
+      },
+      "composite": 0.17,
+      "decision": "cut",
+      "reason": "Overgeneralized, unsupported, or contradicted by the cited passages; removed."
+    },
+    {
+      "id": "PR9",
+      "type": "regularity",
+      "scores": {
+        "projectibility": 0.2,
+        "cost_refusal": 0.1,
+        "expressive_match": 0.2,
+        "interactional": 0.1,
+        "preoccupation": 0.3
+      },
+      "composite": 0.17,
+      "decision": "cut",
+      "reason": "Overgeneralized, unsupported, or contradicted by the cited passages; removed."
+    },
+    {
+      "id": "PR10",
+      "type": "regularity",
+      "scores": {
+        "projectibility": 0.2,
+        "cost_refusal": 0.1,
+        "expressive_match": 0.2,
+        "interactional": 0.1,
+        "preoccupation": 0.3
+      },
+      "composite": 0.17,
+      "decision": "cut",
+      "reason": "Overgeneralized, unsupported, or contradicted by the cited passages; removed."
+    },
+    {
+      "id": "IM5",
+      "type": "interactional",
+      "scores": {
+        "projectibility": 0.2,
+        "cost_refusal": 0.1,
+        "expressive_match": 0.2,
+        "interactional": 0.1,
+        "preoccupation": 0.3
+      },
+      "composite": 0.17,
+      "decision": "cut",
+      "reason": "Overgeneralized, unsupported, or contradicted by the cited passages; removed."
+    },
+    {
+      "id": "MOD4",
+      "type": "expression",
+      "scores": {
+        "projectibility": 0.2,
+        "cost_refusal": 0.1,
+        "expressive_match": 0.2,
+        "interactional": 0.1,
+        "preoccupation": 0.3
+      },
+      "composite": 0.17,
+      "decision": "cut",
+      "reason": "Overgeneralized, unsupported, or contradicted by the cited passages; removed."
+    },
+    {
+      "id": "VD10",
+      "type": "verdict",
+      "scores": {
+        "projectibility": 0.2,
+        "cost_refusal": 0.1,
+        "expressive_match": 0.2,
+        "interactional": 0.1,
+        "preoccupation": 0.3
+      },
+      "composite": 0.17,
+      "decision": "cut",
+      "reason": "Overgeneralized, unsupported, or contradicted by the cited passages; removed.",
+      "object": "individualism",
+      "corpus_hits": 6
+    }
+  ],
+  "standing_budgets": {
+    "frameworks": {
+      "supply": 5680,
+      "budget": 5680,
+      "realised": 5928
+    },
+    "voice": {
+      "supply": 5180,
+      "budget": 5180,
+      "realised": 5027
+    }
+  },
+  "cluster_budgets": [
+    {
+      "cluster_id": "c01",
+      "supply": 2867,
+      "budget": 2867,
+      "counts": {
+        "apparatus": 7,
+        "moves": 7,
+        "applications": 5,
+        "fragments": 5,
+        "siblings": 3,
+        "registers": 1
+      },
+      "words": 283228,
+      "words_firsthand": 480432,
+      "floor_triggered": false,
+      "recut_flagged": false,
+      "split_in_module_flagged": false,
+      "shared_domain": false,
+      "verdict": "OK",
+      "coefficients_source": "defaults",
+      "actual": 2907
+    },
+    {
+      "cluster_id": "c08",
+      "supply": 2784,
+      "budget": 2784,
+      "counts": {
+        "apparatus": 7,
+        "moves": 7,
+        "applications": 5,
+        "fragments": 7,
+        "siblings": 3,
+        "registers": 1
+      },
+      "words": 80376,
+      "words_firsthand": 480432,
+      "floor_triggered": false,
+      "recut_flagged": false,
+      "split_in_module_flagged": false,
+      "shared_domain": false,
+      "verdict": "OK",
+      "coefficients_source": "defaults",
+      "actual": 2866
+    },
+    {
+      "cluster_id": "c13",
+      "supply": 2961,
+      "budget": 2961,
+      "counts": {
+        "apparatus": 7,
+        "moves": 7,
+        "applications": 5,
+        "fragments": 8,
+        "siblings": 3,
+        "registers": 2
+      },
+      "words": 24889,
+      "words_firsthand": 480432,
+      "floor_triggered": false,
+      "recut_flagged": false,
+      "split_in_module_flagged": false,
+      "shared_domain": true,
+      "verdict": "OK",
+      "coefficients_source": "defaults",
+      "actual": 2979
+    },
+    {
+      "cluster_id": "c10",
+      "supply": 2765,
+      "budget": 2765,
+      "counts": {
+        "apparatus": 7,
+        "moves": 7,
+        "applications": 5,
+        "fragments": 6,
+        "siblings": 3,
+        "registers": 1
+      },
+      "words": 91939,
+      "words_firsthand": 480432,
+      "floor_triggered": false,
+      "recut_flagged": false,
+      "split_in_module_flagged": false,
+      "shared_domain": false,
+      "verdict": "OK",
+      "coefficients_source": "defaults",
+      "actual": 2804
+    }
+  ]
+}

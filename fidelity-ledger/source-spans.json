@@ -1,0 +1,178 @@
+[
+  {
+    "id": "c01",
+    "source": "dia",
+    "start_line": 43,
+    "end_line": 1645,
+    "label": "American institutions",
+    "attribution": "firsthand"
+  },
+  {
+    "id": "c02",
+    "source": "dia",
+    "start_line": 1646,
+    "end_line": 2118,
+    "label": "Majority and mores",
+    "attribution": "firsthand"
+  },
+  {
+    "id": "c03",
+    "source": "dia",
+    "start_line": 2119,
+    "end_line": 2846,
+    "label": "Three races",
+    "attribution": "firsthand"
+  },
+  {
+    "id": "c04",
+    "source": "dia",
+    "start_line": 2853,
+    "end_line": 3297,
+    "label": "Democratic intellect",
+    "attribution": "firsthand"
+  },
+  {
+    "id": "c05",
+    "source": "dia",
+    "start_line": 3298,
+    "end_line": 3653,
+    "label": "Feelings and association",
+    "attribution": "firsthand"
+  },
+  {
+    "id": "c06",
+    "source": "dia",
+    "start_line": 3654,
+    "end_line": 4259,
+    "label": "Manners and ambition",
+    "attribution": "firsthand"
+  },
+  {
+    "id": "c07",
+    "source": "dia",
+    "start_line": 4260,
+    "end_line": 4499,
+    "label": "Democratic government",
+    "attribution": "firsthand"
+  },
+  {
+    "id": "c08",
+    "source": "delphi",
+    "start_line": 6078,
+    "end_line": 6755,
+    "label": "Old Regime institutions",
+    "attribution": "firsthand"
+  },
+  {
+    "id": "c09",
+    "source": "delphi",
+    "start_line": 6756,
+    "end_line": 7070,
+    "label": "Old Regime revolution",
+    "attribution": "firsthand"
+  },
+  {
+    "id": "c10",
+    "source": "delphi",
+    "start_line": 13617,
+    "end_line": 13871,
+    "label": "Recollections February",
+    "attribution": "firsthand"
+  },
+  {
+    "id": "c11",
+    "source": "delphi",
+    "start_line": 13872,
+    "end_line": 14379,
+    "label": "Recollections Republic",
+    "attribution": "firsthand"
+  },
+  {
+    "id": "c12",
+    "source": "delphi",
+    "start_line": 14380,
+    "end_line": 14783,
+    "label": "Recollections ministry",
+    "attribution": "firsthand"
+  },
+  {
+    "id": "c13",
+    "source": "delphi",
+    "start_line": 9787,
+    "end_line": 10139,
+    "label": "Correspondence Kergorlay",
+    "attribution": "firsthand"
+  },
+  {
+    "id": "c14",
+    "source": "delphi",
+    "start_line": 10140,
+    "end_line": 10335,
+    "label": "Correspondence Stoffels",
+    "attribution": "mixed"
+  },
+  {
+    "id": "c15",
+    "source": "journey",
+    "start_line": 172,
+    "end_line": 3735,
+    "label": "Journey interviews",
+    "attribution": "mixed"
+  },
+  {
+    "id": "c16",
+    "source": "selected",
+    "start_line": 556,
+    "end_line": 5900,
+    "label": "Selected correspondence",
+    "attribution": "mixed"
+  },
+  {
+    "id": "c17",
+    "source": "companion",
+    "start_line": 491,
+    "end_line": 4765,
+    "label": "Critical scholarship",
+    "attribution": "secondhand"
+  },
+  {
+    "id": "c18",
+    "source": "delphi",
+    "start_line": 97,
+    "end_line": 701,
+    "label": "Penitentiary joint report",
+    "attribution": "mixed"
+  },
+  {
+    "id": "c19",
+    "source": "delphi",
+    "start_line": 10336,
+    "end_line": 13264,
+    "label": "Later letters and recorded conversations",
+    "attribution": "mixed"
+  },
+  {
+    "id": "c20",
+    "source": "delphi",
+    "start_line": 14876,
+    "end_line": 14898,
+    "label": "Conversation with Berryer",
+    "attribution": "mixed"
+  },
+  {
+    "id": "c21",
+    "source": "dia",
+    "start_line": 3824,
+    "end_line": 3855,
+    "label": "Education and marriage",
+    "attribution": "firsthand"
+  },
+  {
+    "id": "c22",
+    "source": "dia",
+    "start_line": 3888,
+    "end_line": 3907,
+    "label": "Equality of the sexes",
+    "attribution": "firsthand"
+  }
+]

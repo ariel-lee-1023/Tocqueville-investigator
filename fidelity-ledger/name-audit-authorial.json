@@ -1,0 +1,257 @@
+{
+  "package": ".agents/skills/tocqueville-investigator-perspective",
+  "corpus": "firsthand units plus identified authorial letter passages",
+  "min_hits": 2,
+  "names": [
+    {
+      "name": "Algeria",
+      "hits": 2,
+      "heading_hits": 0,
+      "files": [
+        "letters-supplement.txt"
+      ],
+      "verdict": "THIN"
+    },
+    {
+      "name": "association",
+      "hits": 185,
+      "heading_hits": 0,
+      "files": [
+        "c01_american_institutions.txt",
+        "c03_three_races.txt",
+        "c05_feelings_and_association.txt",
+        "c06_manners_and_ambition.txt",
+        "c07_democratic_government.txt",
+        "c08_old_regime_institutions.txt",
+        "c12_recollections_ministry.txt"
+      ],
+      "verdict": "ATTESTED"
+    },
+    {
+      "name": "centralisation",
+      "hits": 13,
+      "heading_hits": 0,
+      "files": [
+        "c08_old_regime_institutions.txt",
+        "c09_old_regime_revolution.txt"
+      ],
+      "verdict": "ATTESTED"
+    },
+    {
+      "name": "centralization",
+      "hits": 52,
+      "heading_hits": 0,
+      "files": [
+        "c01_american_institutions.txt",
+        "c03_three_races.txt",
+        "c07_democratic_government.txt",
+        "c10_recollections_february.txt",
+        "c11_recollections_republic.txt",
+        "c13_correspondence_kergorlay.txt"
+      ],
+      "verdict": "ATTESTED"
+    },
+    {
+      "name": "Gobineau",
+      "hits": 1,
+      "heading_hits": 0,
+      "files": [
+        "letters-supplement.txt"
+      ],
+      "verdict": "THIN"
+    },
+    {
+      "name": "individualism",
+      "hits": 6,
+      "heading_hits": 0,
+      "files": [
+        "c05_feelings_and_association.txt",
+        "c06_manners_and_ambition.txt",
+        "c07_democratic_government.txt"
+      ],
+      "verdict": "ATTESTED"
+    },
+    {
+      "name": "jury",
+      "hits": 70,
+      "heading_hits": 0,
+      "files": [
+        "c01_american_institutions.txt",
+        "c02_majority_and_mores.txt",
+        "c03_three_races.txt",
+        "c06_manners_and_ambition.txt",
+        "c07_democratic_government.txt",
+        "c08_old_regime_institutions.txt",
+        "c09_old_regime_revolution.txt",
+        "c11_recollections_republic.txt"
+      ],
+      "verdict": "ATTESTED"
+    },
+    {
+      "name": "Louis Napoleon",
+      "hits": 17,
+      "heading_hits": 0,
+      "files": [
+        "c11_recollections_republic.txt",
+        "c12_recollections_ministry.txt"
+      ],
+      "verdict": "ATTESTED"
+    },
+    {
+      "name": "Louis-Napoleon",
+      "hits": 0,
+      "heading_hits": 0,
+      "files": [],
+      "verdict": "UNATTESTED"
+    },
+    {
+      "name": "manners",
+      "hits": 252,
+      "heading_hits": 0,
+      "files": [
+        "c01_american_institutions.txt",
+        "c02_majority_and_mores.txt",
+        "c03_three_races.txt",
+        "c04_democratic_intellect.txt",
+        "c05_feelings_and_association.txt",
+        "c06_manners_and_ambition.txt",
+        "c07_democratic_government.txt",
+        "c08_old_regime_institutions.txt",
+        "c09_old_regime_revolution.txt",
+        "c10_recollections_february.txt",
+        "c11_recollections_republic.txt",
+        "c12_recollections_ministry.txt",
+        "c13_correspondence_kergorlay.txt"
+      ],
+      "verdict": "ATTESTED"
+    },
+    {
+      "name": "Monarchy",
+      "hits": 40,
+      "heading_hits": 0,
+      "files": [
+        "c08_old_regime_institutions.txt",
+        "c09_old_regime_revolution.txt",
+        "c10_recollections_february.txt",
+        "c11_recollections_republic.txt",
+        "c12_recollections_ministry.txt"
+      ],
+      "verdict": "ATTESTED"
+    },
+    {
+      "name": "mores",
+      "hits": 4,
+      "heading_hits": 0,
+      "files": [
+        "c02_majority_and_mores.txt",
+        "letters-supplement.txt"
+      ],
+      "verdict": "ATTESTED"
+    },
+    {
+      "name": "New England",
+      "hits": 81,
+      "heading_hits": 0,
+      "files": [
+        "c01_american_institutions.txt",
+        "c02_majority_and_mores.txt",
+        "c03_three_races.txt",
+        "c06_manners_and_ambition.txt",
+        "c08_old_regime_institutions.txt",
+        "c13_correspondence_kergorlay.txt"
+      ],
+      "verdict": "ATTESTED"
+    },
+    {
+      "name": "point of departure",
+      "hits": 0,
+      "heading_hits": 0,
+      "files": [],
+      "verdict": "UNATTESTED"
+    },
+    {
+      "name": "press",
+      "hits": 519,
+      "heading_hits": 0,
+      "files": [
+        "c01_american_institutions.txt",
+        "c02_majority_and_mores.txt",
+        "c03_three_races.txt",
+        "c04_democratic_intellect.txt",
+        "c05_feelings_and_association.txt",
+        "c06_manners_and_ambition.txt",
+        "c07_democratic_government.txt",
+        "c08_old_regime_institutions.txt",
+        "c09_old_regime_revolution.txt",
+        "c10_recollections_february.txt",
+        "c11_recollections_republic.txt",
+        "c12_recollections_ministry.txt",
+        "c13_correspondence_kergorlay.txt",
+        "letters-supplement.txt"
+      ],
+      "verdict": "ATTESTED"
+    },
+    {
+      "name": "Republic",
+      "hits": 140,
+      "heading_hits": 0,
+      "files": [
+        "c01_american_institutions.txt",
+        "c02_majority_and_mores.txt",
+        "c03_three_races.txt",
+        "c09_old_regime_revolution.txt",
+        "c10_recollections_february.txt",
+        "c11_recollections_republic.txt",
+        "c12_recollections_ministry.txt",
+        "c13_correspondence_kergorlay.txt",
+        "letters-supplement.txt"
+      ],
+      "verdict": "ATTESTED"
+    },
+    {
+      "name": "Revolution",
+      "hits": 323,
+      "heading_hits": 0,
+      "files": [
+        "c01_american_institutions.txt",
+        "c02_majority_and_mores.txt",
+        "c03_three_races.txt",
+        "c04_democratic_intellect.txt",
+        "c06_manners_and_ambition.txt",
+        "c07_democratic_government.txt",
+        "c08_old_regime_institutions.txt",
+        "c09_old_regime_revolution.txt",
+        "c10_recollections_february.txt",
+        "c11_recollections_republic.txt",
+        "c12_recollections_ministry.txt",
+        "c13_correspondence_kergorlay.txt",
+        "letters-supplement.txt"
+      ],
+      "verdict": "ATTESTED"
+    },
+    {
+      "name": "soft despotism",
+      "hits": 0,
+      "heading_hits": 0,
+      "files": [],
+      "verdict": "UNATTESTED"
+    },
+    {
+      "name": "women",
+      "hits": 51,
+      "heading_hits": 0,
+      "files": [
+        "c01_american_institutions.txt",
+        "c02_majority_and_mores.txt",
+        "c03_three_races.txt",
+        "c05_feelings_and_association.txt",
+        "c06_manners_and_ambition.txt",
+        "c08_old_regime_institutions.txt",
+        "c11_recollections_republic.txt",
+        "c13_correspondence_kergorlay.txt"
+      ],
+      "verdict": "ATTESTED"
+    }
+  ],
+  "verdict": "FAIL"
+}

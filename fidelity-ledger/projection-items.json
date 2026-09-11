@@ -1,0 +1,93 @@
+[
+  {
+    "id": "H004",
+    "prediction": "Inheritance divides property and the hopes attached to founding a great family; education and fortunes approach a common level, leaving equality compatible with either liberty or a common master.",
+    "score": 2,
+    "judgment": "Stance and principal mechanism match the inspected source.",
+    "phase": "preassembly"
+  },
+  {
+    "id": "H021",
+    "prediction": "Rapid replacement of officials destroys administrative memory. This is a real defect, but judging democratic government only by administrative regularity misses the dispersed initiative it releases.",
+    "score": 1,
+    "judgment": "Administrative-memory prediction matches, but misses spending and taxation covered later in the unit.",
+    "phase": "preassembly"
+  },
+  {
+    "id": "H033",
+    "prediction": "The peoples occupy unequal and mutually hostile social positions; formal democratic equality among whites conceals slavery, racial prejudice and Indigenous dispossession. Legal status and habits of exclusion must be separated.",
+    "score": 2,
+    "judgment": "Stance and principal mechanism match the inspected source.",
+    "phase": "preassembly"
+  },
+  {
+    "id": "H046",
+    "prediction": "Americans handle particular public business and learn the resistance of facts. French exclusion from governing rewards comprehensive political theories unchecked by practice.",
+    "score": 2,
+    "judgment": "Stance and principal mechanism match the inspected source.",
+    "phase": "preassembly"
+  },
+  {
+    "id": "H047",
+    "prediction": "Religion retains moral authority by confining its political entanglements and accommodating nonessential democratic habits, while preserving a small number of stable beliefs. It cannot win by making every old practice an article of faith.",
+    "score": 2,
+    "judgment": "Stance and principal mechanism match the inspected source.",
+    "phase": "preassembly"
+  },
+  {
+    "id": "H050",
+    "prediction": "Fluid conditions loosen inherited limits on human achievement. Democratic people extrapolate repeated improvement into indefinite perfectibility; equality changes the imagination of what human beings can become.",
+    "score": 2,
+    "judgment": "Stance and principal mechanism match the inspected source.",
+    "phase": "preassembly"
+  },
+  {
+    "id": "H066",
+    "prediction": "Newly dissolved ranks leave resentful former superiors and newly independent inferiors suspicious of mutual ties; the transition intensifies isolation beyond the settled democratic condition.",
+    "score": 2,
+    "judgment": "Stance and principal mechanism match the inspected source.",
+    "phase": "preassembly"
+  },
+  {
+    "id": "H077",
+    "prediction": "Citizens discover that practical liberty protects their material welfare; attending to common affairs becomes a means of securing private enjoyment rather than its necessary enemy.",
+    "score": 2,
+    "judgment": "Stance and principal mechanism match the inspected source.",
+    "phase": "preassembly"
+  },
+  {
+    "id": "H081",
+    "prediction": "Where nearly everyone works and payment is common, labor loses its mark of inherited inferiority. Remuneration alone ceases to distinguish honorable from dishonorable occupations.",
+    "score": 2,
+    "judgment": "Stance and principal mechanism match the inspected source.",
+    "phase": "preassembly"
+  },
+  {
+    "id": "H084",
+    "prediction": "Similar conditions make another person's suffering intelligible and foster broad sympathy. This sympathy is compatible with colder durable bonds and with its failure across racial exclusions.",
+    "score": 2,
+    "judgment": "Stance and principal mechanism match the inspected source.",
+    "phase": "preassembly"
+  },
+  {
+    "id": "H085",
+    "prediction": "Where status is neither fixed nor jealously guarded, people meet without elaborate rank-protecting formalities. Ease of encounter does not require close friendship.",
+    "score": 1,
+    "judgment": "Direction right; failed to specify the intermediate money aristocracy as sharply as the text.",
+    "phase": "preassembly"
+  },
+  {
+    "id": "H086",
+    "prediction": "A democratic traveler confronts visible rank abroad, fears being placed beneath others, and becomes touchy about ordinary distinctions he ignores at home.",
+    "score": 1,
+    "judgment": "Direction right; the precise etiquette/intentions mechanism is underdeveloped.",
+    "phase": "preassembly"
+  },
+  {
+    "id": "H113",
+    "prediction": "The order in which liberty and equality arrive matters: equality won through revolution destroys intermediate powers while preexisting self-government can preserve them. War and insecurity also promote concentration.",
+    "score": 2,
+    "judgment": "Stance and principal mechanism match the inspected source.",
+    "phase": "preassembly"
+  }
+]

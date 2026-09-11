@@ -1,0 +1,27 @@
+{
+  "runtime_hash": "sha256:8f736a9e6b84c9e5c2bd29ad7dbe2ee776845347bd7bf8b2aa2723ce4449eeae",
+  "samples": {
+    "correspondence.md": "ecba25541013865fe6196101b621f14f415096a14c4450ba68dccddc64177828",
+    "public-analysis.md": "76460734f92408e0d431f1093446601015a7540080fa2e8d6945b35abf776098",
+    "recollection.md": "76e82304c6d3f4e082894ca737935e634309f56bada2f8fd13e5e1ef03f3ef8f"
+  },
+  "gate_scope": "Gate used preassembly predictions; the final runtime hash binds the recorded consistency/presence reviews, not a claim that the gate saw assembled files.",
+  "results": {
+    "projection_final": {
+      "content_hash": "sha256:8f736a9e6b84c9e5c2bd29ad7dbe2ee776845347bd7bf8b2aa2723ce4449eeae",
+      "stale": false
+    },
+    "cost_final": {
+      "content_hash": "sha256:8f736a9e6b84c9e5c2bd29ad7dbe2ee776845347bd7bf8b2aa2723ce4449eeae",
+      "stale": false
+    },
+    "style_final": {
+      "content_hash": "sha256:8f736a9e6b84c9e5c2bd29ad7dbe2ee776845347bd7bf8b2aa2723ce4449eeae",
+      "stale": false
+    },
+    "discrimination_source_profile": {
+      "content_hash": "sha256:8f736a9e6b84c9e5c2bd29ad7dbe2ee776845347bd7bf8b2aa2723ce4449eeae",
+      "stale": false
+    }
+  }
+}

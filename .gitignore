@@ -9,3 +9,8 @@
 
 # Packaged skill uploads
 *.zip
+
+# Local distillation intermediates
+persona_work/
+__pycache__/
+*.pyc

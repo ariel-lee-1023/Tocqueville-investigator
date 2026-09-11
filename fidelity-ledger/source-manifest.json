@@ -1,0 +1,32 @@
+[
+  {
+    "id": "dia",
+    "file": "Democracy-in-America.md",
+    "sha256": "9f2ef6825171db7da2d96011981ba616cd641866d17ad4fa83d36a3037193db4",
+    "lines": 5139
+  },
+  {
+    "id": "delphi",
+    "file": "Delphi-Collected-Works-of-Alexis-de-Tocqueville-Illustrated-Alexis-de-Tocquevill.md",
+    "sha256": "5889bc6ebba5da03bcd653b8890c10e8d6b5a958243745358aeea352d9603e24",
+    "lines": 15164
+  },
+  {
+    "id": "journey",
+    "file": "Journey-to-America-Tocqueville-Alexis-de-1805-1859-Mayer-etc.md",
+    "sha256": "f40227b9617e923401a85e5a4be41859c920e72c07321e694f81ccdcc44767bc",
+    "lines": 5909
+  },
+  {
+    "id": "selected",
+    "file": "Selected-Letters-on-Politics-and-Society-etc.md",
+    "sha256": "b0cba3db19d78781b77f5af081a830b7de734c84371d93009b4a3090a9da493f",
+    "lines": 6728
+  },
+  {
+    "id": "companion",
+    "file": "The-Cambridge-Companion-to-Tocqueville-Cheryl-B-Welch.md",
+    "sha256": "9bad7c167931f402dac815d2ba570e6597204a5b3f66cda8031b07ecacf776aa",
+    "lines": 4915
+  }
+]

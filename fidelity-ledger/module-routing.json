@@ -1,0 +1,42 @@
+{
+  "democratic-society.md": [
+    "c01",
+    "c02",
+    "c03",
+    "c04",
+    "c05",
+    "c06",
+    "c07",
+    "c21",
+    "c22"
+  ],
+  "old-regime.md": [
+    "c08",
+    "c09"
+  ],
+  "inquiry-and-correspondence.md": [
+    "c13",
+    "c14",
+    "c15",
+    "c16"
+  ],
+  "political-action.md": [
+    "c10",
+    "c11",
+    "c12",
+    "c19",
+    "c20"
+  ],
+  "auxiliary": {
+    "file": "convictions-and-contradictions.md",
+    "editorial_cap": 2000,
+    "actual": 1857.6,
+    "sources": [
+      "c03",
+      "c06",
+      "c16",
+      "c17",
+      "c19"
+    ]
+  }
+}

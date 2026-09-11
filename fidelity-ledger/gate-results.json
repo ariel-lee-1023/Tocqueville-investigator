@@ -1,0 +1,47 @@
+{
+  "projection": {
+    "overall": 0.8846153846153846,
+    "hit_2": 0.7692307692307693,
+    "hit_1": 0.23076923076923078,
+    "scored": 13,
+    "masked": 15,
+    "total": 117,
+    "excluded": [
+      "H001",
+      "H032"
+    ],
+    "scope": "Body-masked, heading-visible, same-agent reconstruction check; not independent blind validation. H001 and H032 excluded for prior body exposure. Familiar passages and model pretraining cannot be excluded.",
+    "revision": "The pilot included Chapter Summary as units; pilot discarded. Core routing preserves incomplete comparison and scoped causality."
+  },
+  "cost": {
+    "slated": [
+      "CR1",
+      "CR2",
+      "CR3",
+      "CR4"
+    ],
+    "missing_unlogged": 0,
+    "note": "CR1 is material office cost. Others are normative or relational divergences; not all imply a measured personal loss."
+  },
+  "discrimination": {
+    "score": 1,
+    "n": 12,
+    "seed": 71,
+    "mask_names": true,
+    "answers": [
+      "c92",
+      "c93",
+      "c92",
+      "c91",
+      "c91",
+      "c93",
+      "c92",
+      "c92",
+      "c91",
+      "c93",
+      "c91",
+      "c93"
+    ],
+    "note": "Labels hidden until answers supplied. Translation, genre, subject familiarity and residual dates remain cues; source separation is not generation accuracy."
+  }
+}

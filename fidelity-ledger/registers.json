@@ -1,0 +1,1063 @@
+{
+  "generated": "2026-09-11T12:47:18+00:00",
+  "lang": "en",
+  "n_units": 13,
+  "n_registers": 3,
+  "thresholds": {
+    "ratio": 3.0,
+    "dims": 3
+  },
+  "units": [
+    {
+      "unit_id": "c01_american_institutions",
+      "label": "c01_american_institutions.txt",
+      "chars": 564657,
+      "features": {
+        "mean_sentence_len": 36.208808,
+        "median_sentence_len": 32.0,
+        "p90_sentence_len": 61.0,
+        "long_sentence_share": 0.527715,
+        "question_rate": 3.984314,
+        "connective_rate": 52.005788,
+        "hedge_rate": 72.241911,
+        "booster_rate": 38.060687,
+        "second_person_rate": 5.347369,
+        "first_person_rate": 72.556462,
+        "title_mark_rate": 0.0,
+        "core_term_density": 0.0,
+        "flagship_term_density": 0.0
+      }
+    },
+    {
+      "unit_id": "c02_majority_and_mores",
+      "label": "c02_majority_and_mores.txt",
+      "chars": 177643,
+      "features": {
+        "mean_sentence_len": 35.880048,
+        "median_sentence_len": 31.5,
+        "p90_sentence_len": 60.0,
+        "long_sentence_share": 0.513064,
+        "question_rate": 10.261163,
+        "connective_rate": 40.051637,
+        "hedge_rate": 67.856079,
+        "booster_rate": 36.079574,
+        "second_person_rate": 12.5782,
+        "first_person_rate": 120.816921,
+        "title_mark_rate": 0.0,
+        "core_term_density": 0.0,
+        "flagship_term_density": 0.0
+      }
+    },
+    {
+      "unit_id": "c03_three_races",
+      "label": "c03_three_races.txt",
+      "chars": 231008,
+      "features": {
+        "mean_sentence_len": 36.905164,
+        "median_sentence_len": 32.0,
+        "p90_sentence_len": 64.0,
+        "long_sentence_share": 0.532394,
+        "question_rate": 8.650519,
+        "connective_rate": 50.885406,
+        "hedge_rate": 64.624466,
+        "booster_rate": 30.276817,
+        "second_person_rate": 3.053124,
+        "first_person_rate": 79.381233,
+        "title_mark_rate": 0.0,
+        "core_term_density": 0.0,
+        "flagship_term_density": 0.0
+      }
+    },
+    {
+      "unit_id": "c04_democratic_intellect",
+      "label": "c04_democratic_intellect.txt",
+      "chars": 198670,
+      "features": {
+        "mean_sentence_len": 32.099526,
+        "median_sentence_len": 30.0,
+        "p90_sentence_len": 54.0,
+        "long_sentence_share": 0.479621,
+        "question_rate": 3.248191,
+        "connective_rate": 47.24642,
+        "hedge_rate": 76.480142,
+        "booster_rate": 50.789901,
+        "second_person_rate": 4.429352,
+        "first_person_rate": 96.55987,
+        "title_mark_rate": 0.0,
+        "core_term_density": 0.0,
+        "flagship_term_density": 0.0
+      }
+    },
+    {
+      "unit_id": "c05_feelings_and_association",
+      "label": "c05_feelings_and_association.txt",
+      "chars": 136582,
+      "features": {
+        "mean_sentence_len": 32.622036,
+        "median_sentence_len": 30.0,
+        "p90_sentence_len": 53.0,
+        "long_sentence_share": 0.493724,
+        "question_rate": 5.985464,
+        "connective_rate": 52.159042,
+        "hedge_rate": 72.680633,
+        "booster_rate": 50.44891,
+        "second_person_rate": 11.970928,
+        "first_person_rate": 84.224027,
+        "title_mark_rate": 0.0,
+        "core_term_density": 0.0,
+        "flagship_term_density": 0.0
+      }
+    },
+    {
+      "unit_id": "c06_manners_and_ambition",
+      "label": "c06_manners_and_ambition.txt",
+      "chars": 261731,
+      "features": {
+        "mean_sentence_len": 35.056338,
+        "median_sentence_len": 32.0,
+        "p90_sentence_len": 58.0,
+        "long_sentence_share": 0.543818,
+        "question_rate": 3.794473,
+        "connective_rate": 52.453015,
+        "hedge_rate": 67.630909,
+        "booster_rate": 47.988929,
+        "second_person_rate": 2.008839,
+        "first_person_rate": 76.112674,
+        "title_mark_rate": 0.0,
+        "core_term_density": 0.0,
+        "flagship_term_density": 0.0
+      }
+    },
+    {
+      "unit_id": "c07_democratic_government",
+      "label": "c07_democratic_government.txt",
+      "chars": 100225,
+      "features": {
+        "mean_sentence_len": 37.970588,
+        "median_sentence_len": 34.0,
+        "p90_sentence_len": 64.0,
+        "long_sentence_share": 0.61086,
+        "question_rate": 0.595841,
+        "connective_rate": 47.071441,
+        "hedge_rate": 72.096765,
+        "booster_rate": 40.51719,
+        "second_person_rate": 1.787523,
+        "first_person_rate": 145.385211,
+        "title_mark_rate": 0.0,
+        "core_term_density": 0.0,
+        "flagship_term_density": 0.0
+      }
+    },
+    {
+      "unit_id": "c08_old_regime_institutions",
+      "label": "c08_old_regime_institutions.txt",
+      "chars": 320932,
+      "features": {
+        "mean_sentence_len": 35.17834,
+        "median_sentence_len": 29.0,
+        "p90_sentence_len": 64.0,
+        "long_sentence_share": 0.464981,
+        "question_rate": 8.111347,
+        "connective_rate": 42.215872,
+        "hedge_rate": 70.789935,
+        "booster_rate": 37.054106,
+        "second_person_rate": 5.899161,
+        "first_person_rate": 80.376072,
+        "title_mark_rate": 0.0,
+        "core_term_density": 0.0,
+        "flagship_term_density": 0.0
+      }
+    },
+    {
+      "unit_id": "c09_old_regime_revolution",
+      "label": "c09_old_regime_revolution.txt",
+      "chars": 151692,
+      "features": {
+        "mean_sentence_len": 36.824713,
+        "median_sentence_len": 30.5,
+        "p90_sentence_len": 64.0,
+        "long_sentence_share": 0.5,
+        "question_rate": 7.413188,
+        "connective_rate": 44.088958,
+        "hedge_rate": 69.059696,
+        "booster_rate": 31.993757,
+        "second_person_rate": 2.731174,
+        "first_person_rate": 49.941475,
+        "title_mark_rate": 0.0,
+        "core_term_density": 0.0,
+        "flagship_term_density": 0.0
+      }
+    },
+    {
+      "unit_id": "c10_recollections_february",
+      "label": "c10_recollections_february.txt",
+      "chars": 104955,
+      "features": {
+        "mean_sentence_len": 29.948304,
+        "median_sentence_len": 26.0,
+        "p90_sentence_len": 56.0,
+        "long_sentence_share": 0.415186,
+        "question_rate": 16.182976,
+        "connective_rate": 26.971626,
+        "hedge_rate": 69.047362,
+        "booster_rate": 33.984249,
+        "second_person_rate": 37.220844,
+        "first_person_rate": 348.473406,
+        "title_mark_rate": 0.0,
+        "core_term_density": 0.0,
+        "flagship_term_density": 0.0
+      }
+    },
+    {
+      "unit_id": "c11_recollections_republic",
+      "label": "c11_recollections_republic.txt",
+      "chars": 254494,
+      "features": {
+        "mean_sentence_len": 30.224011,
+        "median_sentence_len": 26.0,
+        "p90_sentence_len": 55.0,
+        "long_sentence_share": 0.380952,
+        "question_rate": 11.539144,
+        "connective_rate": 42.827978,
+        "hedge_rate": 80.995917,
+        "booster_rate": 47.044204,
+        "second_person_rate": 12.426771,
+        "first_person_rate": 357.935381,
+        "title_mark_rate": 0.0,
+        "core_term_density": 0.0,
+        "flagship_term_density": 0.0
+      }
+    },
+    {
+      "unit_id": "c12_recollections_ministry",
+      "label": "c12_recollections_ministry.txt",
+      "chars": 162591,
+      "features": {
+        "mean_sentence_len": 28.422267,
+        "median_sentence_len": 24.0,
+        "p90_sentence_len": 53.0,
+        "long_sentence_share": 0.362086,
+        "question_rate": 12.704238,
+        "connective_rate": 49.052476,
+        "hedge_rate": 67.403042,
+        "booster_rate": 35.289551,
+        "second_person_rate": 28.231641,
+        "first_person_rate": 357.836045,
+        "title_mark_rate": 0.0,
+        "core_term_density": 0.0,
+        "flagship_term_density": 0.0
+      }
+    },
+    {
+      "unit_id": "c13_correspondence_kergorlay",
+      "label": "c13_correspondence_kergorlay.txt",
+      "chars": 137373,
+      "features": {
+        "mean_sentence_len": 20.552436,
+        "median_sentence_len": 18.0,
+        "p90_sentence_len": 38.0,
+        "long_sentence_share": 0.186623,
+        "question_rate": 22.098116,
+        "connective_rate": 51.026558,
+        "hedge_rate": 87.588895,
+        "booster_rate": 62.678292,
+        "second_person_rate": 230.62397,
+        "first_person_rate": 646.068544,
+        "title_mark_rate": 0.0,
+        "core_term_density": 0.0,
+        "flagship_term_density": 0.0
+      }
+    }
+  ],
+  "distance_matrix": {
+    "units": [
+      "c01_american_institutions",
+      "c02_majority_and_mores",
+      "c03_three_races",
+      "c04_democratic_intellect",
+      "c05_feelings_and_association",
+      "c06_manners_and_ambition",
+      "c07_democratic_government",
+      "c08_old_regime_institutions",
+      "c09_old_regime_revolution",
+      "c10_recollections_february",
+      "c11_recollections_republic",
+      "c12_recollections_ministry",
+      "c13_correspondence_kergorlay"
+    ],
+    "z_distance": [
+      [
+        0.0,
+        0.3610496520652189,
+        0.2939328766776282,
+        0.4569335699701986,
+        0.3645584906312548,
+        0.22125533210182372,
+        0.3234161772235942,
+        0.3507698485682009,
+        0.33374186528897226,
+        1.0435441093838782,
+        0.9177219441603104,
+        0.8840887251806218,
+        2.2389241765468086
+      ],
+      [
+        0.3610496520652189,
+        0.0,
+        0.35079072136337913,
+        0.6155775327867958,
+        0.5700350465225184,
+        0.43436185690206586,
+        0.5261907703861131,
+        0.264084230498119,
+        0.26717904759233346,
+        0.7128243843454567,
+        0.7652234505597684,
+        0.7264796443365682,
+        2.2713418758235546
+      ],
+      [
+        0.2939328766776282,
+        0.35079072136337913,
+        0.0,
+        0.7170821693097718,
+        0.5977781884649276,
+        0.3817055983942358,
+        0.47968517873397926,
+        0.3801352052779859,
+        0.2315092959674487,
+        1.027924678141904,
+        1.052870800870099,
+        0.848838777878244,
+        2.377263407343836
+      ],
+      [
+        0.4569335699701986,
+        0.6155775327867958,
+        0.7170821693097718,
+        0.0,
+        0.18971346519846902,
+        0.39347674950533,
+        0.5870548343889828,
+        0.5131851548490372,
+        0.5840334807095959,
+        0.9780623780156995,
+        0.5691863260990183,
+        0.8151691415362063,
+        1.8898974159414779
+      ],
+      [
+        0.3645584906312548,
+        0.5700350465225184,
+        0.5977781884649276,
+        0.18971346519846902,
+        0.0,
+        0.3051926171160335,
+        0.6357239136077418,
+        0.49338464429215895,
+        0.5469793201877042,
+        0.9710209963498875,
+        0.6588800029437861,
+        0.745177031180745,
+        1.8778295942580903
+      ],
+      [
+        0.22125533210182372,
+        0.43436185690206586,
+        0.3817055983942358,
+        0.39347674950533,
+        0.3051926171160335,
+        0.0,
+        0.4581118394129576,
+        0.49747472941344,
+        0.46721628830450046,
+        1.075420629260305,
+        0.8779118211520486,
+        0.8799025159432378,
+        2.1830222113741238
+      ],
+      [
+        0.3234161772235942,
+        0.5261907703861131,
+        0.47968517873397926,
+        0.5870548343889828,
+        0.6357239136077418,
+        0.4581118394129576,
+        0.0,
+        0.48559833845251565,
+        0.448216665862727,
+        1.186768663495988,
+        1.0227993956995822,
+        1.0720894264951337,
+        2.4333967679976536
+      ],
+      [
+        0.3507698485682009,
+        0.264084230498119,
+        0.3801352052779859,
+        0.5131851548490372,
+        0.49338464429215895,
+        0.49747472941344,
+        0.48559833845251565,
+        0.0,
+        0.19477781313425477,
+        0.7591628417815636,
+        0.7012883400726795,
+        0.7542311217581581,
+        2.2077981641628424
+      ],
+      [
+        0.33374186528897226,
+        0.26717904759233346,
+        0.2315092959674487,
+        0.5840334807095959,
+        0.5469793201877042,
+        0.46721628830450046,
+        0.448216665862727,
+        0.19477781313425477,
+        0.0,
+        0.8575989875030068,
+        0.8822310880215772,
+        0.8325647072960867,
+        2.3602397366659327
+      ],
+      [
+        1.0435441093838782,
+        0.7128243843454567,
+        1.027924678141904,
+        0.9780623780156995,
+        0.9710209963498875,
+        1.075420629260305,
+        1.186768663495988,
+        0.7591628417815636,
+        0.8575989875030068,
+        0.0,
+        0.5833916872291168,
+        0.48005140345235897,
+        1.8898475710173765
+      ],
+      [
+        0.9177219441603104,
+        0.7652234505597684,
+        1.052870800870099,
+        0.5691863260990183,
+        0.6588800029437861,
+        0.8779118211520486,
+        1.0227993956995822,
+        0.7012883400726795,
+        0.8822310880215772,
+        0.5833916872291168,
+        0.0,
+        0.4830394619059086,
+        1.5065098240901629
+      ],
+      [
+        0.8840887251806218,
+        0.7264796443365682,
+        0.848838777878244,
+        0.8151691415362063,
+        0.745177031180745,
+        0.8799025159432378,
+        1.0720894264951337,
+        0.7542311217581581,
+        0.8325647072960867,
+        0.48005140345235897,
+        0.4830394619059086,
+        0.0,
+        1.5698532480875245
+      ],
+      [
+        2.2389241765468086,
+        2.2713418758235546,
+        2.377263407343836,
+        1.8898974159414779,
+        1.8778295942580903,
+        2.1830222113741238,
+        2.4333967679976536,
+        2.2077981641628424,
+        2.3602397366659327,
+        1.8898475710173765,
+        1.5065098240901629,
+        1.5698532480875245,
+        0.0
+      ]
+    ],
+    "ratio_exceedances": [
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        3,
+        1,
+        3,
+        3
+      ],
+      [
+        0,
+        0,
+        1,
+        1,
+        0,
+        1,
+        2,
+        0,
+        1,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        2,
+        2,
+        2,
+        2
+      ],
+      [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        3,
+        2,
+        3,
+        3
+      ],
+      [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        2,
+        0,
+        1,
+        2,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        3,
+        3,
+        3,
+        3
+      ],
+      [
+        1,
+        2,
+        1,
+        1,
+        2,
+        1,
+        0,
+        2,
+        1,
+        2,
+        2,
+        2,
+        4
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        2,
+        1,
+        2,
+        2
+      ],
+      [
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        2,
+        2,
+        2,
+        2
+      ],
+      [
+        3,
+        0,
+        2,
+        3,
+        2,
+        3,
+        2,
+        2,
+        2,
+        0,
+        0,
+        0,
+        1
+      ],
+      [
+        1,
+        0,
+        2,
+        2,
+        1,
+        3,
+        2,
+        1,
+        2,
+        0,
+        0,
+        0,
+        1
+      ],
+      [
+        3,
+        0,
+        2,
+        3,
+        1,
+        3,
+        2,
+        2,
+        2,
+        0,
+        0,
+        0,
+        1
+      ],
+      [
+        3,
+        2,
+        2,
+        3,
+        3,
+        3,
+        4,
+        2,
+        2,
+        1,
+        1,
+        1,
+        0
+      ]
+    ]
+  },
+  "families": [
+    {
+      "family_id": "R1",
+      "label": "Public analysis",
+      "members": [
+        "c01_american_institutions",
+        "c02_majority_and_mores",
+        "c03_three_races",
+        "c04_democratic_intellect",
+        "c05_feelings_and_association",
+        "c06_manners_and_ambition",
+        "c07_democratic_government",
+        "c08_old_regime_institutions",
+        "c09_old_regime_revolution"
+      ],
+      "centroid": {
+        "mean_sentence_len": 35.416173,
+        "median_sentence_len": 31.222222,
+        "p90_sentence_len": 60.222222,
+        "long_sentence_share": 0.518464,
+        "question_rate": 5.782722,
+        "connective_rate": 47.575287,
+        "hedge_rate": 70.384504,
+        "booster_rate": 40.356652,
+        "second_person_rate": 5.533963,
+        "first_person_rate": 89.483772,
+        "title_mark_rate": 0.0,
+        "core_term_density": 0.0,
+        "flagship_term_density": 0.0
+      },
+      "is_default": true
+    },
+    {
+      "family_id": "R2",
+      "label": "Private political recollection",
+      "members": [
+        "c10_recollections_february",
+        "c11_recollections_republic",
+        "c12_recollections_ministry"
+      ],
+      "centroid": {
+        "mean_sentence_len": 29.531527,
+        "median_sentence_len": 25.333333,
+        "p90_sentence_len": 54.666667,
+        "long_sentence_share": 0.386075,
+        "question_rate": 13.475453,
+        "connective_rate": 39.61736,
+        "hedge_rate": 72.482107,
+        "booster_rate": 38.772668,
+        "second_person_rate": 25.959752,
+        "first_person_rate": 354.748277,
+        "title_mark_rate": 0.0,
+        "core_term_density": 0.0,
+        "flagship_term_density": 0.0
+      },
+      "gradient": [
+        "c11_recollections_republic",
+        "c12_recollections_ministry",
+        "c10_recollections_february"
+      ],
+      "is_default": false,
+      "gradient_axis": "second_person_rate"
+    },
+    {
+      "family_id": "R3",
+      "label": "Correspondence",
+      "members": [
+        "c13_correspondence_kergorlay"
+      ],
+      "centroid": {
+        "mean_sentence_len": 20.552436,
+        "median_sentence_len": 18.0,
+        "p90_sentence_len": 38.0,
+        "long_sentence_share": 0.186623,
+        "question_rate": 22.098116,
+        "connective_rate": 51.026558,
+        "hedge_rate": 87.588895,
+        "booster_rate": 62.678292,
+        "second_person_rate": 230.62397,
+        "first_person_rate": 646.068544,
+        "title_mark_rate": 0.0,
+        "core_term_density": 0.0,
+        "flagship_term_density": 0.0
+      },
+      "is_default": false
+    }
+  ],
+  "gap_table": [
+    {
+      "dimension": "second_person_rate",
+      "by_family": {
+        "R1": 5.533963,
+        "R2": 25.959752,
+        "R3": 230.62397
+      },
+      "max_ratio": 41.674288389712764
+    },
+    {
+      "dimension": "first_person_rate",
+      "by_family": {
+        "R1": 89.483772,
+        "R2": 354.748277,
+        "R3": 646.068544
+      },
+      "max_ratio": 7.219952060134434
+    },
+    {
+      "dimension": "question_rate",
+      "by_family": {
+        "R1": 5.782722,
+        "R2": 13.475453,
+        "R3": 22.098116
+      },
+      "max_ratio": 3.821403830237733
+    },
+    {
+      "dimension": "long_sentence_share",
+      "by_family": {
+        "R1": 0.518464,
+        "R2": 0.386075,
+        "R3": 0.186623
+      },
+      "max_ratio": 2.7781355995777584
+    },
+    {
+      "dimension": "median_sentence_len",
+      "by_family": {
+        "R1": 31.222222,
+        "R2": 25.333333,
+        "R3": 18.0
+      },
+      "max_ratio": 1.734567888888889
+    },
+    {
+      "dimension": "mean_sentence_len",
+      "by_family": {
+        "R1": 35.416173,
+        "R2": 29.531527,
+        "R3": 20.552436
+      },
+      "max_ratio": 1.7232104749042887
+    },
+    {
+      "dimension": "booster_rate",
+      "by_family": {
+        "R1": 40.356652,
+        "R2": 38.772668,
+        "R3": 62.678292
+      },
+      "max_ratio": 1.6165586541529717
+    },
+    {
+      "dimension": "p90_sentence_len",
+      "by_family": {
+        "R1": 60.222222,
+        "R2": 54.666667,
+        "R3": 38.0
+      },
+      "max_ratio": 1.5847953157894736
+    },
+    {
+      "dimension": "connective_rate",
+      "by_family": {
+        "R1": 47.575287,
+        "R2": 39.61736,
+        "R3": 51.026558
+      },
+      "max_ratio": 1.287984812718465
+    },
+    {
+      "dimension": "hedge_rate",
+      "by_family": {
+        "R1": 70.384504,
+        "R2": 72.482107,
+        "R3": 87.588895
+      },
+      "max_ratio": 1.2444343573125127
+    },
+    {
+      "dimension": "title_mark_rate",
+      "by_family": {
+        "R1": 0.0,
+        "R2": 0.0,
+        "R3": 0.0
+      },
+      "max_ratio": 1.0
+    },
+    {
+      "dimension": "core_term_density",
+      "by_family": {
+        "R1": 0.0,
+        "R2": 0.0,
+        "R3": 0.0
+      },
+      "max_ratio": 1.0
+    },
+    {
+      "dimension": "flagship_term_density",
+      "by_family": {
+        "R1": 0.0,
+        "R2": 0.0,
+        "R3": 0.0
+      },
+      "max_ratio": 1.0
+    }
+  ],
+  "forced_splits": [
+    {
+      "a": "c01_american_institutions",
+      "b": "c10_recollections_february",
+      "dimensions": [
+        "question_rate",
+        "second_person_rate",
+        "first_person_rate"
+      ],
+      "ratios": {
+        "question_rate": 4.061671846144656,
+        "second_person_rate": 6.96059015190461,
+        "first_person_rate": 4.802789391798074
+      }
+    },
+    {
+      "a": "c01_american_institutions",
+      "b": "c12_recollections_ministry",
+      "dimensions": [
+        "question_rate",
+        "second_person_rate",
+        "first_person_rate"
+      ],
+      "ratios": {
+        "question_rate": 3.188563451575353,
+        "second_person_rate": 5.27953859178224,
+        "first_person_rate": 4.931828746004733
+      }
+    },
+    {
+      "a": "c01_american_institutions",
+      "b": "c13_correspondence_kergorlay",
+      "dimensions": [
+        "question_rate",
+        "second_person_rate",
+        "first_person_rate"
+      ],
+      "ratios": {
+        "question_rate": 5.546278732047726,
+        "second_person_rate": 43.12849365734813,
+        "first_person_rate": 8.904355672689773
+      }
+    },
+    {
+      "a": "c04_democratic_intellect",
+      "b": "c10_recollections_february",
+      "dimensions": [
+        "question_rate",
+        "second_person_rate",
+        "first_person_rate"
+      ],
+      "ratios": {
+        "question_rate": 4.982150372314929,
+        "second_person_rate": 8.403225573402159,
+        "first_person_rate": 3.608884374015831
+      }
+    },
+    {
+      "a": "c04_democratic_intellect",
+      "b": "c12_recollections_ministry",
+      "dimensions": [
+        "question_rate",
+        "second_person_rate",
+        "first_person_rate"
+      ],
+      "ratios": {
+        "question_rate": 3.911173326937979,
+        "second_person_rate": 6.373763250245183,
+        "first_person_rate": 3.7058463831817505
+      }
+    },
+    {
+      "a": "c04_democratic_intellect",
+      "b": "c13_correspondence_kergorlay",
+      "dimensions": [
+        "question_rate",
+        "second_person_rate",
+        "first_person_rate"
+      ],
+      "ratios": {
+        "question_rate": 6.803207077416323,
+        "second_person_rate": 52.067203058144855,
+        "first_person_rate": 6.690859712217922
+      }
+    },
+    {
+      "a": "c05_feelings_and_association",
+      "b": "c13_correspondence_kergorlay",
+      "dimensions": [
+        "question_rate",
+        "second_person_rate",
+        "first_person_rate"
+      ],
+      "ratios": {
+        "question_rate": 3.691963730798481,
+        "second_person_rate": 19.265337658032863,
+        "first_person_rate": 7.670834167072063
+      }
+    },
+    {
+      "a": "c06_manners_and_ambition",
+      "b": "c10_recollections_february",
+      "dimensions": [
+        "question_rate",
+        "second_person_rate",
+        "first_person_rate"
+      ],
+      "ratios": {
+        "question_rate": 4.264881051993254,
+        "second_person_rate": 18.528535138953394,
+        "first_person_rate": 4.578388692532338
+      }
+    },
+    {
+      "a": "c06_manners_and_ambition",
+      "b": "c11_recollections_republic",
+      "dimensions": [
+        "question_rate",
+        "second_person_rate",
+        "first_person_rate"
+      ],
+      "ratios": {
+        "question_rate": 3.0410399546919957,
+        "second_person_rate": 6.186046268516292,
+        "first_person_rate": 4.702704059510509
+      }
+    },
+    {
+      "a": "c06_manners_and_ambition",
+      "b": "c12_recollections_ministry",
+      "dimensions": [
+        "question_rate",
+        "second_person_rate",
+        "first_person_rate"
+      ],
+      "ratios": {
+        "question_rate": 3.348090235455622,
+        "second_person_rate": 14.05371012808891,
+        "first_person_rate": 4.70139894178465
+      }
+    },
+    {
+      "a": "c06_manners_and_ambition",
+      "b": "c13_correspondence_kergorlay",
+      "dimensions": [
+        "question_rate",
+        "second_person_rate",
+        "first_person_rate"
+      ],
+      "ratios": {
+        "question_rate": 5.823764195976622,
+        "second_person_rate": 114.80460604359035,
+        "first_person_rate": 8.488317517263944
+      }
+    },
+    {
+      "a": "c07_democratic_government",
+      "b": "c13_correspondence_kergorlay",
+      "dimensions": [
+        "long_sentence_share",
+        "question_rate",
+        "second_person_rate",
+        "first_person_rate"
+      ],
+      "ratios": {
+        "long_sentence_share": 3.273229987729272,
+        "question_rate": 37.08726992603732,
+        "second_person_rate": 129.0187426958982,
+        "first_person_rate": 4.443839504418369
+      }
+    }
+  ],
+  "verdict": "MULTI_REGISTER",
+  "notes": "{\"gradient\": \"R2 c11 → c12 → c10 by second-person address; not separate families\", \"boundaries\": \"Direct speech embedded in Recollections remains nested speech; mixed interviews excluded\", \"translation_limit\": \"Families are translation-and-genre-confounded; no French voice accuracy claimed\", \"correction\": \"Two initial blind passages carried metadata/note cues; corrected source units and reran with seed 71.\"} Tool output represented gradient as {axis, order}; normalized to schema gradient array and gradient_axis without changing measurements."
+}

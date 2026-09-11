@@ -1,0 +1,283 @@
+{
+  "package": ".agents/skills/tocqueville-investigator-perspective",
+  "corpus": "local slices; see source-spans.json",
+  "min_hits": 2,
+  "names": [
+    {
+      "name": "Algeria",
+      "hits": 56,
+      "heading_hits": 1,
+      "files": [
+        "c16_selected_correspondence.txt",
+        "c17_critical_scholarship.txt"
+      ],
+      "verdict": "ATTESTED"
+    },
+    {
+      "name": "association",
+      "hits": 402,
+      "heading_hits": 0,
+      "files": [
+        "c01_american_institutions.txt",
+        "c03_three_races.txt",
+        "c05_feelings_and_association.txt",
+        "c06_manners_and_ambition.txt",
+        "c07_democratic_government.txt",
+        "c08_old_regime_institutions.txt",
+        "c12_recollections_ministry.txt",
+        "c15_journey_interviews.txt",
+        "c16_selected_correspondence.txt",
+        "c17_critical_scholarship.txt",
+        "c18_penitentiary_joint_report.txt"
+      ],
+      "verdict": "ATTESTED"
+    },
+    {
+      "name": "centralisation",
+      "hits": 13,
+      "heading_hits": 0,
+      "files": [
+        "c08_old_regime_institutions.txt",
+        "c09_old_regime_revolution.txt"
+      ],
+      "verdict": "ATTESTED"
+    },
+    {
+      "name": "centralization",
+      "hits": 118,
+      "heading_hits": 0,
+      "files": [
+        "c01_american_institutions.txt",
+        "c03_three_races.txt",
+        "c07_democratic_government.txt",
+        "c10_recollections_february.txt",
+        "c11_recollections_republic.txt",
+        "c13_correspondence_kergorlay.txt",
+        "c15_journey_interviews.txt",
+        "c16_selected_correspondence.txt",
+        "c17_critical_scholarship.txt",
+        "c18_penitentiary_joint_report.txt"
+      ],
+      "verdict": "ATTESTED"
+    },
+    {
+      "name": "Gobineau",
+      "hits": 24,
+      "heading_hits": 0,
+      "files": [
+        "c16_selected_correspondence.txt",
+        "c17_critical_scholarship.txt"
+      ],
+      "verdict": "ATTESTED"
+    },
+    {
+      "name": "individualism",
+      "hits": 58,
+      "heading_hits": 0,
+      "files": [
+        "c05_feelings_and_association.txt",
+        "c06_manners_and_ambition.txt",
+        "c07_democratic_government.txt",
+        "c17_critical_scholarship.txt"
+      ],
+      "verdict": "ATTESTED"
+    },
+    {
+      "name": "jury",
+      "hits": 147,
+      "heading_hits": 0,
+      "files": [
+        "c01_american_institutions.txt",
+        "c02_majority_and_mores.txt",
+        "c03_three_races.txt",
+        "c05_feelings_and_association.txt",
+        "c06_manners_and_ambition.txt",
+        "c07_democratic_government.txt",
+        "c08_old_regime_institutions.txt",
+        "c09_old_regime_revolution.txt",
+        "c11_recollections_republic.txt",
+        "c15_journey_interviews.txt",
+        "c16_selected_correspondence.txt",
+        "c17_critical_scholarship.txt",
+        "c18_penitentiary_joint_report.txt"
+      ],
+      "verdict": "ATTESTED"
+    },
+    {
+      "name": "Louis-Napoleon",
+      "hits": 9,
+      "heading_hits": 0,
+      "files": [
+        "c17_critical_scholarship.txt"
+      ],
+      "verdict": "THIN"
+    },
+    {
+      "name": "manners",
+      "hits": 297,
+      "heading_hits": 0,
+      "files": [
+        "c01_american_institutions.txt",
+        "c02_majority_and_mores.txt",
+        "c03_three_races.txt",
+        "c04_democratic_intellect.txt",
+        "c05_feelings_and_association.txt",
+        "c06_manners_and_ambition.txt",
+        "c07_democratic_government.txt",
+        "c08_old_regime_institutions.txt",
+        "c09_old_regime_revolution.txt",
+        "c10_recollections_february.txt",
+        "c11_recollections_republic.txt",
+        "c12_recollections_ministry.txt",
+        "c13_correspondence_kergorlay.txt",
+        "c14_correspondence_stoffels.txt",
+        "c15_journey_interviews.txt",
+        "c16_selected_correspondence.txt",
+        "c17_critical_scholarship.txt",
+        "c18_penitentiary_joint_report.txt"
+      ],
+      "verdict": "ATTESTED"
+    },
+    {
+      "name": "mores",
+      "hits": 73,
+      "heading_hits": 1,
+      "files": [
+        "c02_majority_and_mores.txt",
+        "c16_selected_correspondence.txt",
+        "c17_critical_scholarship.txt"
+      ],
+      "verdict": "ATTESTED"
+    },
+    {
+      "name": "New England",
+      "hits": 150,
+      "heading_hits": 0,
+      "files": [
+        "c01_american_institutions.txt",
+        "c02_majority_and_mores.txt",
+        "c03_three_races.txt",
+        "c06_manners_and_ambition.txt",
+        "c08_old_regime_institutions.txt",
+        "c13_correspondence_kergorlay.txt",
+        "c14_correspondence_stoffels.txt",
+        "c15_journey_interviews.txt",
+        "c16_selected_correspondence.txt",
+        "c17_critical_scholarship.txt",
+        "c18_penitentiary_joint_report.txt"
+      ],
+      "verdict": "ATTESTED"
+    },
+    {
+      "name": "point of departure",
+      "hits": 16,
+      "heading_hits": 0,
+      "files": [
+        "c15_journey_interviews.txt",
+        "c16_selected_correspondence.txt",
+        "c17_critical_scholarship.txt"
+      ],
+      "verdict": "ATTESTED"
+    },
+    {
+      "name": "press",
+      "hits": 927,
+      "heading_hits": 1,
+      "files": [
+        "c01_american_institutions.txt",
+        "c02_majority_and_mores.txt",
+        "c03_three_races.txt",
+        "c04_democratic_intellect.txt",
+        "c05_feelings_and_association.txt",
+        "c06_manners_and_ambition.txt",
+        "c07_democratic_government.txt",
+        "c08_old_regime_institutions.txt",
+        "c09_old_regime_revolution.txt",
+        "c10_recollections_february.txt",
+        "c11_recollections_republic.txt",
+        "c12_recollections_ministry.txt",
+        "c13_correspondence_kergorlay.txt",
+        "c14_correspondence_stoffels.txt",
+        "c15_journey_interviews.txt",
+        "c16_selected_correspondence.txt",
+        "c17_critical_scholarship.txt",
+        "c18_penitentiary_joint_report.txt"
+      ],
+      "verdict": "ATTESTED"
+    },
+    {
+      "name": "Republic",
+      "hits": 214,
+      "heading_hits": 0,
+      "files": [
+        "c01_american_institutions.txt",
+        "c02_majority_and_mores.txt",
+        "c03_three_races.txt",
+        "c09_old_regime_revolution.txt",
+        "c10_recollections_february.txt",
+        "c11_recollections_republic.txt",
+        "c12_recollections_ministry.txt",
+        "c13_correspondence_kergorlay.txt",
+        "c14_correspondence_stoffels.txt",
+        "c15_journey_interviews.txt",
+        "c16_selected_correspondence.txt",
+        "c17_critical_scholarship.txt"
+      ],
+      "verdict": "ATTESTED"
+    },
+    {
+      "name": "Revolution",
+      "hits": 599,
+      "heading_hits": 0,
+      "files": [
+        "c01_american_institutions.txt",
+        "c02_majority_and_mores.txt",
+        "c03_three_races.txt",
+        "c04_democratic_intellect.txt",
+        "c06_manners_and_ambition.txt",
+        "c07_democratic_government.txt",
+        "c08_old_regime_institutions.txt",
+        "c09_old_regime_revolution.txt",
+        "c10_recollections_february.txt",
+        "c11_recollections_republic.txt",
+        "c12_recollections_ministry.txt",
+        "c13_correspondence_kergorlay.txt",
+        "c14_correspondence_stoffels.txt",
+        "c15_journey_interviews.txt",
+        "c16_selected_correspondence.txt",
+        "c17_critical_scholarship.txt"
+      ],
+      "verdict": "ATTESTED"
+    },
+    {
+      "name": "soft despotism",
+      "hits": 1,
+      "heading_hits": 0,
+      "files": [
+        "c17_critical_scholarship.txt"
+      ],
+      "verdict": "THIN"
+    },
+    {
+      "name": "women",
+      "hits": 136,
+      "heading_hits": 0,
+      "files": [
+        "c01_american_institutions.txt",
+        "c02_majority_and_mores.txt",
+        "c03_three_races.txt",
+        "c05_feelings_and_association.txt",
+        "c06_manners_and_ambition.txt",
+        "c08_old_regime_institutions.txt",
+        "c11_recollections_republic.txt",
+        "c13_correspondence_kergorlay.txt",
+        "c15_journey_interviews.txt",
+        "c16_selected_correspondence.txt",
+        "c17_critical_scholarship.txt",
+        "c18_penitentiary_joint_report.txt"
+      ],
+      "verdict": "ATTESTED"
+    }
+  ],
+  "verdict": "PASS"
+}
