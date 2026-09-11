@@ -32,6 +32,9 @@ def main():
                 if not target or re.match(r'^[a-zA-Z][\w+.-]*:',target):continue
                 path=p.parent/target
                 require(path.exists(),f'{p.relative_to(ROOT)}: missing link {target}')
+                if p==ROOT/'README.md':
+                    relative=path.relative_to(ROOT)
+                    require(not any((ROOT/Path(*relative.parts[:i])).is_symlink() for i in range(1,len(relative.parts)+1)),f'README link traverses a symlink instead of a GitHub file path: {target}')
             if p.is_relative_to(SKILL):
                 require(not p.name.startswith(('provenance','fidelity','scores')),'Audit file in runtime: '+str(p))
         for target in re.findall(r'`(references/[^`]+\.md)`',core):
