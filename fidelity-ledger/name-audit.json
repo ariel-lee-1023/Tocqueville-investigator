@@ -1,5 +1,5 @@
 {
-  "package": ".agents/skills/tocqueville-investigator-perspective",
+  "package": ".",
   "corpus": "local slices; see source-spans.json",
   "min_hits": 2,
   "names": [

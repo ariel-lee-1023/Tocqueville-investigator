@@ -132,5 +132,7 @@
   ],
   "errors": 0,
   "warnings": 0,
-  "verdict": "PASS"
+  "verdict": "PASS",
+  "historical": true,
+  "scope_note": "Report for the former nested layout before the 2026-09-12 root migration. Current layout is checked by scripts/validate.py and recorded in layout-validation.json."
 }

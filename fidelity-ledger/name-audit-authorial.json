@@ -1,5 +1,5 @@
 {
-  "package": ".agents/skills/tocqueville-investigator-perspective",
+  "package": ".",
   "corpus": "firsthand units plus identified authorial letter passages",
   "min_hits": 2,
   "names": [

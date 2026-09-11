@@ -94,7 +94,7 @@ The corrected name-masked source discrimination scored 12/12 with seed 71. Its s
 
 The three generated samples were measured with the same style script. Initial means were 25.32, 19.15, and 15.44 words for public analysis, recollection, and correspondence; voice guidance and samples were revised. Final means are 31.81, 30.44, and 20.75, against source means 35.49, 29.62, and 20.67. The public sample has 509 words and addresses a contested proposal. Avoid-list violations are zero. Pronoun and punctuation modulation remains incomplete, and the revised samples are development material. Style is therefore partial, not an unconditional pass.
 
-Mechanical package checks and source replay are reported separately. [fidelity.json](fidelity.json) binds the current results to the canonical runtime content hash; [test-hashes.json](test-hashes.json) records per-result association and sample hashes.
+Mechanical package checks and source replay are reported separately. [fidelity.json](fidelity.json) distinguishes the historical evaluation hash from the current runtime hash; [test-hashes.json](test-hashes.json) records per-result association and sample hashes. Runtime hashing includes only root `SKILL.md` and `references/`, using their relative paths. The root-layout migration preserved all runtime bytes and that hash.
 
 ## 7. Comparison with the earlier package
 

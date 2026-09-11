@@ -44,5 +44,12 @@ for name,ids in [('c91',range(1,10)),('c92',range(10,13)),('c93',[13])]:
  (families/(name+'.txt')).write_text('\n\n'.join(next(units.glob(f'c{i:02}*')).read_text() for i in ids))
 run('style_metrics.py',families,'--per-file','--json',w/'style-metrics.json')
 run('holdout_split.py',ROOT/'fidelity-ledger/passages.json','--seed',42,'--frac',.12,'--stratify','--out',w/'holdout-split.json')
-run('token_count.py',ROOT/'.agents/skills/tocqueville-investigator-perspective','--per-file','--json',w/'token-counts.json')
+# Count only runtime content, excluding the audit and repository documentation.
+runtime=w/'runtime';runtime.mkdir()
+shutil.copy2(ROOT/'SKILL.md',runtime/'SKILL.md')
+shutil.copytree(ROOT/'references',runtime/'references')
+run('token_count.py',runtime,'--per-file','--json',w/'token-counts.json')
+counts_path=w/'token-counts.json';counts=json.loads(counts_path.read_text())
+for item in counts['files']:item['file']=Path(item['file']).relative_to(runtime).as_posix()
+counts_path.write_text(json.dumps(counts,indent=2)+'\n')
 print('Measurements complete. Editorial inference and blind classification are separate human/agent tasks.')

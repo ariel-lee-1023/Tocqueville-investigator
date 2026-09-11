@@ -23,19 +23,39 @@ The previous unsupported fidelity percentages have been retired. The current aud
 
 ## Layout and use
 
-The canonical runtime package is [.agents/skills/tocqueville-investigator-perspective](.agents/skills/tocqueville-investigator-perspective). Its folder and frontmatter names match. Root `SKILL.md` and `references` are relative symlinks to that package; the links below point directly to the canonical files for browsing on GitHub. The aliases preserve the repository's existing root entry point without maintaining duplicate copies. [AGENTS.md](AGENTS.md) preserves the project's default conversation and explicit-maintenance behavior.
+The runtime files live directly at the repository root, following the layout of [Leopold-Kohr-perspective](https://github.com/ariel-lee-1023/Leopold-Kohr-perspective). `SKILL.md` and `references/` are real files and directories. There is one copy of the skill, with no symlink entry points or nested runtime package.
 
-For a skill loader, use the inner directory containing `SKILL.md` and `references/`. For a loader that starts at the project root, use the root `SKILL.md`. Copying the inner directory gives a self-contained runtime package. The human audit is separate and need not be supplied to the persona.
+```text
+tocqueville-investigator/
+├── SKILL.md
+├── references/
+│   ├── frameworks.md
+│   ├── voice.md
+│   └── clusters/
+│       ├── democratic-society.md
+│       ├── old-regime.md
+│       ├── inquiry-and-correspondence.md
+│       └── political-action.md
+├── fidelity-ledger/
+├── scripts/
+├── AGENTS.md
+├── README.md
+├── CHANGELOG.md
+├── NOTICE.md
+└── LICENSE
+```
+
+[AGENTS.md](AGENTS.md) loads the root [SKILL.md](SKILL.md) for project conversations and preserves explicit maintenance requests. To use the persona elsewhere, copy `SKILL.md` together with `references/` into one skill directory. The core's relative paths resolve from that directory. The audit remains separate and need not be supplied to the persona.
 
 | Runtime file | Purpose |
 |---|---|
-| [SKILL.md](.agents/skills/tocqueville-investigator-perspective/SKILL.md) | Identity, ordered inquiry, commitments, voice switches, vocabulary, and loading contract |
-| [frameworks.md](.agents/skills/tocqueville-investigator-perspective/references/frameworks.md) | Method, evidence, causal distinctions, historical judgments, personal scale |
-| [voice.md](.agents/skills/tocqueville-investigator-perspective/references/voice.md) | Three translated register profiles, editing guidance, and examples |
-| [Democratic society](.agents/skills/tocqueville-investigator-perspective/references/clusters/democratic-society.md) | Institutions, associations, opinion, religion, industry, and manners |
-| [Old regime](.agents/skills/tocqueville-investigator-perspective/references/clusters/old-regime.md) | Continuity, class separation, reform, and revolutionary preparation |
-| [Inquiry and correspondence](.agents/skills/tocqueville-investigator-perspective/references/clusters/inquiry-and-correspondence.md) | Questioning, comparison, disagreement, friendship, and doubt |
-| [Political action](.agents/skills/tocqueville-investigator-perspective/references/clusters/political-action.md) | Actors, coalitions, 1848–1851, allegiance, and national ambition |
+| [SKILL.md](SKILL.md) | Identity, ordered inquiry, commitments, voice switches, vocabulary, and loading contract |
+| [frameworks.md](references/frameworks.md) | Method, evidence, causal distinctions, historical judgments, personal scale |
+| [voice.md](references/voice.md) | Three translated register profiles, editing guidance, and examples |
+| [Democratic society](references/clusters/democratic-society.md) | Institutions, associations, opinion, religion, industry, and manners |
+| [Old regime](references/clusters/old-regime.md) | Continuity, class separation, reform, and revolutionary preparation |
+| [Inquiry and correspondence](references/clusters/inquiry-and-correspondence.md) | Questioning, comparison, disagreement, friendship, and doubt |
+| [Political action](references/clusters/political-action.md) | Actors, coalitions, 1848–1851, allegiance, and national ambition |
 
 Example requests:
 
@@ -58,7 +78,7 @@ Run the repository checks with Python 3:
 python3 scripts/validate.py
 ```
 
-The checks enforce package discovery, relative links, source and element IDs, score arithmetic, audit completeness, and the current runtime hash. Earlier fidelity results are explicitly marked as historical after the auxiliary reference was removed. They do not certify historical truth or literary likeness. [Measurement instructions](fidelity-ledger/reproduction.md) explain how to repeat corpus measurements with local source files and the persona-distiller tools.
+The checks enforce the root layout, regular runtime files, relative links, source and element IDs, score arithmetic, audit completeness, and the current runtime hash. Earlier fidelity results are explicitly marked as historical after the auxiliary reference was removed. They do not certify historical truth or literary likeness. [Measurement instructions](fidelity-ledger/reproduction.md) explain how to repeat corpus measurements with local source files and the persona-distiller tools.
 
 ## Sources and rights
 

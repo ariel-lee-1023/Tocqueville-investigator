@@ -1,0 +1,16 @@
+{
+  "date": "2026-09-12",
+  "layout_reference": "https://github.com/ariel-lee-1023/Leopold-Kohr-perspective",
+  "reference_commit": "cb00da4201b70872274d9ba09938b8062a4c8038",
+  "skill_root": ".",
+  "checks": {
+    "root_runtime_regular_files": true,
+    "runtime_content_hash_unchanged": true,
+    "runtime_only_token_counts_unchanged": true,
+    "export_without_git_validates": true,
+    "reintroduced_root_symlink_rejected": true,
+    "scripts_compile": true
+  },
+  "fidelity_scope": "Directory migration only; earlier historical fidelity evaluations were not rerun.",
+  "verdict": "PASS"
+}

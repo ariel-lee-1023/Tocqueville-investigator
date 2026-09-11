@@ -3,11 +3,11 @@
 from pathlib import Path
 import hashlib,json,re,sys
 ROOT=Path(__file__).resolve().parents[1]
-SKILL=ROOT/'.agents/skills/tocqueville-investigator-perspective'
+SKILL=ROOT
 
 def runtime_hash():
     h=hashlib.sha256()
-    for p in sorted(SKILL.rglob('*.md')):
+    for p in sorted([SKILL/'SKILL.md', *(SKILL/'references').rglob('*.md')]):
         h.update(p.relative_to(SKILL).as_posix().encode()+b'\0'+p.read_bytes()+b'\0')
     return 'sha256:'+h.hexdigest()
 
@@ -18,10 +18,12 @@ def main():
     def load(name):return json.loads((ROOT/'fidelity-ledger'/name).read_text())
     try:
         core=(SKILL/'SKILL.md').read_text()
-        require(re.search(r'^name: tocqueville-investigator-perspective$',core,re.M),'Skill frontmatter/folder mismatch')
-        require((ROOT/'SKILL.md').resolve()==(SKILL/'SKILL.md').resolve(),'Root skill alias is not canonical')
-        require((ROOT/'references').resolve()==(SKILL/'references').resolve(),'Root reference alias is not canonical')
-        require(not (ROOT/'.agents/skills/tocqueville-investigator').exists(),'Obsolete recursive discovery alias remains')
+        require(re.search(r'^name: tocqueville-investigator-perspective$',core,re.M),'Unexpected skill name')
+        require((ROOT/'SKILL.md').is_file() and not (ROOT/'SKILL.md').is_symlink(),'Root SKILL.md must be a regular file')
+        require((ROOT/'references').is_dir() and not (ROOT/'references').is_symlink(),'Root references must be a real directory')
+        require(not (ROOT/'.agents/skills').exists(),'Unexpected nested runtime package')
+        for p in ROOT.rglob('*'):
+            if '.git' not in p.parts:require(not p.is_symlink(),'Unexpected symlink: '+str(p.relative_to(ROOT)))
         for heading in ['The axis','How I read a question','What I will not concede','How I move in an exchange','How I sound','What my vocabulary is for','When I stop','Loading depth (host-agent note)']:
             require('## '+heading in core,'Missing core section: '+heading)
         for p in sorted(ROOT.rglob('*.md')):
@@ -35,7 +37,7 @@ def main():
                 if p==ROOT/'README.md':
                     relative=path.relative_to(ROOT)
                     require(not any((ROOT/Path(*relative.parts[:i])).is_symlink() for i in range(1,len(relative.parts)+1)),f'README link traverses a symlink instead of a GitHub file path: {target}')
-            if p.is_relative_to(SKILL):
+            if p==SKILL/'SKILL.md' or p.is_relative_to(SKILL/'references'):
                 require(not p.name.startswith(('provenance','fidelity','scores')),'Audit file in runtime: '+str(p))
         for target in re.findall(r'`(references/[^`]+\.md)`',core):
             require((SKILL/target).is_file(),'Missing runtime route: '+target)

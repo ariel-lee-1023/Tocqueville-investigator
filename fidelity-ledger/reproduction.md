@@ -13,7 +13,7 @@ python3 scripts/measure_corpus.py \
   --work /tmp/tocqueville-measurements
 ```
 
-The scratch directory must be new or empty and outside this repository. The command verifies source checksums, reconstructs the eighteen broad slices, invokes cleaning and segmentation, removes bracketed material and repeated letter metadata for style, runs register discovery and per-family metrics, replays the seeded chapter split, and counts the runtime package. It uses only Python's standard library plus the distiller's standard-library scripts. The family memberships are the accepted discovery result; a changed discovery result requires editorial review before reusing them.
+The scratch directory must be new or empty and outside this repository. The command verifies source checksums, reconstructs the eighteen broad slices, invokes cleaning and segmentation, removes bracketed material and repeated letter metadata for style, runs register discovery and per-family metrics, replays the seeded chapter split, and counts only the root `SKILL.md` plus `references/`, copied into the scratch directory for measurement. It uses only Python's standard library plus the distiller's standard-library scripts. The family memberships are the accepted discovery result; a changed discovery result requires editorial review before reusing them.
 
 The initial broad raw-file cleaning census is published separately. Slices preserve original line boundaries, so they are reconstructed from originals and cleaned after segmentation. Mixed files remain mixed even after mechanical repairs. The selected-letter OCR has substantial remaining corruption and is excluded from the style baseline. Removing bracketed notes is deliberately conservative and also removes some authorial notes.
 

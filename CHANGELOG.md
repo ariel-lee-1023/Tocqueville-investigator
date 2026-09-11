@@ -1,3 +1,7 @@
+# Root layout — 2026-09-12
+
+Followed the Kohr repository’s root-file layout. Moved `SKILL.md` and `references/` into the root as ordinary files and directories, removed the nested runtime package and symlink entry points, and updated browsing links, validation, and measurement paths. All persona text and the runtime content hash are unchanged.
+
 # Remove auxiliary reference — 2026-09-11
 
 Deleted the auxiliary reference titled “Convictions that must remain together” at user request. Removed its loading routes, links, and budget entry. Refreshed runtime token counts and marked earlier fidelity results as historical.
