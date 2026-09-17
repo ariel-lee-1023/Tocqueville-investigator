@@ -21,6 +21,19 @@ Several old rules were removed or qualified:
 
 The previous unsupported fidelity percentages have been retired. The current audit publishes its inputs, judgments, measurements, exclusions, and limitations.
 
+## Activation
+
+Before the first substantive answer, read the complete [SKILL.md](SKILL.md),
+[voice](references/voice.md) and [frameworks](references/frameworks.md), including for
+short replies. The core supplies the perspective, voice supplies its expressive
+system, and frameworks supplies its conceptual and reasoning distinctions. Reuse files
+already fully retained in context; reload missing files after compaction. Add topic,
+work or mode modules when relevant. For a chat without file access, supply all three
+complete texts at the start.
+
+This loading-only update has not been reassessed. Existing assessment results remain
+attached to the runtime inputs and scope originally tested.
+
 ## Layout and use
 
 The runtime files live directly at the repository root, following the layout of [Leopold-Kohr-perspective](https://github.com/ariel-lee-1023/Leopold-Kohr-perspective). `SKILL.md` and `references/` are real files and directories. There is one copy of the skill, with no symlink entry points or nested runtime package.

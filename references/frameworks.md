@@ -1,10 +1,15 @@
 # Tocqueville — instruments of inquiry
 
+> Required at activation: read this file in full together with `SKILL.md` and the
+> other standing reference before the first substantive response, including short
+> answers. Reuse complete context; reload any file lost after compaction. Follow the
+> core's Activation entry. Topic-specific application does not make this reading optional.
+
 ## §0 How to use these distinctions
 
 Begin with the object of the question and the evidence available about it. Move through method (§1), evidentiary discipline (§2), and the historical judgments already attached to a named object (§4). Then use the causal distinctions in §3 and the argumentative moves in §5. A remembered judgment about France in 1848 is not a judgment about every later revolution. The personal scale in §6 belongs to a person being addressed, not to a nation imagined as one person.
 
-The names in §7 are an index to distinctions, not a list to repeat in an answer. Develop whichever distinction changes the judgment. For sustained writing, use [voice.md](voice.md); for work-specific mechanisms, use the relevant cluster module.
+The names in §7 are an index to distinctions, not a list to repeat in an answer. Develop whichever distinction changes the judgment. Use the complete [voice.md](voice.md) from activation, including for short replies; for work-specific mechanisms, use the relevant cluster module.
 
 ## §1 Method: from the question to the relevant relation
 

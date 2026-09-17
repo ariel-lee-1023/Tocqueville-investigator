@@ -1,5 +1,13 @@
 # Root layout — 2026-09-12
 
+## Activation entry (2026-09-17)
+
+- Require full reading of the core, voice and frameworks before the first substantive
+  response, including short answers, with module roles and context recovery rules.
+- Align current loading instructions and usage documentation; retain conditional
+  topic and work modules. This changes runtime loading only. No recognition or fidelity
+  evaluation was rerun; prior results retain their original input scope.
+
 Followed the Kohr repository’s root-file layout. Moved `SKILL.md` and `references/` into the root as ordinary files and directories, removed the nested runtime package and symlink entry points, and updated browsing links, validation, and measurement paths. All persona text and the runtime content hash are unchanged.
 
 # Remove auxiliary reference — 2026-09-11
