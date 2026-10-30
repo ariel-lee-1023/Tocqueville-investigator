@@ -125,3 +125,41 @@ The old text prescribed a single master cause, origins as unfolding seeds, mores
 - Length cost: no runtime change.
 - Not re-tested: no runtime results invalidated; the independent evaluations listed above remain unperformed.
 - Left undone: upstream correction to persona-distiller is outside this repository rebuild.
+
+
+## README editorial review 2026-10-30
+
+Scope: README and this appended editorial record only, following Persona-Distiller
+revision `b515337` and its `references/readme-experience.md`. This is an editorial
+update, not a persona rebuild or a new acceptance assessment. Biographical checks
+below supply the introduction date only; the persona source corpus was not expanded.
+
+- **Passage decisions:** Replace the third-person opening and move rebuild history into the existing ledger. Preserve the neighborhood-budget prompt, correspondence and Algeria questions, four topic routes, original language behavior, and explicit assessment limits.
+- **Runtime/evidence basis:** The core’s relations and civic habits, frameworks §1 on national direction/local execution, democratic-society module, and voice R1 public analysis support the neighborhood example. The core explicitly permits scrutiny of privilege and exclusion within local institutions.
+- **Particularity:** Administrative regularity is granted before examining the capacities residents cease to exercise; local liberty is also tested for exclusion.
+- **Encounter:** The prompt identifies who decides, pays, executes, and answers for mistakes, inviting comparison of actual practices.
+- **Entry and language:** Real clone URL, root layout, verified skill slug, and complete activation contract are explicit. The core declares no fixed output language and tells the runtime to match the user. Preserve the existing English README; do not add a runtime language rule during a README-only task.
+- **Honesty:** The visible first-person opening is locally labeled as newly written
+  reconstruction, not an authentic quotation or observed package output. Suggested
+  prompts are labeled. Source gaps, historical test limitations, and existing Candidate
+  status where applicable remain in the README; no assessment result is promoted.
+- **Birth-date verification:** 29 July 1805. Source/locator: [Académie française, Alexis de Tocqueville, Biographie](https://www.academie-francaise.fr/les-immortels/alexis-de-tocqueville). Checked
+  2026-10-30. No death date or lifespan range appears in the title or opening.
+
+Runtime files, source/evidence packets, assessment inputs, saved outputs, and existing
+validation records are preserved. New recognition calls: **0**. Package and README
+checks for this pass are recorded below separately from historical assessments.
+
+### Checks completed in this editorial pass
+
+README opening placement, birth-date form, example labels, installation entry,
+and 16 local links/anchors passed inspection; `git diff --check` passed.
+Every other existing file remains byte-identical to the baseline, including the
+core, references, evidence, assessment inputs, and saved results. Pre-existing
+working-tree changes were preserved. The latest package validator reported
+9 errors/1 warnings before and 9 errors/1 warnings after;
+there are no new failure codes and no missing README-local paths. This is a
+documentation pass, not a current package pass. Existing layout/runtime-route
+issues remain outside this README task. Historical whole-package hashes that
+included documentation continue to describe their original trees. Recognition
+calls remain **0**.

@@ -1,100 +1,117 @@
 # Let Alexis de Tocqueville serve as your investigator
 
-A source-grounded perspective for investigating how social conditions, institutions, habits, and political choices shape the prospects for liberty. It answers directly in the user's language, with public analysis as its default and distinct guidance for private recollection and correspondence.
+I am Alexis de Tocqueville (29 July 1805). You tell me that a central office
+could conduct the business of several neighborhoods with greater regularity.
+I can readily believe it. I should still wish to know what the inhabitants
+will cease to do together when the office takes charge, and where they will
+learn the judgment and perseverance which their common affairs formerly required.
 
-The investigator begins by distinguishing the question's terms, follows power through actual practices, tests explanations by comparison, and separates a long tendency from the choices that realize it. He retains attachments that do not form a perfectly consistent system: liberty and order, equality and aristocratic taste, religious aspiration and doubt, domestic freedom and French colonial ambition.
+The administrative result and the effect upon the citizen may differ. Yet I
+would not conclude that every local power serves liberty: a neighborhood can
+defend a privilege as readily as a right. We must examine who decides, who
+pays, who is excluded, and who can correct a mistake. Comparison becomes
+useful when it tests one of these relations.
 
-## What was rebuilt
+Bring me a reform whose consequences seem obvious to both its friends and its
+enemies. I shall look for the practice each has omitted. Equality changes men's
+expectations and their relations with one another; it does not decide in advance
+whether they will become capable of governing themselves. The choices that
+form their habits remain part of the inquiry.
 
-The earlier version reduced Tocqueville to eighteen reconstructed judgments and one survey-report voice. This revision returns to the five supplied books, brings *The Old Regime* and *Recollections* into the method, and uses the letters and travel notebooks to recover disagreement, inquiry, friendship, and costly political choices.
+*This introduction is a newly written, source-grounded persona reconstruction,
+not a historical quotation. [Editorial and birth-date notes](fidelity-ledger/provenance.md#readme-editorial-review-2026-10-30).*
 
-Several old rules were removed or qualified:
+This investigator examines democracy, institutions, social habits, and liberty.
+It retains Tocqueville's tensions, including his defense of liberty at home
+alongside French colonial ambition. Contemporary cases apply his methods;
+they do not supply historical endorsements or independently validated forecasts.
 
-- Origins influence a development; they do not contain an inevitable future.
-- Mores matter greatly, and institutions also form mores. An unexplained difference is not automatically “culture.”
-- Comparison tests a relevant explanation; it is not automatically a controlled experiment.
-- General causes and particular actions both matter. Tocqueville was not incapable of firm or mistaken forecasts.
-- National authority and administrative tutelage are different kinds of power.
-- Opposition to Gobineau's racial fatalism belongs alongside Tocqueville's prejudices and colonial commitments.
-- His account of women combines a claim to equal worth with prescribed unequal functions.
-- Contemporary facts can be researched and analyzed; 1859 limits historical attribution, not the subjects the investigator can address.
+## Begin with a change in who can act
 
-The previous unsupported fidelity percentages have been retired. The current audit publishes its inputs, judgments, measurements, exclusions, and limitations.
+**Suggested first prompt:**
 
-## Activation
+> A city wants to replace neighborhood budgets with a central office. Here are
+> the current and proposed arrangements. Investigate who will decide, pay,
+> execute, and answer for mistakes, and what residents will gain or lose the
+> opportunity to do together.
 
-Before the first substantive answer, read the complete [SKILL.md](SKILL.md),
-[voice](references/voice.md) and [frameworks](references/frameworks.md), including for
-short replies. The core supplies the perspective, voice supplies its expressive
-system, and frameworks supplies its conceptual and reasoning distinctions. Reuse files
-already fully retained in context; reload missing files after compaction. Add topic,
-work or mode modules when relevant. For a chat without file access, supply all three
-complete texts at the start.
+Bring actual practices as well as the legal plan. The inquiry distinguishes
+national coordination from administrative tutelage and asks how institutions
+train habits. Greater regularity may have a civic cost; a local arrangement
+may also perpetuate exclusion. Neither consequence follows from the label alone.
 
-This loading-only update has not been reassessed. Existing assessment results remain
-attached to the runtime inputs and scope originally tested.
+Other suggested questions:
 
-## Layout and use
+- Why might reform increase dissatisfaction before it reduces it?
+- How could a letter firmly reject a friend's doctrine without ending the friendship?
+- How can opposition to racial fatalism coexist with support for French Algeria?
 
-The runtime files live directly at the repository root, following the layout of [Leopold-Kohr-perspective](https://github.com/ariel-lee-1023/Leopold-Kohr-perspective). `SKILL.md` and `references/` are real files and directories. There is one copy of the skill, with no symlink entry points or nested runtime package.
+Public analysis is the default. A requested political recollection gives more
+space to actors and conduct; correspondence permits affection, disagreement,
+and unfinished thought. No form licenses invented memories of a modern event.
 
-```text
-tocqueville-investigator/
-├── SKILL.md
-├── references/
-│   ├── frameworks.md
-│   ├── voice.md
-│   └── clusters/
-│       ├── democratic-society.md
-│       ├── old-regime.md
-│       ├── inquiry-and-correspondence.md
-│       └── political-action.md
-├── fidelity-ledger/
-├── scripts/
-├── AGENTS.md
-├── README.md
-├── CHANGELOG.md
-├── NOTICE.md
-└── LICENSE
-```
-
-[AGENTS.md](AGENTS.md) loads the root [SKILL.md](SKILL.md) for project conversations and preserves explicit maintenance requests. To use the persona elsewhere, copy `SKILL.md` together with `references/` into one skill directory. The core's relative paths resolve from that directory. The audit remains separate and need not be supplied to the persona.
-
-| Runtime file | Purpose |
-|---|---|
-| [SKILL.md](SKILL.md) | Identity, ordered inquiry, commitments, voice switches, vocabulary, and loading contract |
-| [frameworks.md](references/frameworks.md) | Method, evidence, causal distinctions, historical judgments, personal scale |
-| [voice.md](references/voice.md) | Three translated register profiles, editing guidance, and examples |
-| [Democratic society](references/clusters/democratic-society.md) | Institutions, associations, opinion, religion, industry, and manners |
-| [Old regime](references/clusters/old-regime.md) | Continuity, class separation, reform, and revolutionary preparation |
-| [Inquiry and correspondence](references/clusters/inquiry-and-correspondence.md) | Questioning, comparison, disagreement, friendship, and doubt |
-| [Political action](references/clusters/political-action.md) | Actors, coalitions, 1848–1851, allegiance, and national ambition |
-
-Example requests:
-
-- “A city wants to replace neighborhood budgets with a central office. Investigate what that changes.”
-- “Why might reform increase dissatisfaction before it reduces it?”
-- “Write a short letter disagreeing with the claim that citizens are permanently unfit for self-government.”
-- “Explain the tension between Tocqueville's rejection of racial fatalism and his support for French Algeria.”
-
-The reasoning sequence is not a mandatory answer template. A short question can receive a short answer. Generated prose and illustrative dialogue are not authentic historical quotations.
-
-## Evidence and validation
-
-[Coverage report](fidelity-ledger/coverage-report.md) and [provenance](fidelity-ledger/provenance.md) give the full accounting. Primary prose, mixed documents, and scholarship are distinguished; the duplicate *Democracy* and second *Old Regime* translation are excluded from independent corroboration. Interviewees' answers, editorial introductions, coauthored prison material, and OCR-damaged selected letters do not enter the voice baseline.
-
-The measured source profiles distinguish public analysis, private recollection, and correspondence. A name-masked classification check assigned 12 of 12 source samples correctly. A heading-visible, same-agent reconstruction check scored 23/26 across thirteen usable items; it is **not an independent prediction benchmark**. Generated prose samples were measured and revised, but still differ in pronoun and punctuation patterns. No claim of indistinguishability from Tocqueville, French-language stylometric fidelity, or independently validated modern forecasting is made.
-
-Run the repository checks with Python 3:
+## Use the investigator
 
 ```sh
-python3 scripts/validate.py
+git clone https://github.com/ariel-lee-1023/tocqueville-investigator.git
 ```
 
-The checks enforce the root layout, regular runtime files, relative links, source and element IDs, score arithmetic, audit completeness, and the current runtime hash. Earlier fidelity results are explicitly marked as historical after the auxiliary reference was removed. They do not certify historical truth or literary likeness. [Measurement instructions](fidelity-ledger/reproduction.md) explain how to repeat corpus measurements with local source files and the persona-distiller tools.
+Open the folder with an agent that reads [AGENTS.md](AGENTS.md), which activates
+the local perspective while preserving explicit requests to change modes or
+maintain the files. The current runtime follows the user's language and format.
+For another skill host, install [SKILL.md](SKILL.md) and
+[references](references/) together under `tocqueville-investigator-perspective`.
+The repository keeps one regular root runtime copy.
 
-## Sources and rights
+Before the first substantive answer, read the complete core,
+[voice](references/voice.md), and [frameworks](references/frameworks.md), even
+for short replies. Reuse retained context; reload missing files after compaction.
+Add relevant topic modules when needed. Without file access, supply those three
+complete texts and the relevant topic material at the start.
 
-The five supplied Markdown books are identified by filename and SHA-256 in [source-manifest.json](fidelity-ledger/source-manifest.json). The Cambridge Companion is critical scholarship, never Tocqueville's own voice. Its colonial discussion supports qualified historical interpretation where the supplied collection lacks the relevant standalone reports.
+## Follow the question into the sources
 
-No full source texts or extracted working corpus are committed. [NOTICE.md](NOTICE.md) distinguishes the original reconstruction from cited works and translations. MIT © 2026 Ariel Lee; see [LICENSE](LICENSE).
+| Question | Reference module |
+|---|---|
+| Associations, opinion, religion, industry, and everyday relations | [Democratic society](references/clusters/democratic-society.md) |
+| Administrative continuity, class separation, and revolutionary preparation | [Old regime](references/clusters/old-regime.md) |
+| Interviews, comparison, private disagreement, friendship, and doubt | [Inquiry and correspondence](references/clusters/inquiry-and-correspondence.md) |
+| Actors, coalitions, 1848–1851, and national ambition | [Political action](references/clusters/political-action.md) |
+
+The five supplied books bring *Democracy in America*, *The Old Regime*,
+*Recollections*, travel notes, correspondence, and critical scholarship into
+the reconstruction. Their exact identities and hashes are in the
+[source manifest](fidelity-ledger/source-manifest.json). The 2006 Cambridge
+Companion supplies scholarship, never Tocqueville's own voice. Duplicated
+works and alternative translations do not provide independent corroboration.
+
+The personal record runs from the 1820s to 1859; later publication does not
+extend his lifetime knowledge. That boundary limits historical attribution,
+not the possibility of researching a present-day question. His judgments on
+slavery, race, women, and colonial rule retain their historical tensions rather
+than forming an entirely consistent defense of equal freedom.
+
+## Evidence and limits
+
+The [coverage report](fidelity-ledger/coverage-report.md) and
+[provenance](fidelity-ledger/provenance.md) distinguish primary prose,
+interviewees' answers, mixed documents, editorial material, and scholarship.
+OCR-damaged selected letters were excluded from the voice baseline.
+
+A name-masked check classified 12 source samples correctly. A heading-visible,
+same-agent reconstruction check scored 23/26 over thirteen usable items; it
+was not an independent prediction benchmark. Generated samples still differed
+in pronoun and punctuation patterns. These results establish neither French
+stylometric fidelity nor independently validated modern forecasting.
+
+Historical assessments retain the runtime inputs and scope originally tested;
+the loading update has not been reassessed, and this README revision adds no
+recognition calls. The repository's structural check is
+`python3 scripts/validate.py`. [Reproduction notes](fidelity-ledger/reproduction.md)
+explain the corpus measurements; a structural pass is not a literary likeness test.
+
+## Rights
+
+No full source texts or extracted working corpus are committed. [NOTICE](NOTICE.md)
+distinguishes the reconstruction from cited works and translations.
+[MIT](LICENSE) © 2026 Ariel Lee covers the original repository material.
