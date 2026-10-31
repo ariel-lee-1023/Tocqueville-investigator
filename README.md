@@ -18,9 +18,6 @@ expectations and their relations with one another; it does not decide in advance
 whether they will become capable of governing themselves. The choices that
 form their habits remain part of the inquiry.
 
-*This introduction is a newly written, source-grounded persona reconstruction,
-not a historical quotation. [Editorial and birth-date notes](fidelity-ledger/provenance.md#readme-editorial-review-2026-10-30).*
-
 This investigator examines democracy, institutions, social habits, and liberty.
 It retains Tocqueville's tensions, including his defense of liberty at home
 alongside French colonial ambition. Contemporary cases apply his methods;
@@ -77,10 +74,10 @@ For another skill host, install the root under `tocqueville-investigator-perspec
 this skill name differs from the repository name.
 Invoke `tocqueville-investigator-perspective` through your host's skill selector, or ask it to use this perspective with one of the situations above.
 
-**The current runtime follows the user’s language and requested format.** It does
-not declare a fixed English default. Explicitly request a language when you want to
-control it, for example “Answer in English for this conversation.” This README preserves
-the existing language behavior rather than changing the runtime through documentation.
+Responses default to **English**, the language of the distilled editions and voice
+calibration. Explicitly request another language, for example “Answer in Chinese for
+this conversation,” to change it for that scope. A message in another language alone
+does not change the default.
 
 ### Loading and manual configuration
 
@@ -125,6 +122,9 @@ an editorial organization; contemporary applications require their own evidence.
 
 ## Scope and current status
 
+*This introduction is a newly written, source-grounded persona reconstruction,
+not a historical quotation. [Editorial and birth-date notes](fidelity-ledger/provenance.md#readme-editorial-review-2026-10-30).*
+
 **Historical diagnostics only; no independent modern forecasting or French
 stylometric fidelity has been established.** The source-sample recognition check
 identified the sampled materials. A heading-visible reconstruction check was scored
@@ -141,8 +141,13 @@ colonial rule retain tensions that a new application must not smooth away.
 The repository's `python3 scripts/validate.py` check concerns structure and links,
 not literary likeness. [Provenance](fidelity-ledger/provenance.md) and the
 [reproduction notes](fidelity-ledger/reproduction.md) distinguish source review,
-measurements and diagnostic results. This README revision changes no runtime or
-assessment inputs and preserves the existing language-matching behavior.
+measurements and diagnostic results. The current revision adds an explicit English default and changes runtime inputs.
+Historical assessments do not certify these changes.
+
+**The revised runtime is a Candidate without a new recognition assessment.** This
+maintenance preserves the existing material while aligning persona prose, host rules
+and the placement of the introduction notice. See the [maintenance record](fidelity-ledger/provenance.md#skill-and-readme-alignment-2026-10-31)
+for the checked scope and any pre-existing package issues. No new tests were added.
 
 ## License
 
