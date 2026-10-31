@@ -163,3 +163,14 @@ documentation pass, not a current package pass. Existing layout/runtime-route
 issues remain outside this README task. Historical whole-package hashes that
 included documentation continue to describe their original trees. Recognition
 calls remain **0**.
+
+## CI maintenance review — 2026-10-31
+
+The September activation change altered the core and both standing references after
+the last maintenance fingerprint. The current-runtime fingerprint now reflects that
+reviewed change; the assessed content hash, scores, samples and stale status remain
+historical. The [maintenance record](maintenance-2026-10-31.json) identifies both
+versions. The [previous record](history/2026-10-31-before-ci-repair.json) is preserved
+byte for byte. The validator still rejects unrecorded runtime edits. No model calls.
+
+The existing runtime, source-ID, arithmetic and sample checks pass against the reviewed version.

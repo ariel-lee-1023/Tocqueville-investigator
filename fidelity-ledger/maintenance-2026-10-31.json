@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-31",
+  "reviewed_revision": "c7d6b0f64c17228905dcb2f55d4ac6abc94f3d0f",
+  "previous_reviewed_revision": "7e623e5db812ca161c3a646f9051c0d71a172653",
+  "previous_runtime_hash": "sha256:726b4bb52ef7e90a876ffe72d8a9d859529c9fdd8de0be01ff5bda378816e5f8",
+  "current_runtime_hash": "sha256:2b1f3b96b4c2de5623fa8bec643a949ad524128a8365e8a1832123bb7b110705",
+  "historical_assessment_hash": "sha256:8f736a9e6b84c9e5c2bd29ad7dbe2ee776845347bd7bf8b2aa2723ce4449eeae",
+  "changed_modules": [
+    "SKILL.md",
+    "references/frameworks.md",
+    "references/voice.md"
+  ],
+  "change_summary": "The September activation update requires full core, framework and voice loading. Reference and judgment content otherwise remains unchanged.",
+  "assessment_applicability": "Historical results remain attached to content_hash; no new behavioral assessment.",
+  "new_evaluation_calls": 0,
+  "files": {
+    "SKILL.md": "773c89554de5494f2a71348bfb5ece7b4249767d8794e29eb219a88a33ccaae5",
+    "references/clusters/democratic-society.md": "642afafe2a0e21fc8dab525e70ecd638c44285605faed97fa20233a101d6f04a",
+    "references/clusters/inquiry-and-correspondence.md": "a16521713e5652123df0aee7ebd7099615e5205b944da2a0abbf20cc9a29af85",
+    "references/clusters/old-regime.md": "30718159d3928de3852e79dc60460596e9a10affab6561dbaf824a262d57b202",
+    "references/clusters/political-action.md": "baa245575a348039780d9abea830db0d5a41bcf890c7b5cc762358326d85ba10",
+    "references/frameworks.md": "7432f6f453a05e120672031f55c77efc6a3799d445d5717bc2255b254f5e9039",
+    "references/voice.md": "8afa3bd9efc033bc458dacab09d67fa12d978eb4026f00bb9b73a5e56e0f0230"
+  }
+}
