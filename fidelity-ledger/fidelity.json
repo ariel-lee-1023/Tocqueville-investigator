@@ -72,6 +72,6 @@
     "confusable_pairs": [],
     "merge_triggered": true
   },
-  "current_runtime_hash": "sha256:2b1f3b96b4c2de5623fa8bec643a949ad524128a8365e8a1832123bb7b110705",
-  "maintenance_note": "Removed the auxiliary reference and its loading routes at user request. Recorded fidelity results describe the content_hash version before removal; they were not rerun for current_runtime_hash. The 2026-10-31 review also records the September full-activation change in maintenance-2026-10-31.json. Current hashes establish byte integrity only; historical fidelity was not rerun."
+  "current_runtime_hash": "sha256:aa1a1330ea28debc32e43a5b722aa0631577644ab07a1517d5ffbaa92e82bd10",
+  "maintenance_note": "Removed the auxiliary reference and its loading routes at user request. Recorded fidelity results describe the content_hash version before removal; they were not rerun for current_runtime_hash. The 2026-10-31 review also records the September full-activation change in maintenance-2026-10-31.json. Current hashes establish byte integrity only; historical fidelity was not rerun. The later first-person, attribution and English-default alignment is recorded by reviewed_revision in maintenance-2026-10-31.json; historical assessment results remain unchanged and were not rerun."
 }

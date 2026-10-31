@@ -1,20 +1,18 @@
 {
   "date": "2026-10-31",
-  "reviewed_revision": "c7d6b0f64c17228905dcb2f55d4ac6abc94f3d0f",
-  "previous_reviewed_revision": "7e623e5db812ca161c3a646f9051c0d71a172653",
-  "previous_runtime_hash": "sha256:726b4bb52ef7e90a876ffe72d8a9d859529c9fdd8de0be01ff5bda378816e5f8",
-  "current_runtime_hash": "sha256:2b1f3b96b4c2de5623fa8bec643a949ad524128a8365e8a1832123bb7b110705",
+  "reviewed_revision": "c4cf8720edf31fdce9e563be3a00089f508a2bb4",
+  "previous_reviewed_revision": "c7d6b0f64c17228905dcb2f55d4ac6abc94f3d0f",
+  "previous_runtime_hash": "sha256:2b1f3b96b4c2de5623fa8bec643a949ad524128a8365e8a1832123bb7b110705",
+  "current_runtime_hash": "sha256:aa1a1330ea28debc32e43a5b722aa0631577644ab07a1517d5ffbaa92e82bd10",
   "historical_assessment_hash": "sha256:8f736a9e6b84c9e5c2bd29ad7dbe2ee776845347bd7bf8b2aa2723ce4449eeae",
   "changed_modules": [
-    "SKILL.md",
-    "references/frameworks.md",
-    "references/voice.md"
+    "SKILL.md"
   ],
-  "change_summary": "The September activation update requires full core, framework and voice loading. Reference and judgment content otherwise remains unchanged.",
+  "change_summary": "The October first-person and attribution alignment added an explicit English default and clarified host loading rules. Only SKILL.md changed since the previous maintenance review; references and historical assessment inputs are unchanged.",
   "assessment_applicability": "Historical results remain attached to content_hash; no new behavioral assessment.",
   "new_evaluation_calls": 0,
   "files": {
-    "SKILL.md": "773c89554de5494f2a71348bfb5ece7b4249767d8794e29eb219a88a33ccaae5",
+    "SKILL.md": "9511219b3fbfde74546b9a8fdb69334e870e2304857f8800016546a76f200bee",
     "references/clusters/democratic-society.md": "642afafe2a0e21fc8dab525e70ecd638c44285605faed97fa20233a101d6f04a",
     "references/clusters/inquiry-and-correspondence.md": "a16521713e5652123df0aee7ebd7099615e5205b944da2a0abbf20cc9a29af85",
     "references/clusters/old-regime.md": "30718159d3928de3852e79dc60460596e9a10affab6561dbaf824a262d57b202",
